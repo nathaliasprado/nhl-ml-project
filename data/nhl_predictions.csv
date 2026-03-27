@@ -1,0 +1,2158 @@
+year,overall_pick,round,team,player,position,nationality,amateur_league,points_per_game,prediction,probability,prediction_label
+2015,1,1,Edmonton Oilers,Connor McDavid,F,CAN,OHL,1.72,1,1.0,Vai jogar 100+
+2015,2,1,Buffalo Sabres,Jack Eichel,F,USA,USDP,1.34,1,1.0,Vai jogar 100+
+2015,3,1,Arizona Coyotes,Dylan Strome,F,CAN,OHL,1.62,1,0.99,Vai jogar 100+
+2015,4,1,Toronto Maple Leafs,Mitchell Marner,F,CAN,OHL,1.64,1,1.0,Vai jogar 100+
+2015,5,1,Carolina Hurricanes,Noah Hanifin,D,USA,USHS-Prep,0.77,1,1.0,Vai jogar 100+
+2015,6,1,New Jersey Devils,Pavel Zacha,F,CZE,OHL,0.84,1,0.98,Vai jogar 100+
+2015,7,1,Philadelphia Flyers,Ivan Provorov,D,RUS,WHL,0.86,1,1.0,Vai jogar 100+
+2015,8,1,Columbus Blue Jackets,Zach Werenski,D,USA,NCAA,0.71,1,0.99,Vai jogar 100+
+2015,9,1,San Jose Sharks,Timo Meier,F,CHE,QMJHL,1.18,1,1.0,Vai jogar 100+
+2015,10,1,Colorado Avalanche,Mikko Rantanen,F,FIN,Liiga,0.37,1,0.83,Vai jogar 100+
+2015,11,1,Florida Panthers,Lawson Crouse,F,CAN,OHL,0.83,1,0.95,Vai jogar 100+
+2015,12,1,Dallas Stars,Denis Guryanov,F,RUS,KHL,0.46,1,1.0,Vai jogar 100+
+2015,13,1,Boston Bruins,Jakub Zboril,D,CZE,QMJHL,0.54,1,1.0,Vai jogar 100+
+2015,14,1,Boston Bruins,Jake DeBrusk,F,CAN,WHL,0.9,1,0.98,Vai jogar 100+
+2015,15,1,Boston Bruins,Zach Senyshyn,F,CAN,OHL,0.79,1,1.0,Vai jogar 100+
+2015,16,1,New York Islanders,Mathew Barzal,F,CAN,WHL,1.38,1,1.0,Vai jogar 100+
+2015,17,1,Winnipeg Jets,Kyle Connor,F,USA,USHL,1.25,1,0.97,Vai jogar 100+
+2015,18,1,Ottawa Senators,Thomas Chabot,D,CAN,QMJHL,0.76,1,1.0,Vai jogar 100+
+2015,19,1,Detroit Red Wings,Yevgeni Svechnikov,F,RUS,KHL,0.87,1,1.0,Vai jogar 100+
+2015,20,1,Minnesota Wild,Joel Eriksson Ek,F,SWE,SHL,0.53,1,0.98,Vai jogar 100+
+2015,21,1,Ottawa Senators,Colin White,F,USA,USDP,1.11,1,1.0,Vai jogar 100+
+2015,23,1,Vancouver Canucks,Brock Boeser,F,USA,NCAA,1.35,1,1.0,Vai jogar 100+
+2015,24,1,Philadelphia Flyers,Travis Konecny,F,CAN,OHL,1.31,1,1.0,Vai jogar 100+
+2015,25,1,Winnipeg Jets,Jack Roslovic,F,USA,USDP,0.88,1,1.0,Vai jogar 100+
+2015,26,1,Montréal Canadiens,Noah Juulsen,D,CAN,WHL,0.52,1,1.0,Vai jogar 100+
+2015,27,1,Anaheim Ducks,Jacob Larsson,D,SWE,SHL,0.39,1,1.0,Vai jogar 100+
+2015,28,1,New York Islanders,Anthony Beauvillier,F,CAN,QMJHL,1.16,1,1.0,Vai jogar 100+
+2015,29,1,Columbus Blue Jackets,Gabriel Carlsson,D,SWE,SHL,0.28,1,1.0,Vai jogar 100+
+2015,30,1,Arizona Coyotes,Nick Merkley,F,CAN,KHL,0.78,1,1.0,Vai jogar 100+
+2015,31,2,San Jose Sharks,Jérémy Roy,D,CAN,KHL,0.55,1,1.0,Vai jogar 100+
+2015,32,2,Arizona Coyotes,Christian Fischer,F,USA,USDP,1.02,1,1.0,Vai jogar 100+
+2015,33,2,Tampa Bay Lightning,Mitchell Stephens,F,CAN,OHL,0.77,1,0.96,Vai jogar 100+
+2015,34,2,Toronto Maple Leafs,Travis Dermott,D,CAN,OHL,0.65,1,1.0,Vai jogar 100+
+2015,35,2,Carolina Hurricanes,Sebastian Aho,F,FIN,Liiga,0.76,0,0.05,Não vai jogar 100+
+2015,36,2,Ottawa Senators,Gabriel Gagné,F,CAN,QMJHL,0.75,1,1.0,Vai jogar 100+
+2015,37,2,Boston Bruins,Brandon Carlo,D,USA,WHL,0.35,1,1.0,Vai jogar 100+
+2015,38,2,Columbus Blue Jackets,Paul Bittner,F,USA,WHL,0.71,1,1.0,Vai jogar 100+
+2015,39,2,Colorado Avalanche,A.J. Greer,F,CAN,USHS-Prep,0.91,1,1.0,Vai jogar 100+
+2015,40,2,Colorado Avalanche,Nicolas Meloche,D,CAN,QMJHL,0.48,1,1.0,Vai jogar 100+
+2015,41,2,New York Rangers,Ryan Gropp,F,CAN,WHL,0.85,1,1.0,Vai jogar 100+
+2015,43,2,Los Angeles Kings,Erik Cernak,D,SVK,OHL,0.31,1,0.88,Vai jogar 100+
+2015,44,2,Tampa Bay Lightning,Matt Spencer,D,CAN,OHL,0.39,1,1.0,Vai jogar 100+
+2015,45,2,Boston Bruins,Jakob Forsbacka Karlsson,F,SWE,USHL,0.62,1,1.0,Vai jogar 100+
+2015,46,2,Pittsburgh Penguins,Daniel Sprong,F,NLD,QMJHL,1.29,1,1.0,Vai jogar 100+
+2015,47,2,Winnipeg Jets,Jansen Harkins,F,CAN,WHL,0.88,1,1.0,Vai jogar 100+
+2015,48,2,Ottawa Senators,Filip Chlapík,F,CZE,Czechia,1.11,1,1.0,Vai jogar 100+
+2015,49,2,Dallas Stars,Roope Hintz,F,FIN,Liiga,0.53,1,0.93,Vai jogar 100+
+2015,50,2,Minnesota Wild,Jordan Greenway,F,USA,NCAA,0.82,1,1.0,Vai jogar 100+
+2015,51,2,Buffalo Sabres,Brendan Guhle,D,CAN,WHL,0.43,1,1.0,Vai jogar 100+
+2015,52,2,Boston Bruins,Jérémy Lauzon,D,CAN,QMJHL,0.65,1,1.0,Vai jogar 100+
+2015,53,2,Calgary Flames,Rasmus Andersson,D,SWE,OHL,0.67,1,1.0,Vai jogar 100+
+2015,54,2,Chicago Blackhawks,Graham Knott,F,CAN,OHL,0.64,1,1.0,Vai jogar 100+
+2015,55,2,Nashville Predators,Yakov Trenin,F,RUS,QMJHL,1.02,1,1.0,Vai jogar 100+
+2015,56,2,St. Louis Blues,Vince Dunn,D,CAN,OHL,0.72,1,1.0,Vai jogar 100+
+2015,57,2,Washington Capitals,Jonas Siegenthaler,D,CHE,NL,0.16,1,0.99,Vai jogar 100+
+2015,58,2,Columbus Blue Jackets,Kevin Stenlund,F,SWE,SHL,0.51,1,0.99,Vai jogar 100+
+2015,59,2,Anaheim Ducks,Julius Nättinen,F,FIN,Liiga,0.85,1,1.0,Vai jogar 100+
+2015,60,2,Calgary Flames,Oliver Kylington,D,SWE,SHL,0.41,1,0.98,Vai jogar 100+
+2015,61,2,Toronto Maple Leafs,Jeremy Bracco,F,USA,USDP,1.15,1,1.0,Vai jogar 100+
+2015,62,3,New York Rangers,Robin Kovács,F,SWE,SHL,0.7,1,1.0,Vai jogar 100+
+2015,63,3,Arizona Coyotes,Kyle Capobianco,D,CAN,OHL,0.56,1,1.0,Vai jogar 100+
+2015,64,3,Tampa Bay Lightning,Denis Yan,F,RUS,KHL,0.72,1,1.0,Vai jogar 100+
+2015,65,3,Toronto Maple Leafs,Andrew Nielsen,D,CAN,WHL,0.67,1,1.0,Vai jogar 100+
+2015,66,3,Vancouver Canucks,Guillaume Brisebois,D,CAN,QMJHL,0.51,1,0.99,Vai jogar 100+
+2015,67,3,New Jersey Devils,Blake Speers,F,CAN,OHL,0.9,1,1.0,Vai jogar 100+
+2015,68,3,Toronto Maple Leafs,Martins Dzierkals,F,LVA,Czechia,0.53,1,1.0,Vai jogar 100+
+2015,69,3,Columbus Blue Jackets,Keegan Kolesar,F,CAN,WHL,0.69,1,1.0,Vai jogar 100+
+2015,71,3,Colorado Avalanche,Jean-Christophe Beaudin,F,CAN,QMJHL,0.81,1,1.0,Vai jogar 100+
+2015,72,3,Tampa Bay Lightning,Anthony Cirelli,F,CAN,OHL,0.88,1,1.0,Vai jogar 100+
+2015,73,3,Detroit Red Wings,Vili Saarijärvi,D,FIN,NL,0.69,1,1.0,Vai jogar 100+
+2015,74,3,Los Angeles Kings,Alexander Dergachyov,F,RUS,KHL,0.38,1,0.99,Vai jogar 100+
+2015,78,3,Winnipeg Jets,Erik Foley,F,USA,NCAA,0.94,1,1.0,Vai jogar 100+
+2015,79,3,New York Rangers,Sergei Zborovsky,D,RUS,KHL,0.26,1,1.0,Vai jogar 100+
+2015,80,3,Anaheim Ducks,Brent Gates,F,USA,NCAA,0.64,1,1.0,Vai jogar 100+
+2015,81,3,Arizona Coyotes,Brendan Warren,F,USA,NCAA,0.49,1,1.0,Vai jogar 100+
+2015,82,3,New York Islanders,Mitchell Vande Sompel,D,CAN,OHL,0.8,1,1.0,Vai jogar 100+
+2015,83,3,Arizona Coyotes,Jens Lööke,F,SWE,Liiga,0.71,1,1.0,Vai jogar 100+
+2015,84,3,Anaheim Ducks,Deven Sideroff,F,CAN,WHL,0.79,1,1.0,Vai jogar 100+
+2015,85,3,Nashville Predators,Tommy Novak,F,USA,NCAA,1.13,1,1.0,Vai jogar 100+
+2015,87,3,Montréal Canadiens,Lukas Vejdemo,F,SWE,SHL,0.5,1,1.0,Vai jogar 100+
+2015,88,3,Florida Panthers,Thomas Schemitsch,D,CAN,OHL,0.52,1,1.0,Vai jogar 100+
+2015,89,3,New York Rangers,Aleksi Saarela,F,FIN,Liiga,0.64,1,1.0,Vai jogar 100+
+2015,91,3,Chicago Blackhawks,Dennis Gilbert,D,USA,NCAA,0.39,1,1.0,Vai jogar 100+
+2015,92,4,Buffalo Sabres,Will Borgen,D,USA,NCAA,0.56,1,1.0,Vai jogar 100+
+2015,94,4,St. Louis Blues,Adam Musil,F,CZE,Czechia,0.56,1,1.0,Vai jogar 100+
+2015,95,4,Toronto Maple Leafs,Jesper Lindgren,D,SWE,HockeyAllsvenskan,0.51,1,1.0,Vai jogar 100+
+2015,96,4,Carolina Hurricanes,Nicolas Roy,F,CAN,QMJHL,1.06,1,1.0,Vai jogar 100+
+2015,97,4,New Jersey Devils,Colton White,D,CAN,OHL,0.36,1,1.0,Vai jogar 100+
+2015,98,4,Philadelphia Flyers,Samuel Dove-McFalls,F,CAN,QMJHL,0.67,1,1.0,Vai jogar 100+
+2015,99,4,Los Angeles Kings,Austin Wagner,F,CAN,WHL,0.6,1,1.0,Vai jogar 100+
+2015,100,4,Nashville Predators,Anthony Richard,F,CAN,QMJHL,1.03,1,1.0,Vai jogar 100+
+2015,101,4,Colorado Avalanche,Andrei Mironov,D,RUS,KHL,0.29,1,1.0,Vai jogar 100+
+2015,102,4,Florida Panthers,Denis Malgin,F,CHE,NL,0.86,1,1.0,Vai jogar 100+
+2015,103,4,Dallas Stars,Chris Martenet,D,USA,OHL,0.2,1,1.0,Vai jogar 100+
+2015,104,4,Philadelphia Flyers,Mikhail Vorobyov,F,RUS,KHL,0.53,1,1.0,Vai jogar 100+
+2015,105,4,Boston Bruins,Jesse Gabrielle,F,CAN,WHL,0.89,1,1.0,Vai jogar 100+
+2015,106,4,San Jose Sharks,Adam Helewka,F,CAN,WHL,0.83,1,1.0,Vai jogar 100+
+2015,107,4,Ottawa Senators,Christian Wolanin,D,USA,USHL,0.54,1,1.0,Vai jogar 100+
+2015,108,4,Winnipeg Jets,Michael Spacek,F,CZE,Czechia,0.93,1,1.0,Vai jogar 100+
+2015,109,4,Ottawa Senators,Filip Ahl,F,SWE,HockeyAllsvenskan,0.74,1,1.0,Vai jogar 100+
+2015,112,4,New York Islanders,Parker Wotherspoon,D,CAN,WHL,0.65,1,1.0,Vai jogar 100+
+2015,113,4,New York Rangers,Brad Morrison,F,CAN,WHL,0.78,1,1.0,Vai jogar 100+
+2015,114,4,Vancouver Canucks,Dmitry Zhukenov,F,RUS,KHL,0.57,1,1.0,Vai jogar 100+
+2015,115,4,Nashville Predators,Alexandre Carrier,D,CAN,QMJHL,0.57,1,1.0,Vai jogar 100+
+2015,116,4,St. Louis Blues,Glenn Gawdin,F,CAN,WHL,1.0,1,1.0,Vai jogar 100+
+2015,117,4,Edmonton Oilers,Caleb Jones,D,USA,WHL,0.55,1,1.0,Vai jogar 100+
+2015,118,4,Tampa Bay Lightning,Jonne Tammela,F,FIN,Liiga,0.48,1,1.0,Vai jogar 100+
+2015,119,4,New York Rangers,Daniel Bernhardt,F,SWE,SuperElit,0.58,1,0.96,Vai jogar 100+
+2015,120,4,Tampa Bay Lightning,Mathieu Joseph,F,CAN,QMJHL,1.02,1,1.0,Vai jogar 100+
+2015,121,4,Chicago Blackhawks,Ryan Shea,D,USA,NCAA,0.63,1,1.0,Vai jogar 100+
+2015,122,5,Buffalo Sabres,Devante Stephens,D,CAN,WHL,0.28,1,1.0,Vai jogar 100+
+2015,123,5,Arizona Coyotes,Conor Garland,F,USA,QMJHL,1.56,1,1.0,Vai jogar 100+
+2015,124,5,Edmonton Oilers,Ethan Bear,D,CAN,WHL,0.73,1,1.0,Vai jogar 100+
+2015,125,5,Toronto Maple Leafs,Dmytro Timashov,F,SWE,QMJHL,0.81,1,1.0,Vai jogar 100+
+2015,126,5,Carolina Hurricanes,Luke Stevens,F,USA,NCAA,0.78,1,0.99,Vai jogar 100+
+2015,127,5,St. Louis Blues,Niko Mikkola,D,FIN,Liiga,0.21,1,1.0,Vai jogar 100+
+2015,128,5,Philadelphia Flyers,David Kase,F,CZE,Czechia,0.6,1,1.0,Vai jogar 100+
+2015,129,5,Columbus Blue Jackets,Sam Ruopp,D,CAN,WHL,0.35,1,1.0,Vai jogar 100+
+2015,130,5,San Jose Sharks,Karlis Cukste,D,LVA,NCAA,0.32,1,1.0,Vai jogar 100+
+2015,131,5,Montréal Canadiens,Matt Bradley,F,ITA,WHL,0.82,1,1.0,Vai jogar 100+
+2015,132,5,Florida Panthers,Karch Bachman,F,USA,NCAA,0.73,1,1.0,Vai jogar 100+
+2015,133,5,Dallas Stars,Joseph Cecconi,D,USA,NCAA,0.35,1,1.0,Vai jogar 100+
+2015,134,5,Los Angeles Kings,Matt Schmalz,F,CAN,OHL,0.39,1,1.0,Vai jogar 100+
+2015,135,5,Minnesota Wild,Kirill Kaprizov,F,RUS,KHL,0.78,1,1.0,Vai jogar 100+
+2015,136,5,Calgary Flames,Pavel Karnaukhov,F,BLR,KHL,0.41,1,1.0,Vai jogar 100+
+2015,137,5,Pittsburgh Penguins,Dominik Simon,F,CZE,Czechia,0.37,1,0.99,Vai jogar 100+
+2015,138,5,Carolina Hurricanes,Spencer Smallman,F,CAN,QMJHL,0.76,1,1.0,Vai jogar 100+
+2015,139,5,Ottawa Senators,Christian Jaros,D,SVK,KHL,0.3,1,1.0,Vai jogar 100+
+2015,140,5,Detroit Red Wings,Chase Pearson,F,USA,USHL,0.75,1,1.0,Vai jogar 100+
+2015,141,5,Columbus Blue Jackets,Veeti Vainio,D,FIN,Liiga,0.28,1,1.0,Vai jogar 100+
+2015,142,5,San Jose Sharks,Rudolfs Balcers,F,LVA,NL,0.89,1,0.98,Vai jogar 100+
+2015,143,5,Washington Capitals,Connor Hobbs,D,CAN,WHL,0.82,1,1.0,Vai jogar 100+
+2015,144,5,Vancouver Canucks,Carl Neill,D,CAN,QMJHL,0.6,1,1.0,Vai jogar 100+
+2015,147,5,New York Islanders,Ryan Pilon,D,CAN,WHL,0.6,1,1.0,Vai jogar 100+
+2015,148,5,Anaheim Ducks,Troy Terry,F,USA,NCAA,0.84,1,1.0,Vai jogar 100+
+2015,149,5,Vancouver Canucks,Adam Gaudette,F,USA,NCAA,1.12,1,1.0,Vai jogar 100+
+2015,150,5,Tampa Bay Lightning,Ryan Zuhlsdorf,D,USA,NCAA,0.34,1,1.0,Vai jogar 100+
+2015,151,5,Chicago Blackhawks,Radovan Bondra,F,SVK,Slovakia,0.61,1,0.98,Vai jogar 100+
+2015,152,6,Buffalo Sabres,Giorgio Estephan,F,CAN,WHL,0.85,1,1.0,Vai jogar 100+
+2015,154,6,Edmonton Oilers,John Marino,D,USA,NCAA,0.46,1,1.0,Vai jogar 100+
+2015,155,6,Toronto Maple Leafs,Stephen Desrocher,D,CAN,OHL,0.53,1,1.0,Vai jogar 100+
+2015,156,6,Carolina Hurricanes,Jake Massie,D,CAN,NCAA,0.32,1,1.0,Vai jogar 100+
+2015,157,6,New Jersey Devils,Brett Seney,F,CAN,NCAA,0.83,1,1.0,Vai jogar 100+
+2015,158,6,Philadelphia Flyers,Cooper Marody,F,USA,USHL,0.89,1,1.0,Vai jogar 100+
+2015,159,6,Columbus Blue Jackets,Vladislav Gavrikov,D,RUS,KHL,0.22,1,1.0,Vai jogar 100+
+2015,160,6,San Jose Sharks,Adam Parsells,D,USA,USHL,0.19,0,0.29,Não vai jogar 100+
+2015,161,6,Colorado Avalanche,Sergei Boikov,D,RUS,KHL,0.21,1,1.0,Vai jogar 100+
+2015,162,6,Florida Panthers,Chris Wilkie,F,USA,DEL,0.63,1,1.0,Vai jogar 100+
+2015,164,6,Chicago Blackhawks,Roy Radke,F,USA,OHL,0.54,1,1.0,Vai jogar 100+
+2015,165,6,Boston Bruins,Cameron Hughes,F,CAN,NCAA,0.66,1,1.0,Vai jogar 100+
+2015,166,6,Calgary Flames,Andrew Mangiapane,F,CAN,OHL,1.34,1,1.0,Vai jogar 100+
+2015,167,6,Pittsburgh Penguins,Frederik Tiffels,F,DEU,DEL,0.7,1,0.99,Vai jogar 100+
+2015,168,6,Winnipeg Jets,Mason Appleton,F,USA,NCAA,0.74,1,0.93,Vai jogar 100+
+2015,169,6,Carolina Hurricanes,David Cotton,F,USA,NCAA,1.06,1,1.0,Vai jogar 100+
+2015,170,6,Detroit Red Wings,Patrick Holway,D,USA,NCAA,0.42,1,1.0,Vai jogar 100+
+2015,171,6,Minnesota Wild,Nick Boka,D,USA,NCAA,0.25,1,1.0,Vai jogar 100+
+2015,172,6,New York Islanders,Andong Song,D,CHN,USHL,0.19,1,0.81,Vai jogar 100+
+2015,173,6,Washington Capitals,Colby Williams,D,CAN,KHL,0.36,1,1.0,Vai jogar 100+
+2015,174,6,Vancouver Canucks,Lukas Jasek,F,CZE,Liiga,0.53,1,1.0,Vai jogar 100+
+2015,175,6,Nashville Predators,Tyler Moy,F,CHE,NL,0.64,1,1.0,Vai jogar 100+
+2015,176,6,St. Louis Blues,Liam Dunda,F,CAN,OHL,0.25,1,1.0,Vai jogar 100+
+2015,177,6,Montréal Canadiens,Simon Bourque,D,CAN,QMJHL,0.6,1,1.0,Vai jogar 100+
+2015,178,6,Anaheim Ducks,Steven Ruggiero,D,USA,USHL,0.2,1,1.0,Vai jogar 100+
+2015,180,6,Tampa Bay Lightning,Bokondji Imama,F,CAN,QMJHL,0.45,1,1.0,Vai jogar 100+
+2015,181,6,Chicago Blackhawks,Joni Tuulola,D,FIN,Liiga,0.32,1,1.0,Vai jogar 100+
+2015,182,7,Buffalo Sabres,Ivan Chukarov,D,USA,NCAA,0.2,1,1.0,Vai jogar 100+
+2015,185,7,Toronto Maple Leafs,Nikita Korostelyov,F,RUS,KHL,0.73,1,1.0,Vai jogar 100+
+2015,186,7,Carolina Hurricanes,Steven Lorentz,F,CAN,OHL,0.66,1,1.0,Vai jogar 100+
+2015,187,7,Los Angeles Kings,Chaz Reddekopp,D,CAN,WHL,0.48,1,1.0,Vai jogar 100+
+2015,189,7,Columbus Blue Jackets,Markus Nutivaara,D,FIN,Liiga,0.34,1,0.96,Vai jogar 100+
+2015,190,7,San Jose Sharks,Marcus Vela,F,CAN,NCAA,0.58,1,1.0,Vai jogar 100+
+2015,191,7,Colorado Avalanche,Gustav Olhaver,F,SWE,HockeyAllsvenskan,0.34,1,1.0,Vai jogar 100+
+2015,192,7,Florida Panthers,Patrick Shea,F,USA,NCAA,0.81,1,1.0,Vai jogar 100+
+2015,194,7,Los Angeles Kings,Matt Roy,D,USA,NCAA,0.45,1,1.0,Vai jogar 100+
+2015,195,7,Boston Bruins,Jack Becker,F,USA,NCAA,0.69,1,1.0,Vai jogar 100+
+2015,196,7,Calgary Flames,Riley Bruce,D,CAN,OHL,0.16,1,1.0,Vai jogar 100+
+2015,197,7,Pittsburgh Penguins,Nikita Pavlychev,F,RUS,NCAA,0.45,1,1.0,Vai jogar 100+
+2015,198,7,Winnipeg Jets,Sami Niku,D,FIN,Liiga,0.58,1,1.0,Vai jogar 100+
+2015,200,7,Detroit Red Wings,Adam Marsh,F,USA,QMJHL,0.8,1,1.0,Vai jogar 100+
+2015,201,7,Minnesota Wild,Gustav Bouramman,D,SWE,OHL,0.54,1,1.0,Vai jogar 100+
+2015,202,7,New York Islanders,Petter Hansson,D,SWE,HockeyAllsvenskan,0.26,1,1.0,Vai jogar 100+
+2015,203,7,Winnipeg Jets,Matteo Gennaro,F,ITA,WHL,0.68,1,1.0,Vai jogar 100+
+2015,204,7,Minnesota Wild,Jack Sadek,D,USA,NCAA,0.42,1,1.0,Vai jogar 100+
+2015,207,7,Montréal Canadiens,Jeremiah Addison,F,CAN,OHL,0.58,1,1.0,Vai jogar 100+
+2015,209,7,Edmonton Oilers,Ziyat Paigin,D,RUS,KHL,0.26,1,1.0,Vai jogar 100+
+2015,210,7,Vancouver Canucks,Tate Olson,D,CAN,WHL,0.43,1,1.0,Vai jogar 100+
+2015,211,7,Chicago Blackhawks,John Dahlström,F,SWE,SHL,0.49,1,1.0,Vai jogar 100+
+2016,1,1,Toronto Maple Leafs,Auston Matthews,F,USA,USDP,1.53,1,1.0,Vai jogar 100+
+2016,2,1,Winnipeg Jets,Patrik Laine,F,FIN,Liiga,0.65,0,0.0,Não vai jogar 100+
+2016,3,1,Columbus Blue Jackets,Pierre-Luc Dubois,F,CAN,QMJHL,1.21,1,1.0,Vai jogar 100+
+2016,4,1,Edmonton Oilers,Jesse Puljujärvi,F,FIN,Liiga,0.8,1,0.99,Vai jogar 100+
+2016,5,1,Vancouver Canucks,Olli Juolevi,D,FIN,OHL,0.51,1,1.0,Vai jogar 100+
+2016,6,1,Calgary Flames,Matthew Tkachuk,F,USA,USDP,1.23,1,1.0,Vai jogar 100+
+2016,7,1,Arizona Coyotes,Clayton Keller,F,USA,USDP,1.48,1,1.0,Vai jogar 100+
+2016,8,1,Buffalo Sabres,Alexander Nylander,F,SWE,OHL,1.13,1,0.77,Vai jogar 100+
+2016,9,1,Montréal Canadiens,Mikhail Sergachyov,D,RUS,OHL,0.76,1,1.0,Vai jogar 100+
+2016,10,1,Colorado Avalanche,Tyson Jost,F,CAN,NCAA,1.06,0,0.04,Não vai jogar 100+
+2016,11,1,Ottawa Senators,Logan Brown,F,USA,OHL,1.14,1,1.0,Vai jogar 100+
+2016,12,1,New Jersey Devils,Michael McLeod,F,CAN,OHL,0.9,1,1.0,Vai jogar 100+
+2016,13,1,Carolina Hurricanes,Jake Bean,D,CAN,WHL,0.89,1,1.0,Vai jogar 100+
+2016,14,1,Boston Bruins,Charlie McAvoy,D,USA,USDP,0.56,1,1.0,Vai jogar 100+
+2016,15,1,Minnesota Wild,Luke Kunin,F,USA,USDP,0.8,1,1.0,Vai jogar 100+
+2016,16,1,Arizona Coyotes,Jakob Chychrun,D,CAN,OHL,0.79,1,1.0,Vai jogar 100+
+2016,17,1,Nashville Predators,Dante Fabbro,D,CAN,NCAA,0.71,1,0.82,Vai jogar 100+
+2016,18,1,Winnipeg Jets,Logan Stanley,D,CAN,OHL,0.37,1,1.0,Vai jogar 100+
+2016,19,1,New York Islanders,Kieffer Bellows,F,USA,USHL,1.0,1,1.0,Vai jogar 100+
+2016,20,1,Detroit Red Wings,Dennis Cholowski,D,CAN,WHL,0.74,1,0.75,Vai jogar 100+
+2016,21,1,Carolina Hurricanes,Julien Gauthier,F,CAN,QMJHL,0.93,1,1.0,Vai jogar 100+
+2016,22,1,Philadelphia Flyers,German Rubtsov,F,RUS,KHL,0.52,1,1.0,Vai jogar 100+
+2016,23,1,Florida Panthers,Henrik Borgström,F,FIN,SHL,0.92,1,1.0,Vai jogar 100+
+2016,24,1,Anaheim Ducks,Max Jones,F,USA,OHL,0.79,1,1.0,Vai jogar 100+
+2016,25,1,Dallas Stars,Riley Tufte,F,USA,NCAA,0.97,1,1.0,Vai jogar 100+
+2016,26,1,St. Louis Blues,Tage Thompson,F,USA,NCAA,0.65,1,1.0,Vai jogar 100+
+2016,27,1,Tampa Bay Lightning,Brett Howden,F,CAN,WHL,1.08,1,1.0,Vai jogar 100+
+2016,28,1,Washington Capitals,Lucas Johansen,D,CAN,WHL,0.49,1,0.9,Vai jogar 100+
+2016,29,1,Boston Bruins,Trent Frederic,F,USA,USDP,0.57,1,1.0,Vai jogar 100+
+2016,30,1,Anaheim Ducks,Sam Steel,F,CAN,WHL,1.31,1,1.0,Vai jogar 100+
+2016,31,2,Toronto Maple Leafs,Yegor Korshkov,F,RUS,KHL,0.5,1,1.0,Vai jogar 100+
+2016,32,2,Edmonton Oilers,Tyler Benson,F,CAN,WHL,0.83,1,1.0,Vai jogar 100+
+2016,33,2,Buffalo Sabres,Rasmus Asplund,F,SWE,SHL,0.51,1,0.97,Vai jogar 100+
+2016,34,2,Columbus Blue Jackets,Andrew Peeke,D,USA,NCAA,0.47,1,1.0,Vai jogar 100+
+2016,35,2,St. Louis Blues,Jordan Kyrou,F,CAN,OHL,1.16,1,1.0,Vai jogar 100+
+2016,36,2,Philadelphia Flyers,Pascal Laberge,F,CAN,QMJHL,0.79,1,1.0,Vai jogar 100+
+2016,37,2,Tampa Bay Lightning,Libor Hájek,D,CZE,WHL,0.38,1,1.0,Vai jogar 100+
+2016,38,2,Florida Panthers,Adam Mascherin,F,CAN,OHL,1.05,1,1.0,Vai jogar 100+
+2016,39,2,Chicago Blackhawks,Alex DeBrincat,F,USA,OHL,1.84,1,1.0,Vai jogar 100+
+2016,40,2,Colorado Avalanche,Cam Morrison,F,CAN,NCAA,0.77,1,1.0,Vai jogar 100+
+2016,41,2,New Jersey Devils,Nathan Bastian,F,CAN,OHL,0.64,1,1.0,Vai jogar 100+
+2016,42,2,Ottawa Senators,Jonathan Dahlén,F,SWE,HockeyAllsvenskan,1.0,1,1.0,Vai jogar 100+
+2016,43,2,Carolina Hurricanes,Janne Kuokkanen,F,FIN,SHL,0.88,1,1.0,Vai jogar 100+
+2016,44,2,Tampa Bay Lightning,Boris Katchouk,F,CAN,OHL,1.02,1,1.0,Vai jogar 100+
+2016,45,2,Chicago Blackhawks,Chad Krys,D,USA,USDP,0.64,1,1.0,Vai jogar 100+
+2016,46,2,Detroit Red Wings,Givani Smith,F,CAN,OHL,0.57,1,1.0,Vai jogar 100+
+2016,47,2,Nashville Predators,Samuel Girard,D,CAN,QMJHL,1.01,1,1.0,Vai jogar 100+
+2016,49,2,Boston Bruins,Ryan Lindgren,D,USA,USDP,0.34,1,1.0,Vai jogar 100+
+2016,50,2,Chicago Blackhawks,Artur Kayumov,F,RUS,KHL,0.54,1,1.0,Vai jogar 100+
+2016,51,2,Los Angeles Kings,Kale Clague,D,CAN,WHL,0.86,1,1.0,Vai jogar 100+
+2016,52,2,Philadelphia Flyers,Wade Allison,F,CAN,NCAA,0.75,1,1.0,Vai jogar 100+
+2016,53,2,Detroit Red Wings,Filip Hronek,D,CZE,Czechia,0.72,1,0.97,Vai jogar 100+
+2016,56,2,Calgary Flames,Dillon Dubé,F,CAN,WHL,0.99,1,1.0,Vai jogar 100+
+2016,57,2,Toronto Maple Leafs,Carl Grundström,F,SWE,SHL,0.54,1,1.0,Vai jogar 100+
+2016,58,2,Tampa Bay Lightning,Taylor Raddysh,F,CAN,OHL,1.21,1,0.97,Vai jogar 100+
+2016,60,2,San Jose Sharks,Dylan Gambrell,F,USA,USHL,0.82,1,1.0,Vai jogar 100+
+2016,61,2,Pittsburgh Penguins,Kasper Björkqvist,F,FIN,Liiga,0.42,1,1.0,Vai jogar 100+
+2016,63,3,Edmonton Oilers,Markus Niemeläinen,D,FIN,Liiga,0.18,1,1.0,Vai jogar 100+
+2016,64,3,Vancouver Canucks,Will Lockwood,F,USA,NCAA,0.56,1,1.0,Vai jogar 100+
+2016,65,3,Columbus Blue Jackets,Vitaly Abramov,F,RUS,KHL,0.94,1,1.0,Vai jogar 100+
+2016,66,3,Calgary Flames,Adam Fox,D,USA,USDP,0.88,1,1.0,Vai jogar 100+
+2016,67,3,Carolina Hurricanes,Matt Filipe,F,USA,NCAA,0.64,1,1.0,Vai jogar 100+
+2016,68,3,Arizona Coyotes,Cam Dineen,D,USA,OHL,0.83,1,1.0,Vai jogar 100+
+2016,69,3,Buffalo Sabres,Cliff Pu,F,CAN,OHL,0.73,1,1.0,Vai jogar 100+
+2016,70,3,Montréal Canadiens,William Bitten,F,CAN,OHL,0.7,1,1.0,Vai jogar 100+
+2016,71,3,Colorado Avalanche,Josh Anderson,D,CAN,WHL,0.17,1,1.0,Vai jogar 100+
+2016,72,3,Toronto Maple Leafs,J.D. Greenway,F,USA,USDP,0.32,1,1.0,Vai jogar 100+
+2016,73,3,New Jersey Devils,Joey Anderson,F,USA,USDP,0.96,1,1.0,Vai jogar 100+
+2016,74,3,Carolina Hurricanes,Hudson Elynuik,F,CAN,WHL,0.7,1,1.0,Vai jogar 100+
+2016,76,3,Nashville Predators,Rem Pitlick,F,USA,NCAA,0.92,1,1.0,Vai jogar 100+
+2016,77,3,Pittsburgh Penguins,Connor Hall,D,CAN,OHL,0.2,1,1.0,Vai jogar 100+
+2016,78,3,Nashville Predators,Frédéric Allard,D,CAN,QMJHL,0.62,1,1.0,Vai jogar 100+
+2016,79,3,Winnipeg Jets,Luke Green,D,CAN,QMJHL,0.57,1,1.0,Vai jogar 100+
+2016,80,3,New Jersey Devils,Brandon Gignac,F,CAN,QMJHL,0.74,1,1.0,Vai jogar 100+
+2016,81,3,New York Rangers,Sean Day,D,CAN,OHL,0.5,1,1.0,Vai jogar 100+
+2016,82,3,Philadelphia Flyers,Carsen Twarynski,F,CAN,WHL,0.69,1,1.0,Vai jogar 100+
+2016,84,3,Edmonton Oilers,Matt Cairns,D,CAN,NCAA,0.15,1,0.93,Vai jogar 100+
+2016,85,3,Anaheim Ducks,Josh Mahura,D,CAN,WHL,0.7,1,0.98,Vai jogar 100+
+2016,86,3,Buffalo Sabres,Casey Fitzgerald,D,USA,NCAA,0.47,1,1.0,Vai jogar 100+
+2016,87,3,Washington Capitals,Garrett Pilon,F,CAN,WHL,0.93,1,0.99,Vai jogar 100+
+2016,89,3,Florida Panthers,Linus Nässén,D,SWE,SHL,0.41,1,1.0,Vai jogar 100+
+2016,90,3,Dallas Stars,Fredrik Karlström,F,SWE,SHL,0.43,1,1.0,Vai jogar 100+
+2016,91,3,Edmonton Oilers,Filip Berglund,D,SWE,SHL,0.34,1,1.0,Vai jogar 100+
+2016,92,4,Toronto Maple Leafs,Adam Brooks,F,CAN,WHL,1.03,1,1.0,Vai jogar 100+
+2016,93,4,Anaheim Ducks,Jack Kopacka,F,USA,OHL,0.71,1,1.0,Vai jogar 100+
+2016,94,4,Florida Panthers,Jonathan Ang,F,CAN,OHL,0.77,1,1.0,Vai jogar 100+
+2016,95,4,New York Islanders,Anatoli Golyshev,F,RUS,KHL,0.64,1,1.0,Vai jogar 100+
+2016,96,4,Calgary Flames,Linus Lindström,F,SWE,SHL,0.37,1,1.0,Vai jogar 100+
+2016,97,4,Winnipeg Jets,Jacob Cederholm,D,SWE,SuperElit,0.11,1,0.93,Vai jogar 100+
+2016,98,4,New York Rangers,Tarmo Reunanen,D,FIN,Liiga,0.43,1,0.99,Vai jogar 100+
+2016,99,4,Buffalo Sabres,Brett Murray,F,CAN,USHL,0.85,1,0.99,Vai jogar 100+
+2016,100,4,Montréal Canadiens,Victor Mete,D,CAN,OHL,0.6,1,1.0,Vai jogar 100+
+2016,101,4,Toronto Maple Leafs,Keaton Middleton,D,CAN,OHL,0.23,1,1.0,Vai jogar 100+
+2016,102,4,New Jersey Devils,Mikhail Maltsev,F,RUS,KHL,0.59,1,1.0,Vai jogar 100+
+2016,103,4,Ottawa Senators,Todd Burgess,F,USA,NCAA,0.57,1,1.0,Vai jogar 100+
+2016,104,4,Carolina Hurricanes,Max Zimmer,F,USA,NCAA,0.65,1,0.99,Vai jogar 100+
+2016,106,4,Minnesota Wild,Brandon Duhaime,F,USA,NCAA,0.66,1,1.0,Vai jogar 100+
+2016,107,4,Detroit Red Wings,Alfons Malmström,D,SWE,SuperElit,0.22,1,0.82,Vai jogar 100+
+2016,108,4,Nashville Predators,Hardy Häman Aktell,D,SWE,SHL,0.4,1,1.0,Vai jogar 100+
+2016,109,4,Philadelphia Flyers,Connor Bunnaman,F,CAN,OHL,0.48,1,1.0,Vai jogar 100+
+2016,110,4,Chicago Blackhawks,Lucas Carlsson,D,SWE,SHL,0.35,1,1.0,Vai jogar 100+
+2016,111,4,San Jose Sharks,Noah Gregor,F,CAN,WHL,1.14,1,1.0,Vai jogar 100+
+2016,112,4,Los Angeles Kings,Jacob Moverare,D,SWE,SHL,0.4,1,1.0,Vai jogar 100+
+2016,113,4,Chicago Blackhawks,Nathan Noel,F,CAN,QMJHL,0.84,1,1.0,Vai jogar 100+
+2016,114,4,Florida Panthers,Riley Stillman,D,CAN,OHL,0.45,1,1.0,Vai jogar 100+
+2016,115,4,Anaheim Ducks,Alex Dostie,F,CAN,QMJHL,0.87,1,1.0,Vai jogar 100+
+2016,116,4,Dallas Stars,Rhett Gardner,F,CAN,NCAA,0.39,1,1.0,Vai jogar 100+
+2016,117,4,Washington Capitals,Damien Riat,F,CHE,NL,0.57,1,1.0,Vai jogar 100+
+2016,118,4,Tampa Bay Lightning,Ross Colton,F,USA,USHL,1.31,1,1.0,Vai jogar 100+
+2016,119,4,St. Louis Blues,Tanner Kaspick,F,CAN,WHL,0.67,1,1.0,Vai jogar 100+
+2016,120,4,New York Islanders,Otto Koivula,F,FIN,Liiga,0.56,1,0.99,Vai jogar 100+
+2016,121,4,Pittsburgh Penguins,Ryan Jones,D,USA,NCAA,0.33,1,1.0,Vai jogar 100+
+2016,122,5,Toronto Maple Leafs,Vladimir Bobylyov,F,RUS,WHL,0.55,1,1.0,Vai jogar 100+
+2016,124,5,Montréal Canadiens,Casey Staum,D,USA,USHL,0.29,1,0.97,Vai jogar 100+
+2016,125,5,St. Louis Blues,Nolan Stevens,F,USA,NCAA,0.62,1,1.0,Vai jogar 100+
+2016,126,5,Calgary Flames,Mitchell Mattson,F,USA,USHL,0.66,1,1.0,Vai jogar 100+
+2016,127,5,Winnipeg Jets,Jordan Stallard,F,CAN,WHL,0.85,1,0.99,Vai jogar 100+
+2016,129,5,Buffalo Sabres,Philip Nyberg,D,SWE,NCAA,0.27,1,1.0,Vai jogar 100+
+2016,130,5,Buffalo Sabres,Vojtech Budik,D,CZE,Czechia,0.34,1,0.99,Vai jogar 100+
+2016,132,5,New Jersey Devils,Yegor Rykov,D,RUS,KHL,0.25,1,1.0,Vai jogar 100+
+2016,133,5,Ottawa Senators,Maxime Lajoie,D,CAN,WHL,0.59,1,1.0,Vai jogar 100+
+2016,135,5,Boston Bruins,Joona Koppanen,F,FIN,Liiga,0.33,0,0.0,Não vai jogar 100+
+2016,136,5,Boston Bruins,Cam Clarke,D,USA,NCAA,0.26,1,1.0,Vai jogar 100+
+2016,137,5,Detroit Red Wings,Jordan Sambrook,D,CAN,OHL,0.59,1,1.0,Vai jogar 100+
+2016,138,5,Nashville Predators,Patrick Harper,F,USA,NCAA,0.98,1,0.97,Vai jogar 100+
+2016,139,5,Philadelphia Flyers,Linus Högberg,D,SWE,SHL,0.33,1,1.0,Vai jogar 100+
+2016,140,5,Vancouver Canucks,Cole Candella,D,CAN,OHL,0.38,1,1.0,Vai jogar 100+
+2016,141,5,New York Rangers,Tim Gettinger,F,USA,OHL,0.71,1,1.0,Vai jogar 100+
+2016,142,5,Los Angeles Kings,Michael Eyssimont,F,USA,USHL,0.76,1,1.0,Vai jogar 100+
+2016,143,5,Chicago Blackhawks,Mathias From,F,DNK,HockeyAllsvenskan,0.43,1,1.0,Vai jogar 100+
+2016,144,5,St. Louis Blues,Conner Bleackley,F,CAN,WHL,0.71,1,0.99,Vai jogar 100+
+2016,145,5,Washington Capitals,Beck Malenstyn,F,CAN,WHL,0.54,1,1.0,Vai jogar 100+
+2016,146,5,Dallas Stars,Nick Caamano,F,CAN,OHL,0.64,1,1.0,Vai jogar 100+
+2016,147,5,Washington Capitals,Axel Jonsson-Fjällby,F,SWE,SHL,0.49,1,1.0,Vai jogar 100+
+2016,148,5,Tampa Bay Lightning,Christopher Paquette,F,CAN,OHL,0.52,1,0.98,Vai jogar 100+
+2016,149,5,Edmonton Oilers,Graham McPhee,F,USA,NCAA,0.38,1,1.0,Vai jogar 100+
+2016,150,5,San Jose Sharks,Manuel Wiederer,F,DEU,DEL,0.5,1,1.0,Vai jogar 100+
+2016,151,5,Pittsburgh Penguins,Niclas Almari,D,FIN,Liiga,0.29,1,1.0,Vai jogar 100+
+2016,152,6,Toronto Maple Leafs,Jack Walker,F,USA,WHL,0.77,1,1.0,Vai jogar 100+
+2016,153,6,Edmonton Oilers,Aapeli Räsänen,F,FIN,Liiga,0.53,1,1.0,Vai jogar 100+
+2016,154,6,Vancouver Canucks,Jakob Stukel,F,CAN,WHL,0.74,1,1.0,Vai jogar 100+
+2016,156,6,Calgary Flames,Eetu Tuulola,F,FIN,Liiga,0.47,1,1.0,Vai jogar 100+
+2016,158,6,Arizona Coyotes,Patrick Kudla,D,CAN,Slovakia,0.44,1,0.95,Vai jogar 100+
+2016,159,6,Buffalo Sabres,Brandon Hagel,F,CAN,WHL,1.08,1,1.0,Vai jogar 100+
+2016,160,6,Montréal Canadiens,Michael Pezzetta,F,CAN,OHL,0.46,1,1.0,Vai jogar 100+
+2016,161,6,Colorado Avalanche,Nate Clurman,D,USA,NCAA,0.43,1,1.0,Vai jogar 100+
+2016,162,6,New Jersey Devils,Jesper Bratt,F,SWE,HockeyAllsvenskan,0.6,1,0.96,Vai jogar 100+
+2016,163,6,Ottawa Senators,Markus Nurmi,F,FIN,Liiga,0.53,1,1.0,Vai jogar 100+
+2016,164,6,Carolina Hurricanes,Noah Carroll,D,CAN,OHL,0.36,1,1.0,Vai jogar 100+
+2016,165,6,Boston Bruins,Oskar Steen,F,SWE,SHL,0.53,1,1.0,Vai jogar 100+
+2016,166,6,Calgary Flames,Matthew Phillips,F,CAN,WHL,1.31,1,0.98,Vai jogar 100+
+2016,169,6,Philadelphia Flyers,Tanner Laczynski,F,USA,NCAA,1.01,1,1.0,Vai jogar 100+
+2016,170,6,New York Islanders,Collin Adams,F,USA,NCAA,0.76,1,1.0,Vai jogar 100+
+2016,171,6,New York Rangers,Gabriel Fontaine,F,CAN,QMJHL,0.59,1,1.0,Vai jogar 100+
+2016,172,6,Philadelphia Flyers,Anthony Salinitri,F,ITA,OHL,0.81,1,1.0,Vai jogar 100+
+2016,173,6,Chicago Blackhawks,Blake Hillman,D,USA,NCAA,0.29,1,1.0,Vai jogar 100+
+2016,175,6,Florida Panthers,Maxim Mamin,F,RUS,KHL,0.46,1,1.0,Vai jogar 100+
+2016,176,6,Dallas Stars,Jakob Stenqvist,D,SWE,Liiga,0.53,1,1.0,Vai jogar 100+
+2016,177,6,Washington Capitals,Chase Priskie,D,USA,NCAA,0.68,1,0.98,Vai jogar 100+
+2016,178,6,Tampa Bay Lightning,Oleg Sosunov,D,RUS,WHL,0.25,1,1.0,Vai jogar 100+
+2016,179,6,Toronto Maple Leafs,Nicolas Mattinen,D,CAN,OHL,0.6,1,1.0,Vai jogar 100+
+2016,180,6,San Jose Sharks,Mark Shoemaker,D,CAN,OHL,0.18,1,0.93,Vai jogar 100+
+2016,181,6,Pittsburgh Penguins,Joe Masonius,D,USA,USDP,0.4,1,1.0,Vai jogar 100+
+2016,182,7,Toronto Maple Leafs,Nikolai Chebykin,F,RUS,KHL,0.52,1,1.0,Vai jogar 100+
+2016,183,7,Edmonton Oilers,Vincent Desharnais,D,CAN,NCAA,0.3,1,1.0,Vai jogar 100+
+2016,184,7,Vancouver Canucks,Rodrigo Ābols,F,LVA,SHL,0.69,1,1.0,Vai jogar 100+
+2016,185,7,Columbus Blue Jackets,Calvin Thürkauf,F,CHE,NL,0.76,1,1.0,Vai jogar 100+
+2016,186,7,Calgary Flames,Stepan Falkovsky,D,BLR,KHL,0.36,1,1.0,Vai jogar 100+
+2016,187,7,Montréal Canadiens,Arvid Henrikson,D,SWE,NCAA,0.08,1,0.97,Vai jogar 100+
+2016,188,7,Arizona Coyotes,Dean Stewart,D,CAN,NCAA,0.35,1,1.0,Vai jogar 100+
+2016,189,7,Buffalo Sabres,Austin Osmanski,D,USA,OHL,0.21,1,1.0,Vai jogar 100+
+2016,190,7,Buffalo Sabres,Vasili Glotov,F,RUS,KHL,0.6,1,1.0,Vai jogar 100+
+2016,191,7,Colorado Avalanche,Travis Barron,F,CAN,OHL,0.6,1,1.0,Vai jogar 100+
+2016,192,7,New Jersey Devils,Jérémy Davies,D,CAN,USHL,0.74,1,1.0,Vai jogar 100+
+2016,193,7,New York Islanders,Nick Pastujov,F,USA,NCAA,0.45,1,1.0,Vai jogar 100+
+2016,194,7,Vancouver Canucks,Brett McKenzie,F,CAN,OHL,0.68,1,1.0,Vai jogar 100+
+2016,195,7,Florida Panthers,Ben Finkelstein,D,USA,NCAA,0.86,1,1.0,Vai jogar 100+
+2016,196,7,Minnesota Wild,Dmitri Sokolov,F,RUS,OHL,0.84,1,1.0,Vai jogar 100+
+2016,197,7,Detroit Red Wings,Mattias Elfström,F,SWE,SuperElit,0.48,1,0.94,Vai jogar 100+
+2016,198,7,Nashville Predators,Adam Smith,D,CAN,NCAA,0.16,1,1.0,Vai jogar 100+
+2016,199,7,Philadelphia Flyers,David Bernhardt,D,SWE,SHL,0.5,1,1.0,Vai jogar 100+
+2016,200,7,New York Islanders,David Quenneville,D,CAN,WHL,0.75,1,1.0,Vai jogar 100+
+2016,201,7,New York Rangers,Ty Ronning,F,CAN,WHL,0.88,1,1.0,Vai jogar 100+
+2016,202,7,Los Angeles Kings,Jacob Friend,D,CAN,OHL,0.38,1,1.0,Vai jogar 100+
+2016,203,7,Chicago Blackhawks,Jake Ryczek,D,USA,USHL,0.57,1,1.0,Vai jogar 100+
+2016,204,7,Minnesota Wild,Braydyn Chizen,D,CAN,WHL,0.18,1,1.0,Vai jogar 100+
+2016,205,7,Anaheim Ducks,Tyler Soy,F,CAN,WHL,1.01,1,1.0,Vai jogar 100+
+2016,206,7,Tampa Bay Lightning,Otto Somppi,F,FIN,Liiga,0.62,1,1.0,Vai jogar 100+
+2016,207,7,Washington Capitals,Dmitry Zaitsev,D,RUS,WHL,0.33,1,0.99,Vai jogar 100+
+2016,208,7,Tampa Bay Lightning,Ryan Lohin,F,USA,USHL,0.71,1,1.0,Vai jogar 100+
+2016,209,7,St. Louis Blues,Nikolaj Krag Christensen,F,DNK,SuperElit,0.5,0,0.01,Não vai jogar 100+
+2016,210,7,San Jose Sharks,Joachim Blichfeld,F,DNK,WHL,0.92,1,1.0,Vai jogar 100+
+2016,211,7,St. Louis Blues,Filip Helt,F,CZE,Czechia,0.2,1,0.95,Vai jogar 100+
+2017,1,1,New Jersey Devils,Nico Hischier,F,CHE,QMJHL,1.21,0,0.12,Não vai jogar 100+
+2017,2,1,Philadelphia Flyers,Nolan Patrick,F,CAN,WHL,1.26,1,0.97,Vai jogar 100+
+2017,3,1,Dallas Stars,Miro Heiskanen,D,FIN,Liiga,0.49,0,0.01,Não vai jogar 100+
+2017,4,1,Colorado Avalanche,Cale Makar,D,CAN,NCAA,0.93,0,0.03,Não vai jogar 100+
+2017,5,1,Vancouver Canucks,Elias Pettersson,F,SWE,HockeyAllsvenskan,0.95,1,0.99,Vai jogar 100+
+2017,6,1,Vegas Golden Knights,Cody Glass,F,CAN,WHL,1.22,1,1.0,Vai jogar 100+
+2017,7,1,New York Rangers,Lias Andersson,F,SWE,SHL,0.71,1,1.0,Vai jogar 100+
+2017,8,1,Buffalo Sabres,Casey Mittelstadt,F,USA,USHS-MN,1.66,1,1.0,Vai jogar 100+
+2017,9,1,Detroit Red Wings,Michael Rasmussen,F,CAN,WHL,0.98,1,1.0,Vai jogar 100+
+2017,10,1,Florida Panthers,Owen Tippett,F,CAN,OHL,1.15,1,0.99,Vai jogar 100+
+2017,11,1,Los Angeles Kings,Gabriel Vilardi,F,CAN,OHL,1.1,1,0.98,Vai jogar 100+
+2017,12,1,Carolina Hurricanes,Martin Nečas,F,CZE,Czechia,0.49,0,0.06,Não vai jogar 100+
+2017,13,1,Vegas Golden Knights,Nick Suzuki,F,CAN,OHL,1.31,1,0.98,Vai jogar 100+
+2017,14,1,Tampa Bay Lightning,Cal Foote,D,CAN,WHL,0.8,1,1.0,Vai jogar 100+
+2017,15,1,Vegas Golden Knights,Erik Brännström,D,SWE,SHL,0.61,1,1.0,Vai jogar 100+
+2017,16,1,Calgary Flames,Juuso Välimäki,D,FIN,WHL,0.88,1,1.0,Vai jogar 100+
+2017,17,1,Toronto Maple Leafs,Timothy Liljegren,D,SWE,SuperElit,0.48,1,0.33,Vai jogar 100+
+2017,18,1,Boston Bruins,Urho Vaakanainen,D,FIN,Liiga,0.22,1,0.98,Vai jogar 100+
+2017,19,1,San Jose Sharks,Josh Norris,F,USA,USDP,0.78,1,1.0,Vai jogar 100+
+2017,20,1,St. Louis Blues,Robert Thomas,F,CAN,OHL,1.01,1,1.0,Vai jogar 100+
+2017,21,1,New York Rangers,Filip Chytil,F,CZE,Czechia,0.21,0,0.03,Não vai jogar 100+
+2017,22,1,Edmonton Oilers,Kailer Yamamoto,F,USA,WHL,1.27,1,1.0,Vai jogar 100+
+2017,23,1,Arizona Coyotes,Pierre-Olivier Joseph,D,CAN,QMJHL,0.6,1,1.0,Vai jogar 100+
+2017,24,1,Winnipeg Jets,Kristian Vesalainen,F,FIN,Liiga,0.64,1,1.0,Vai jogar 100+
+2017,25,1,Montréal Canadiens,Ryan Poehling,F,USA,NCAA,1.03,1,1.0,Vai jogar 100+
+2017,27,1,Philadelphia Flyers,Morgan Frost,F,CAN,OHL,1.21,1,1.0,Vai jogar 100+
+2017,28,1,Ottawa Senators,Shane Bowers,F,CAN,USHL,0.71,1,0.99,Vai jogar 100+
+2017,29,1,Chicago Blackhawks,Henri Jokiharju,D,FIN,WHL,0.89,1,0.87,Vai jogar 100+
+2017,30,1,Nashville Predators,Eeli Tolvanen,F,FIN,USHL,0.81,1,1.0,Vai jogar 100+
+2017,31,1,St. Louis Blues,Klim Kostin,F,RUS,KHL,0.4,1,0.99,Vai jogar 100+
+2017,32,2,Colorado Avalanche,Conor Timmins,D,CAN,OHL,0.71,1,1.0,Vai jogar 100+
+2017,33,2,Vancouver Canucks,Kole Lind,F,CAN,WHL,1.1,1,1.0,Vai jogar 100+
+2017,34,2,Vegas Golden Knights,Nicolas Hague,D,CAN,OHL,0.75,1,1.0,Vai jogar 100+
+2017,35,2,Philadelphia Flyers,Isaac Ratcliffe,F,CAN,OHL,0.89,1,1.0,Vai jogar 100+
+2017,36,2,New Jersey Devils,Jesper Boqvist,F,SWE,SHL,0.81,1,1.0,Vai jogar 100+
+2017,37,2,Buffalo Sabres,Marcus Davidsson,F,SWE,SHL,0.53,1,1.0,Vai jogar 100+
+2017,38,2,Detroit Red Wings,Gustav Lindström,D,SWE,HockeyAllsvenskan,0.28,1,0.99,Vai jogar 100+
+2017,39,2,Dallas Stars,Jason Robertson,F,USA,OHL,1.26,1,0.95,Vai jogar 100+
+2017,40,2,Florida Panthers,Aleksi Heponiemi,F,FIN,WHL,1.12,1,1.0,Vai jogar 100+
+2017,41,2,Los Angeles Kings,Jaret Anderson-Dolan,F,CAN,WHL,0.97,1,1.0,Vai jogar 100+
+2017,42,2,Carolina Hurricanes,Eetu Luostarinen,F,FIN,Liiga,0.49,1,0.96,Vai jogar 100+
+2017,43,2,Winnipeg Jets,Dylan Samberg,D,USA,NCAA,0.59,1,1.0,Vai jogar 100+
+2017,44,2,Arizona Coyotes,Filip Westerlund,D,SWE,Liiga,0.31,1,1.0,Vai jogar 100+
+2017,45,2,Columbus Blue Jackets,Alexandre Texier,F,FRA,Liiga,0.64,1,0.95,Vai jogar 100+
+2017,46,2,New York Islanders,Robin Salo,D,FIN,Liiga,0.41,1,1.0,Vai jogar 100+
+2017,47,2,Ottawa Senators,Alex Formenton,F,CAN,OHL,0.72,1,1.0,Vai jogar 100+
+2017,48,2,Tampa Bay Lightning,Alexander Volkov,F,RUS,KHL,0.52,1,1.0,Vai jogar 100+
+2017,49,2,San Jose Sharks,Mario Ferraro,D,CAN,NCAA,0.56,1,0.87,Vai jogar 100+
+2017,50,2,Anaheim Ducks,Maxime Comtois,F,CAN,QMJHL,1.02,1,1.0,Vai jogar 100+
+2017,51,2,Pittsburgh Penguins,Zachary Lauzon,D,CAN,QMJHL,0.24,1,1.0,Vai jogar 100+
+2017,52,2,Carolina Hurricanes,Luke Martin,D,USA,NCAA,0.41,1,1.0,Vai jogar 100+
+2017,53,2,Boston Bruins,Jack Studnicka,F,CAN,OHL,0.92,1,1.0,Vai jogar 100+
+2017,55,2,Vancouver Canucks,Jonah Gadjovich,F,CAN,OHL,0.68,1,1.0,Vai jogar 100+
+2017,56,2,Montréal Canadiens,Joshua Brook,D,CAN,WHL,0.54,1,1.0,Vai jogar 100+
+2017,57,2,Chicago Blackhawks,Ian Mitchell,D,CAN,NCAA,0.77,1,0.76,Vai jogar 100+
+2017,58,2,Montréal Canadiens,Joni Ikonen,F,FIN,Liiga,0.5,1,1.0,Vai jogar 100+
+2017,59,2,Toronto Maple Leafs,Eemeli Räsänen,D,FIN,OHL,0.38,1,1.0,Vai jogar 100+
+2017,60,2,Anaheim Ducks,Antoine Morand,F,CAN,QMJHL,0.82,1,1.0,Vai jogar 100+
+2017,61,2,Nashville Predators,Grant Mismash,F,USA,USDP,0.79,1,1.0,Vai jogar 100+
+2017,62,2,Vegas Golden Knights,Jake Leschyshyn,F,CAN,WHL,0.7,1,1.0,Vai jogar 100+
+2017,63,3,New Jersey Devils,Fabian Zetterlund,F,SWE,SHL,0.49,1,1.0,Vai jogar 100+
+2017,65,3,Vegas Golden Knights,Jonas Røndbjerg,F,DNK,SHL,0.37,1,0.93,Vai jogar 100+
+2017,66,3,Florida Panthers,Max Gildon,D,USA,USDP,0.51,1,1.0,Vai jogar 100+
+2017,67,3,Carolina Hurricanes,Morgan Geekie,F,CAN,WHL,0.94,1,1.0,Vai jogar 100+
+2017,68,3,Montréal Canadiens,Scott Walford,D,CAN,WHL,0.56,1,1.0,Vai jogar 100+
+2017,69,3,Arizona Coyotes,MacKenzie Entwistle,F,CAN,OHL,0.61,1,1.0,Vai jogar 100+
+2017,70,3,Chicago Blackhawks,Andrei Altybarmakyan,F,RUS,KHL,0.51,1,1.0,Vai jogar 100+
+2017,71,3,Detroit Red Wings,Kasper Kotkansalo,D,FIN,Liiga,0.24,1,1.0,Vai jogar 100+
+2017,73,3,Carolina Hurricanes,Stelio Mattheos,F,CAN,WHL,0.98,1,1.0,Vai jogar 100+
+2017,74,3,Winnipeg Jets,Johnathan Kovacevic,D,CAN,NCAA,0.53,1,0.99,Vai jogar 100+
+2017,75,3,Arizona Coyotes,Nate Schnarr,F,CAN,OHL,0.95,1,1.0,Vai jogar 100+
+2017,76,3,Tampa Bay Lightning,Alexei Lipanov,F,RUS,OHL,0.48,1,1.0,Vai jogar 100+
+2017,77,3,New York Islanders,Ben Mirageas,D,USA,NCAA,0.38,1,1.0,Vai jogar 100+
+2017,79,3,Detroit Red Wings,Lane Zablocki,F,CAN,WHL,0.6,1,1.0,Vai jogar 100+
+2017,81,3,New Jersey Devils,Reilly Walsh,D,USA,USHS-Prep,1.01,1,1.0,Vai jogar 100+
+2017,82,3,Arizona Coyotes,Cameron Crotty,D,CAN,NCAA,0.26,1,0.95,Vai jogar 100+
+2017,83,3,Detroit Red Wings,Zach Gallant,F,CAN,OHL,0.68,1,1.0,Vai jogar 100+
+2017,84,3,Edmonton Oilers,Dmitri Samorukov,D,RUS,OHL,0.39,1,1.0,Vai jogar 100+
+2017,85,3,Minnesota Wild,Ivan Lodnia,F,USA,OHL,0.89,1,1.0,Vai jogar 100+
+2017,87,3,Montréal Canadiens,Cale Fleury,D,CAN,WHL,0.47,1,1.0,Vai jogar 100+
+2017,89,3,Buffalo Sabres,Oskari Laaksonen,D,FIN,Liiga,0.47,1,1.0,Vai jogar 100+
+2017,90,3,Chicago Blackhawks,Evan Barratt,F,USA,DEL,0.98,1,0.99,Vai jogar 100+
+2017,91,3,Anaheim Ducks,Jack Badini,F,USA,USHL,0.45,1,1.0,Vai jogar 100+
+2017,92,3,Nashville Predators,David Farrance,D,USA,USDP,0.6,1,1.0,Vai jogar 100+
+2017,93,3,Pittsburgh Penguins,Clayton Phillips,D,USA,NCAA,0.39,1,1.0,Vai jogar 100+
+2017,94,4,Colorado Avalanche,Nick Henry,F,CAN,WHL,1.05,1,1.0,Vai jogar 100+
+2017,95,4,Vancouver Canucks,Jack Rathbone,D,USA,USHS-Prep,0.93,1,0.98,Vai jogar 100+
+2017,97,4,Minnesota Wild,Mason Shaw,F,CAN,WHL,1.01,1,1.0,Vai jogar 100+
+2017,98,4,New Jersey Devils,Nikita Popugayev,F,RUS,KHL,0.51,1,1.0,Vai jogar 100+
+2017,99,4,Buffalo Sabres,Jacob Bryson,D,CAN,NCAA,0.58,1,0.99,Vai jogar 100+
+2017,100,4,Detroit Red Wings,Malte Setkov,D,DNK,HockeyAllsvenskan,0.34,1,1.0,Vai jogar 100+
+2017,101,4,Dallas Stars,Liam Hawel,F,CAN,OHL,0.74,1,1.0,Vai jogar 100+
+2017,102,4,San Jose Sharks,Scott Reedy,F,USA,NCAA,0.76,1,1.0,Vai jogar 100+
+2017,103,4,Los Angeles Kings,Mikey Anderson,D,USA,USHL,0.49,1,1.0,Vai jogar 100+
+2017,105,4,Winnipeg Jets,Santeri Virtanen,F,FIN,Liiga,0.42,1,1.0,Vai jogar 100+
+2017,106,4,Philadelphia Flyers,Matthew Strome,F,CAN,OHL,0.95,1,1.0,Vai jogar 100+
+2017,107,4,Philadelphia Flyers,Maxim Sushko,F,BLR,KHL,0.45,1,1.0,Vai jogar 100+
+2017,108,4,Arizona Coyotes,Noel Hoefenmayer,D,CAN,OHL,0.7,1,1.0,Vai jogar 100+
+2017,109,4,Calgary Flames,Adam Ruzicka,F,SVK,OHL,0.92,1,1.0,Vai jogar 100+
+2017,112,4,Chicago Blackhawks,Tim Söderlund,F,SWE,SHL,0.52,1,1.0,Vai jogar 100+
+2017,113,4,St. Louis Blues,Alexei Toropchenko,F,RUS,OHL,0.53,1,1.0,Vai jogar 100+
+2017,115,4,Edmonton Oilers,Ostap Safin,F,CZE,KHL,0.56,1,1.0,Vai jogar 100+
+2017,116,4,Minnesota Wild,Bryce Misley,F,ITA,NCAA,0.2,1,0.75,Vai jogar 100+
+2017,117,4,Columbus Blue Jackets,Emil Bemström,F,SWE,SHL,0.78,1,1.0,Vai jogar 100+
+2017,118,4,Los Angeles Kings,Markus Phillips,D,CAN,OHL,0.36,1,1.0,Vai jogar 100+
+2017,119,4,Chicago Blackhawks,Roope Laavainen,D,FIN,HockeyAllsvenskan,0.31,1,1.0,Vai jogar 100+
+2017,120,4,Washington Capitals,Tobias Geisser,D,CHE,NL,0.3,1,0.99,Vai jogar 100+
+2017,121,4,Ottawa Senators,Drake Batherson,F,CAN,QMJHL,1.12,1,1.0,Vai jogar 100+
+2017,122,4,Anaheim Ducks,Kyle Olson,F,CAN,WHL,0.81,1,1.0,Vai jogar 100+
+2017,123,4,New York Rangers,Brandon Crawley,D,USA,OHL,0.33,1,0.97,Vai jogar 100+
+2017,124,4,Toronto Maple Leafs,Vladislav Kara,F,RUS,KHL,0.35,1,1.0,Vai jogar 100+
+2017,125,5,Colorado Avalanche,Igor Shvyryov,F,RUS,KHL,0.52,1,0.99,Vai jogar 100+
+2017,126,5,Arizona Coyotes,Michael Karow,D,USA,NCAA,0.2,1,1.0,Vai jogar 100+
+2017,127,5,Vegas Golden Knights,Lucas Elvenes,F,SWE,SHL,0.73,1,1.0,Vai jogar 100+
+2017,128,5,Arizona Coyotes,Tyler Steenbergen,F,CAN,WHL,0.81,1,1.0,Vai jogar 100+
+2017,130,5,St. Louis Blues,David Noël,D,CAN,QMJHL,0.56,1,0.99,Vai jogar 100+
+2017,131,5,Detroit Red Wings,Cole Fraser,D,CAN,OHL,0.24,1,1.0,Vai jogar 100+
+2017,132,5,Dallas Stars,Jacob Peterson,F,SWE,SHL,0.54,1,0.99,Vai jogar 100+
+2017,133,5,Florida Panthers,Tyler Inamoto,D,USA,NCAA,0.2,1,1.0,Vai jogar 100+
+2017,134,5,Los Angeles Kings,Cole Hults,D,USA,USHL,0.55,1,1.0,Vai jogar 100+
+2017,135,5,Vancouver Canucks,Kristoffer Gunnarsson,D,SWE,HockeyAllsvenskan,0.13,1,0.98,Vai jogar 100+
+2017,136,5,Winnipeg Jets,Leon Gawanke,D,DEU,QMJHL,0.69,1,1.0,Vai jogar 100+
+2017,137,5,Philadelphia Flyers,Noah Cates,F,USA,NCAA,1.08,1,1.0,Vai jogar 100+
+2017,138,5,Los Angeles Kings,Drake Rymsha,F,USA,OHL,0.67,1,1.0,Vai jogar 100+
+2017,139,5,New York Islanders,Sebastian Aho,D,SWE,SHL,0.44,1,1.0,Vai jogar 100+
+2017,140,5,Calgary Flames,Zach Fischer,F,CAN,WHL,0.62,1,1.0,Vai jogar 100+
+2017,141,5,Toronto Maple Leafs,Fyodor Gordeyev,D,RUS,OHL,0.34,1,1.0,Vai jogar 100+
+2017,142,5,Vegas Golden Knights,Jack Dugan,F,USA,USHS-Prep,1.29,1,1.0,Vai jogar 100+
+2017,143,5,New Jersey Devils,Marian Studenic,F,SVK,OHL,0.63,1,1.0,Vai jogar 100+
+2017,144,5,Chicago Blackhawks,Parker Foo,F,CAN,KHL,0.36,1,1.0,Vai jogar 100+
+2017,145,5,New York Rangers,Calle Själin,D,SWE,SHL,0.34,1,1.0,Vai jogar 100+
+2017,146,5,Edmonton Oilers,Kirill Maximov,F,RUS,OHL,0.71,1,1.0,Vai jogar 100+
+2017,147,5,Minnesota Wild,Jacob Golden,D,CAN,OHL,0.28,1,0.87,Vai jogar 100+
+2017,148,5,Columbus Blue Jackets,Kale Howarth,F,CAN,NCAA,0.43,1,0.33,Vai jogar 100+
+2017,149,5,Montréal Canadiens,Jarret Tyszka,D,CAN,WHL,0.47,1,1.0,Vai jogar 100+
+2017,150,5,Chicago Blackhawks,Jakub Galvas,D,CZE,Czechia,0.33,1,1.0,Vai jogar 100+
+2017,151,5,Washington Capitals,Sebastian Walfridsson,D,SWE,SuperElit,0.18,1,1.0,Vai jogar 100+
+2017,152,5,Pittsburgh Penguins,Jan Drozg,F,SVN,KHL,0.69,1,1.0,Vai jogar 100+
+2017,155,5,Pittsburgh Penguins,Linus Ölund,F,SWE,SHL,0.45,1,1.0,Vai jogar 100+
+2017,156,6,Colorado Avalanche,Denis Smirnov,F,RUS,USHL,0.87,1,1.0,Vai jogar 100+
+2017,157,6,New York Rangers,Dominik Lakatos,F,CZE,Czechia,0.62,1,1.0,Vai jogar 100+
+2017,158,6,Vegas Golden Knights,Nick Campoli,F,CAN,NCAA,0.23,1,0.91,Vai jogar 100+
+2017,159,6,San Jose Sharks,Jake McGrew,F,USA,WHL,0.62,1,0.99,Vai jogar 100+
+2017,160,6,New Jersey Devils,Aarne Talvitie,F,FIN,Liiga,0.42,1,0.98,Vai jogar 100+
+2017,162,6,Detroit Red Wings,Jack Adams,F,USA,NCAA,0.57,1,1.0,Vai jogar 100+
+2017,163,6,Dallas Stars,Brett Davis,F,CAN,WHL,0.65,1,1.0,Vai jogar 100+
+2017,164,6,Detroit Red Wings,Reilly Webb,D,CAN,OHL,0.21,1,1.0,Vai jogar 100+
+2017,165,6,New York Islanders,Arnaud Durandeau,F,CAN,QMJHL,0.68,1,1.0,Vai jogar 100+
+2017,166,6,Carolina Hurricanes,Brendan De Jong,D,CAN,WHL,0.28,1,1.0,Vai jogar 100+
+2017,168,6,Philadelphia Flyers,Olle Lycksell,F,SWE,SHL,0.48,1,1.0,Vai jogar 100+
+2017,169,6,Tampa Bay Lightning,Nick Perbix,D,USA,NCAA,0.65,1,1.0,Vai jogar 100+
+2017,170,6,Columbus Blue Jackets,Jonathan Davidsson,F,SWE,SHL,0.49,1,1.0,Vai jogar 100+
+2017,171,6,Calgary Flames,D'Artagnan Joly,F,NLD,QMJHL,0.79,1,1.0,Vai jogar 100+
+2017,172,6,Toronto Maple Leafs,Ryan McGregor,F,CAN,OHL,0.8,1,0.99,Vai jogar 100+
+2017,173,6,Boston Bruins,Cédric Paré,F,CAN,QMJHL,0.73,1,1.0,Vai jogar 100+
+2017,174,6,New York Rangers,Morgan Barron,F,CAN,NCAA,0.82,1,0.99,Vai jogar 100+
+2017,175,6,St. Louis Blues,Trent Bourque,D,CAN,OHL,0.25,1,1.0,Vai jogar 100+
+2017,176,6,Nashville Predators,Pavel Koltygin,F,RUS,QMJHL,0.54,1,1.0,Vai jogar 100+
+2017,177,6,Edmonton Oilers,Skyler Brind'Amour,F,USA,NCAA,0.48,1,1.0,Vai jogar 100+
+2017,178,6,Minnesota Wild,Andrei Svetlakov,F,RUS,KHL,0.47,1,1.0,Vai jogar 100+
+2017,179,6,Columbus Blue Jackets,Carson Meyer,F,USA,NCAA,0.72,1,1.0,Vai jogar 100+
+2017,180,6,Tampa Bay Lightning,Cole Guttman,F,USA,NCAA,0.86,1,1.0,Vai jogar 100+
+2017,181,6,Vancouver Canucks,Petrus Palmu,F,FIN,Liiga,0.76,1,1.0,Vai jogar 100+
+2017,182,6,Washington Capitals,Benton Maass,D,USA,NCAA,0.49,1,1.0,Vai jogar 100+
+2017,184,6,Florida Panthers,Sebastian Repo,F,FIN,Liiga,0.65,1,1.0,Vai jogar 100+
+2017,185,6,San Jose Sharks,Alexander Chmelevski,F,USA,KHL,0.87,1,1.0,Vai jogar 100+
+2017,186,6,Pittsburgh Penguins,Antti Palojärvi,D,FIN,Liiga,0.1,0,0.0,Não vai jogar 100+
+2017,187,7,Colorado Avalanche,Nick Leivermann,D,USA,NCAA,0.71,1,1.0,Vai jogar 100+
+2017,188,7,Vancouver Canucks,Matt Brassard,D,CAN,OHL,0.64,1,1.0,Vai jogar 100+
+2017,189,7,Vegas Golden Knights,Ben Jones,F,CAN,OHL,0.92,1,1.0,Vai jogar 100+
+2017,190,7,Arizona Coyotes,Erik Walli Walterholm,F,SWE,SHL,0.36,1,1.0,Vai jogar 100+
+2017,191,7,New Jersey Devils,Jocktan Chainey,D,CAN,QMJHL,0.46,1,1.0,Vai jogar 100+
+2017,192,7,Buffalo Sabres,Linus Weissbach,F,SWE,NCAA,0.83,1,1.0,Vai jogar 100+
+2017,193,7,Detroit Red Wings,Brady Gilmour,F,CAN,OHL,0.58,1,0.93,Vai jogar 100+
+2017,195,7,Boston Bruins,Victor Berglund,D,SWE,HockeyAllsvenskan,0.38,1,1.0,Vai jogar 100+
+2017,196,7,Philadelphia Flyers,Wyatt Kalynuk,D,CAN,USHL,0.5,1,1.0,Vai jogar 100+
+2017,197,7,Carolina Hurricanes,Ville Räsänen,D,FIN,USHL,0.09,0,0.01,Não vai jogar 100+
+2017,198,7,Winnipeg Jets,Skyler McKenzie,F,CAN,WHL,0.62,1,1.0,Vai jogar 100+
+2017,200,7,Tampa Bay Lightning,Sammy Walker,F,USA,NCAA,1.01,1,1.0,Vai jogar 100+
+2017,201,7,New York Islanders,Logan Cockerill,F,USA,NCAA,0.47,1,1.0,Vai jogar 100+
+2017,202,7,Calgary Flames,Filip Sveningsson,F,SWE,HockeyAllsvenskan,0.51,1,1.0,Vai jogar 100+
+2017,203,7,Toronto Maple Leafs,Ryan O'Connell,D,CAN,NCAA,0.18,1,0.98,Vai jogar 100+
+2017,204,7,Boston Bruins,Daniel Bukac,D,CZE,WHL,0.23,1,1.0,Vai jogar 100+
+2017,205,7,New Jersey Devils,Yegor Zaitsev,D,RUS,KHL,0.17,1,1.0,Vai jogar 100+
+2017,206,7,St. Louis Blues,Anton Andersson,D,SWE,SuperElit,0.49,0,0.17,Não vai jogar 100+
+2017,207,7,New York Rangers,Patrik Virta,F,FIN,Liiga,0.55,1,1.0,Vai jogar 100+
+2017,208,7,Edmonton Oilers,Phil Kemp,D,USA,USDP,0.26,1,1.0,Vai jogar 100+
+2017,209,7,Minnesota Wild,Nick Swaney,F,USA,NCAA,1.05,1,1.0,Vai jogar 100+
+2017,210,7,Columbus Blue Jackets,Robbie Stucker,D,USA,NCAA,0.54,1,1.0,Vai jogar 100+
+2017,211,7,Winnipeg Jets,Croix Evingson,D,USA,NCAA,0.3,1,0.3,Vai jogar 100+
+2017,212,7,San Jose Sharks,Ivan Chekhovich,F,RUS,KHL,0.75,1,1.0,Vai jogar 100+
+2017,213,7,Washington Capitals,Kristian Røykås Marthinsen,F,NOR,WHL,0.46,0,0.15,Não vai jogar 100+
+2017,214,7,New Jersey Devils,Matt Hellickson,D,USA,NCAA,0.35,1,1.0,Vai jogar 100+
+2017,215,7,Chicago Blackhawks,Joshua Ess,D,USA,NCAA,0.46,1,1.0,Vai jogar 100+
+2017,216,7,Nashville Predators,Jacob Paquette,D,CAN,OHL,0.28,1,1.0,Vai jogar 100+
+2017,217,7,Pittsburgh Penguins,William Reilly,D,CAN,NCAA,0.4,1,1.0,Vai jogar 100+
+2018,1,1,Buffalo Sabres,Rasmus Dahlin,D,SWE,SHL,0.51,0,0.28,Não vai jogar 100+
+2018,2,1,Carolina Hurricanes,Andrei Svechnikov,F,RUS,USHL,1.41,0,0.23,Não vai jogar 100+
+2018,3,1,Montréal Canadiens,Jesperi Kotkaniemi,F,FIN,Liiga,0.55,0,0.07,Não vai jogar 100+
+2018,4,1,Ottawa Senators,Brady Tkachuk,F,USA,USDP,0.67,1,1.0,Vai jogar 100+
+2018,5,1,Arizona Coyotes,Barrett Hayton,F,CAN,OHL,0.91,1,1.0,Vai jogar 100+
+2018,6,1,Detroit Red Wings,Filip Zadina,F,CZE,NL,0.93,1,1.0,Vai jogar 100+
+2018,7,1,Vancouver Canucks,Quinn Hughes,D,USA,USDP,0.7,1,1.0,Vai jogar 100+
+2018,8,1,Chicago Blackhawks,Adam Boqvist,D,SWE,OHL,0.87,1,1.0,Vai jogar 100+
+2018,9,1,New York Rangers,Vitali Kravtsov,F,RUS,KHL,0.63,1,1.0,Vai jogar 100+
+2018,10,1,Edmonton Oilers,Evan Bouchard,D,CAN,OHL,0.89,1,1.0,Vai jogar 100+
+2018,11,1,New York Islanders,Oliver Wahlstrom,F,USA,USDP,1.03,1,1.0,Vai jogar 100+
+2018,12,1,New York Islanders,Noah Dobson,D,CAN,QMJHL,0.79,1,1.0,Vai jogar 100+
+2018,13,1,Dallas Stars,Ty Dellandrea,F,CAN,OHL,0.92,1,1.0,Vai jogar 100+
+2018,14,1,Philadelphia Flyers,Joel Farabee,F,USA,USDP,1.03,1,1.0,Vai jogar 100+
+2018,15,1,Florida Panthers,Grigori Denisenko,F,RUS,KHL,0.49,1,1.0,Vai jogar 100+
+2018,16,1,Colorado Avalanche,Martin Kaut,F,CZE,Czechia,0.6,1,1.0,Vai jogar 100+
+2018,17,1,New Jersey Devils,Ty Smith,D,CAN,WHL,0.91,1,1.0,Vai jogar 100+
+2018,18,1,Columbus Blue Jackets,Liam Foudy,F,CAN,OHL,0.83,1,0.95,Vai jogar 100+
+2018,19,1,Philadelphia Flyers,Jay O'Brien,F,USA,USHS-Prep,1.13,1,1.0,Vai jogar 100+
+2018,20,1,Los Angeles Kings,Rasmus Kupari,F,FIN,Liiga,0.55,1,0.36,Vai jogar 100+
+2018,21,1,San Jose Sharks,Ryan Merkley,D,CAN,OHL,0.85,1,1.0,Vai jogar 100+
+2018,22,1,New York Rangers,K'Andre Miller,D,USA,USDP,0.47,1,1.0,Vai jogar 100+
+2018,23,1,Anaheim Ducks,Isac Lundeström,F,SWE,SHL,0.4,1,0.95,Vai jogar 100+
+2018,24,1,Minnesota Wild,Filip Johansson,D,SWE,SHL,0.25,1,1.0,Vai jogar 100+
+2018,25,1,St. Louis Blues,Dominik Bokk,F,DEU,DEL,0.69,1,0.98,Vai jogar 100+
+2018,26,1,Ottawa Senators,Jacob Bernard-Docker,D,CAN,NCAA,0.63,0,0.09,Não vai jogar 100+
+2018,27,1,Chicago Blackhawks,Nicolas Beaudin,D,CAN,QMJHL,0.64,1,1.0,Vai jogar 100+
+2018,28,1,New York Rangers,Nils Lundkvist,D,SWE,SHL,0.47,1,0.99,Vai jogar 100+
+2018,29,1,Toronto Maple Leafs,Rasmus Sandin,D,SWE,OHL,0.7,1,0.35,Vai jogar 100+
+2018,30,1,Detroit Red Wings,Joe Veleno,F,CAN,QMJHL,1.04,1,1.0,Vai jogar 100+
+2018,31,1,Washington Capitals,Alexander Alexeyev,D,RUS,WHL,0.57,1,1.0,Vai jogar 100+
+2018,32,2,Buffalo Sabres,Mattias Samuelsson,D,USA,USDP,0.47,1,1.0,Vai jogar 100+
+2018,33,2,Detroit Red Wings,Jonatan Berggren,F,SWE,SHL,0.78,1,1.0,Vai jogar 100+
+2018,34,2,Florida Panthers,Serron Noel,F,CAN,OHL,0.84,1,1.0,Vai jogar 100+
+2018,35,2,Montréal Canadiens,Jesse Ylönen,F,FIN,Liiga,0.42,1,0.98,Vai jogar 100+
+2018,36,2,Detroit Red Wings,Jared McIsaac,D,CAN,QMJHL,0.71,1,1.0,Vai jogar 100+
+2018,37,2,Vancouver Canucks,Jett Woo,D,CAN,WHL,0.66,1,1.0,Vai jogar 100+
+2018,38,2,Montréal Canadiens,Alexander Romanov,D,RUS,KHL,0.2,1,0.99,Vai jogar 100+
+2018,40,2,Edmonton Oilers,Ryan McLeod,F,CAN,OHL,0.74,1,1.0,Vai jogar 100+
+2018,41,2,New York Islanders,Bode Wilde,D,USA,USDP,0.59,1,1.0,Vai jogar 100+
+2018,42,2,Carolina Hurricanes,Jack Drury,F,USA,USHL,0.85,1,1.0,Vai jogar 100+
+2018,43,2,New York Islanders,Ruslan Iskhakov,F,RUS,KHL,0.66,1,1.0,Vai jogar 100+
+2018,44,2,Dallas Stars,Albin Eriksson,F,SWE,HockeyAllsvenskan,0.39,1,1.0,Vai jogar 100+
+2018,45,2,St. Louis Blues,Scott Perunovich,D,USA,NCAA,1.08,1,1.0,Vai jogar 100+
+2018,46,2,Washington Capitals,Martin Fehérváry,D,SVK,SHL,0.17,1,1.0,Vai jogar 100+
+2018,47,2,Washington Capitals,Kody Clark,F,CAN,OHL,0.56,1,1.0,Vai jogar 100+
+2018,48,2,Ottawa Senators,Jonny Tychonick,D,CAN,NCAA,0.44,1,1.0,Vai jogar 100+
+2018,49,2,Columbus Blue Jackets,Kirill Marchenko,F,RUS,KHL,0.69,1,1.0,Vai jogar 100+
+2018,50,2,Philadelphia Flyers,Adam Ginning,D,SWE,SHL,0.19,1,1.0,Vai jogar 100+
+2018,51,2,Los Angeles Kings,Akil Thomas,F,CAN,OHL,1.31,1,1.0,Vai jogar 100+
+2018,52,2,Toronto Maple Leafs,Sean Durzi,D,CAN,OHL,0.78,1,1.0,Vai jogar 100+
+2018,53,2,Pittsburgh Penguins,Calen Addison,D,CAN,WHL,0.85,1,1.0,Vai jogar 100+
+2018,54,2,Anaheim Ducks,Benoit-Olivier Groulx,F,CAN,QMJHL,0.98,1,1.0,Vai jogar 100+
+2018,55,2,Arizona Coyotes,Kevin Bahl,D,CAN,OHL,0.37,1,1.0,Vai jogar 100+
+2018,56,2,Montréal Canadiens,Jacob Olofsson,F,SWE,HockeyAllsvenskan,0.44,1,1.0,Vai jogar 100+
+2018,57,2,Boston Bruins,Axel Andersson,D,SWE,HockeyAllsvenskan,0.37,1,1.0,Vai jogar 100+
+2018,58,2,Pittsburgh Penguins,Filip Hållander,F,SWE,SHL,0.62,1,1.0,Vai jogar 100+
+2018,59,2,Tampa Bay Lightning,Gabriel Fortier,F,CAN,QMJHL,0.88,1,1.0,Vai jogar 100+
+2018,60,2,Winnipeg Jets,David Gustafsson,F,SWE,SHL,0.45,1,0.99,Vai jogar 100+
+2018,61,2,Vegas Golden Knights,Ivan Morozov,F,RUS,KHL,0.72,1,1.0,Vai jogar 100+
+2018,63,3,Minnesota Wild,Jack McBain,F,CAN,NCAA,0.74,1,0.96,Vai jogar 100+
+2018,65,3,Arizona Coyotes,Jan Jeník,F,CZE,OHL,1.26,1,0.44,Vai jogar 100+
+2018,66,3,Montréal Canadiens,Cameron Hillis,F,CAN,OHL,0.85,1,1.0,Vai jogar 100+
+2018,67,3,Detroit Red Wings,Alec Regula,D,USA,OHL,0.53,1,1.0,Vai jogar 100+
+2018,68,3,Vancouver Canucks,Tyler Madden,F,USA,NCAA,1.0,1,1.0,Vai jogar 100+
+2018,69,3,Chicago Blackhawks,Jake Wise,F,USA,NCAA,0.88,1,0.99,Vai jogar 100+
+2018,70,3,New York Rangers,Jakob Ragnarsson,D,SWE,HockeyAllsvenskan,0.26,1,1.0,Vai jogar 100+
+2018,71,3,Montréal Canadiens,Jordan Harris,D,USA,NCAA,0.63,1,1.0,Vai jogar 100+
+2018,73,3,Arizona Coyotes,Ty Emberson,D,USA,USDP,0.37,1,1.0,Vai jogar 100+
+2018,74,3,Chicago Blackhawks,Niklas Nordgren,F,FIN,Liiga,0.25,1,0.38,Vai jogar 100+
+2018,75,3,Dallas Stars,Oskar Bäck,F,SWE,SHL,0.38,1,0.98,Vai jogar 100+
+2018,76,3,Toronto Maple Leafs,Semyon Der-Arguchintsev,F,RUS,OHL,0.71,1,1.0,Vai jogar 100+
+2018,77,3,Boston Bruins,Jakub Lauko,F,CZE,Czechia,0.49,1,0.98,Vai jogar 100+
+2018,78,3,Colorado Avalanche,Sampo Ranta,F,FIN,SHL,0.59,1,1.0,Vai jogar 100+
+2018,79,3,Anaheim Ducks,Blake McLaughlin,F,USA,NCAA,0.93,1,1.0,Vai jogar 100+
+2018,80,3,Columbus Blue Jackets,Marcus Karlberg,F,SWE,SHL,0.44,1,1.0,Vai jogar 100+
+2018,81,3,Detroit Red Wings,Seth Barton,D,CAN,NCAA,0.4,1,1.0,Vai jogar 100+
+2018,82,3,Los Angeles Kings,Bulat Shafigullin,F,RUS,KHL,0.47,1,1.0,Vai jogar 100+
+2018,83,3,Toronto Maple Leafs,Riley Stotts,F,CAN,WHL,0.74,1,1.0,Vai jogar 100+
+2018,86,3,Minnesota Wild,Alexander Khovanov,F,RUS,QMJHL,1.24,1,1.0,Vai jogar 100+
+2018,87,3,San Jose Sharks,Linus Karlsson,F,SWE,HockeyAllsvenskan,0.81,1,1.0,Vai jogar 100+
+2018,88,3,New York Rangers,Joseph Keane,D,USA,OHL,0.45,1,1.0,Vai jogar 100+
+2018,89,3,Florida Panthers,Logan Hutsko,F,USA,NCAA,0.62,1,1.0,Vai jogar 100+
+2018,90,3,Tampa Bay Lightning,Dmitri Semykin,D,RUS,MHL,0.45,1,0.99,Vai jogar 100+
+2018,91,3,Winnipeg Jets,Nathan Smith,F,USA,USHL,0.96,1,1.0,Vai jogar 100+
+2018,92,3,Minnesota Wild,Connor Dewar,F,CAN,WHL,0.73,1,1.0,Vai jogar 100+
+2018,93,3,Washington Capitals,Riley Sutter,F,CAN,WHL,0.62,1,1.0,Vai jogar 100+
+2018,94,4,Buffalo Sabres,Matěj Pekař,F,CZE,OHL,0.81,1,1.0,Vai jogar 100+
+2018,95,4,Ottawa Senators,Jonathan Gruden,F,USA,USDP,0.8,1,1.0,Vai jogar 100+
+2018,96,4,Carolina Hurricanes,Luke Henman,F,CAN,QMJHL,0.91,1,1.0,Vai jogar 100+
+2018,97,4,Montréal Canadiens,Allan McShane,F,CAN,OHL,0.85,1,1.0,Vai jogar 100+
+2018,98,4,Detroit Red Wings,Ryan O'Reilly,F,USA,NCAA,0.53,1,1.0,Vai jogar 100+
+2018,99,4,Vegas Golden Knights,Stanislav Demin,D,USA,NCAA,0.33,1,0.96,Vai jogar 100+
+2018,100,4,Dallas Stars,Adam Mascherin,F,CAN,OHL,1.05,1,1.0,Vai jogar 100+
+2018,101,4,New York Rangers,Nico Gross,D,CHE,NL,0.24,1,1.0,Vai jogar 100+
+2018,102,4,San Jose Sharks,Jasper Weatherby,F,USA,NCAA,0.43,1,1.0,Vai jogar 100+
+2018,103,4,New York Islanders,Jacob Pivonka,F,USA,NCAA,0.34,1,1.0,Vai jogar 100+
+2018,104,4,Carolina Hurricanes,Lenni Killinen,F,FIN,Liiga,0.33,1,1.0,Vai jogar 100+
+2018,105,4,Calgary Flames,Martin Pospisil,F,SVK,USHL,1.02,1,0.98,Vai jogar 100+
+2018,106,4,Dallas Stars,Curtis Douglas,F,CAN,OHL,0.68,1,1.0,Vai jogar 100+
+2018,108,4,Calgary Flames,Demetrios Koumontzis,F,USA,NCAA,0.65,1,1.0,Vai jogar 100+
+2018,109,4,Colorado Avalanche,Tyler Weiss,F,USA,NCAA,0.62,1,1.0,Vai jogar 100+
+2018,110,4,New Jersey Devils,Xavier Bernard,D,CAN,QMJHL,0.37,1,1.0,Vai jogar 100+
+2018,111,4,Nashville Predators,Jachym Kondelik,F,CZE,Czechia,0.7,1,1.0,Vai jogar 100+
+2018,112,4,Philadelphia Flyers,Jack St. Ivany,D,USA,NCAA,0.48,1,1.0,Vai jogar 100+
+2018,113,4,Los Angeles Kings,Aidan Dudas,F,CAN,OHL,0.73,1,1.0,Vai jogar 100+
+2018,115,4,Vegas Golden Knights,Paul Cotter,F,USA,USHL,0.62,1,0.89,Vai jogar 100+
+2018,116,4,Anaheim Ducks,Jack Perbix,F,USA,NCAA,0.67,1,1.0,Vai jogar 100+
+2018,117,4,Buffalo Sabres,Linus Cronholm,D,SWE,HockeyAllsvenskan,0.21,1,1.0,Vai jogar 100+
+2018,118,4,Toronto Maple Leafs,Mac Hollowell,D,CAN,OHL,0.64,1,1.0,Vai jogar 100+
+2018,119,4,Boston Bruins,Curtis Hall,F,USA,USHL,0.55,1,1.0,Vai jogar 100+
+2018,120,4,Chicago Blackhawks,Philipp Kurashev,F,CHE,QMJHL,0.96,1,1.0,Vai jogar 100+
+2018,121,4,Tampa Bay Lightning,Alex Green,D,USA,DEL,0.33,1,1.0,Vai jogar 100+
+2018,122,4,Calgary Flames,Milos Roman,F,SVK,Czechia,0.52,1,1.0,Vai jogar 100+
+2018,123,4,Montréal Canadiens,Jack Gorniak,F,USA,NCAA,0.37,1,1.0,Vai jogar 100+
+2018,125,5,Buffalo Sabres,Miska Kukkonen,D,FIN,Liiga,0.21,1,1.0,Vai jogar 100+
+2018,126,5,Ottawa Senators,Angus Crookshank,F,CAN,NCAA,0.7,1,0.35,Vai jogar 100+
+2018,127,5,Philadelphia Flyers,Wyatte Wylie,D,USA,WHL,0.53,1,1.0,Vai jogar 100+
+2018,128,5,Montréal Canadiens,Cole Fonstad,F,CAN,WHL,0.83,1,1.0,Vai jogar 100+
+2018,129,5,Pittsburgh Penguins,Justin Almeida,F,CAN,WHL,0.95,1,1.0,Vai jogar 100+
+2018,130,5,Vancouver Canucks,Toni Utunen,D,FIN,Liiga,0.19,1,1.0,Vai jogar 100+
+2018,131,5,Nashville Predators,Spencer Stastney,D,USA,NCAA,0.39,1,0.98,Vai jogar 100+
+2018,132,5,New York Rangers,Lauri Pajuniemi,F,FIN,Liiga,0.62,1,1.0,Vai jogar 100+
+2018,133,5,Montréal Canadiens,Samuel Houde,F,CAN,QMJHL,0.71,1,1.0,Vai jogar 100+
+2018,134,5,New York Islanders,Blade Jenkins,F,USA,OHL,0.57,1,1.0,Vai jogar 100+
+2018,135,5,Vegas Golden Knights,Brandon Kruse,F,USA,NCAA,0.89,1,1.0,Vai jogar 100+
+2018,137,5,Dallas Stars,Riley Damiani,F,CAN,OHL,0.84,1,1.0,Vai jogar 100+
+2018,138,5,St. Louis Blues,Hugh McGing,F,USA,NCAA,0.72,1,1.0,Vai jogar 100+
+2018,139,5,Chicago Blackhawks,Mikael Hakkarainen,F,FIN,USHL,0.81,1,0.99,Vai jogar 100+
+2018,140,5,Colorado Avalanche,Brandon Saigeon,F,CAN,OHL,0.83,1,1.0,Vai jogar 100+
+2018,141,5,New Jersey Devils,Yegor Sharangovich,F,BLR,KHL,0.44,1,0.91,Vai jogar 100+
+2018,142,5,Arizona Coyotes,Michael Callahan,D,USA,NCAA,0.54,1,0.99,Vai jogar 100+
+2018,145,5,Arizona Coyotes,Dennis Busby,D,CAN,OHL,0.37,1,0.98,Vai jogar 100+
+2018,146,5,Colorado Avalanche,Daniil Zhuravlyov,D,RUS,KHL,0.22,1,1.0,Vai jogar 100+
+2018,148,5,Minnesota Wild,Simon Johansson,D,SWE,Liiga,0.53,1,1.0,Vai jogar 100+
+2018,149,5,Toronto Maple Leafs,Filip Král,D,CZE,WHL,0.62,1,1.0,Vai jogar 100+
+2018,150,5,Winnipeg Jets,Declan Chisholm,D,CAN,OHL,0.66,1,1.0,Vai jogar 100+
+2018,151,5,Nashville Predators,Vladislav Yeryomenko,D,BLR,KHL,0.32,1,1.0,Vai jogar 100+
+2018,153,5,Winnipeg Jets,Giovanni Vallati,D,CAN,OHL,0.48,1,1.0,Vai jogar 100+
+2018,154,5,Vegas Golden Knights,Connor Corcoran,D,CAN,OHL,0.48,1,1.0,Vai jogar 100+
+2018,155,5,Minnesota Wild,Damien Giroux,F,CAN,OHL,0.76,1,0.98,Vai jogar 100+
+2018,156,6,Toronto Maple Leafs,Pontus Holmberg,F,SWE,SHL,0.48,1,0.94,Vai jogar 100+
+2018,159,6,Columbus Blue Jackets,Tim Berni,D,CHE,NL,0.24,1,1.0,Vai jogar 100+
+2018,161,6,Washington Capitals,Alex Kannok Leipert,D,CAN,WHL,0.38,1,1.0,Vai jogar 100+
+2018,163,6,New York Rangers,Simon Kjellberg,D,SWE,NCAA,0.32,1,0.99,Vai jogar 100+
+2018,164,6,Edmonton Oilers,Michael Kesselring,D,USA,USHS-Prep,0.49,1,1.0,Vai jogar 100+
+2018,165,6,Los Angeles Kings,Johan Södergran,F,SWE,SHL,0.36,1,1.0,Vai jogar 100+
+2018,166,6,Carolina Hurricanes,Jesper Sellgren,D,SWE,SHL,0.32,1,1.0,Vai jogar 100+
+2018,167,6,Calgary Flames,Mathias Emilio Pettersen,F,NOR,USHL,0.66,1,1.0,Vai jogar 100+
+2018,168,6,Dallas Stars,Dawson Barteaux,D,CAN,WHL,0.47,1,1.0,Vai jogar 100+
+2018,169,6,St. Louis Blues,Mathias Laferrière,F,CAN,QMJHL,0.85,1,1.0,Vai jogar 100+
+2018,170,6,Florida Panthers,Justin Schütz,F,DEU,DEL,0.58,1,1.0,Vai jogar 100+
+2018,171,6,Colorado Avalanche,Nikolai Kovalenko,F,RUS,KHL,0.56,1,1.0,Vai jogar 100+
+2018,172,6,New Jersey Devils,Mitchell Hoelscher,F,CAN,OHL,0.74,1,1.0,Vai jogar 100+
+2018,174,6,Philadelphia Flyers,Gavin Hain,F,USA,NCAA,0.65,1,1.0,Vai jogar 100+
+2018,177,6,Pittsburgh Penguins,Liam Gorman,F,USA,NCAA,0.59,1,1.0,Vai jogar 100+
+2018,178,6,Anaheim Ducks,Hunter Drew,F,CAN,QMJHL,0.58,1,1.0,Vai jogar 100+
+2018,179,6,Minnesota Wild,Shawn Boudrias,F,CAN,QMJHL,0.74,1,1.0,Vai jogar 100+
+2018,180,6,Vegas Golden Knights,Peter DiLiberatore,D,CAN,NCAA,0.66,1,1.0,Vai jogar 100+
+2018,181,6,Boston Bruins,Dustyn McFaul,D,CAN,NCAA,0.19,1,0.99,Vai jogar 100+
+2018,182,6,San Jose Sharks,John Leonard,F,USA,USHL,1.05,1,1.0,Vai jogar 100+
+2018,183,6,Tampa Bay Lightning,Cole Koepke,F,USA,NCAA,0.91,1,1.0,Vai jogar 100+
+2018,185,6,Vegas Golden Knights,Xavier Bouchard,D,CAN,QMJHL,0.56,1,1.0,Vai jogar 100+
+2018,186,6,Vancouver Canucks,Artyom Manukyan,F,RUS,MHL,0.67,1,1.0,Vai jogar 100+
+2018,187,7,Buffalo Sabres,William Worge Kreü,D,SWE,SHL,0.19,1,1.0,Vai jogar 100+
+2018,188,7,Ottawa Senators,Jakov Novak,F,CAN,NCAA,0.74,1,1.0,Vai jogar 100+
+2018,189,7,Arizona Coyotes,Liam Kirk,F,ENG,OHL,0.85,1,1.0,Vai jogar 100+
+2018,190,7,Montréal Canadiens,Brett Stapley,F,CAN,NCAA,0.81,1,1.0,Vai jogar 100+
+2018,191,7,Detroit Red Wings,Otto Kivenmäki,F,FIN,Liiga,0.58,1,1.0,Vai jogar 100+
+2018,193,7,Chicago Blackhawks,Josiah Slavin,F,USA,USHL,0.58,1,1.0,Vai jogar 100+
+2018,194,7,Ottawa Senators,Luke Loheit,F,USA,NCAA,0.46,1,1.0,Vai jogar 100+
+2018,195,7,Edmonton Oilers,Patrik Siikanen,F,FIN,Liiga,0.35,1,0.99,Vai jogar 100+
+2018,196,7,New York Islanders,Christian Krygier,D,USA,NCAA,0.12,1,0.98,Vai jogar 100+
+2018,198,7,Calgary Flames,Dmitry Zavgorodny,F,RUS,KHL,0.67,1,1.0,Vai jogar 100+
+2018,199,7,Dallas Stars,Jermaine Loewen,F,CAN,WHL,0.48,1,1.0,Vai jogar 100+
+2018,200,7,St. Louis Blues,Tyler Tucker,D,CAN,OHL,0.62,1,1.0,Vai jogar 100+
+2018,201,7,Florida Panthers,Cole Krygier,D,USA,NCAA,0.25,1,1.0,Vai jogar 100+
+2018,203,7,New Jersey Devils,Eetu Päkkilä,F,FIN,Liiga,0.41,1,0.99,Vai jogar 100+
+2018,204,7,Columbus Blue Jackets,Trey Fix-Wolansky,F,CAN,WHL,1.19,1,1.0,Vai jogar 100+
+2018,205,7,Philadelphia Flyers,Marcus Westfält,F,SWE,SHL,0.3,1,1.0,Vai jogar 100+
+2018,206,7,Tampa Bay Lightning,Radim Salda,D,CZE,Czechia,0.27,1,0.99,Vai jogar 100+
+2018,207,7,Florida Panthers,Santtu Kinnunen,D,FIN,Liiga,0.37,1,1.0,Vai jogar 100+
+2018,210,7,Minnesota Wild,Sam Hentges,F,USA,NCAA,0.98,1,1.0,Vai jogar 100+
+2018,211,7,Toronto Maple Leafs,Semyon Kizimov,F,RUS,KHL,0.45,1,1.0,Vai jogar 100+
+2018,212,7,Boston Bruins,Pavel Shen,F,RUS,KHL,0.42,1,1.0,Vai jogar 100+
+2018,215,7,Winnipeg Jets,Austin Wong,F,CAN,NCAA,0.23,1,1.0,Vai jogar 100+
+2018,216,7,New York Rangers,Riley Hughes,F,CAN,NCAA,0.45,1,1.0,Vai jogar 100+
+2018,217,7,Washington Capitals,Eric Florchuk,F,CAN,WHL,0.69,1,1.0,Vai jogar 100+
+2019,1,1,New Jersey Devils,Jack Hughes,F,USA,USDP,2.05,1,1.0,Vai jogar 100+
+2019,2,1,New York Rangers,Kaapo Kakko,F,FIN,Liiga,0.76,0,0.01,Não vai jogar 100+
+2019,3,1,Chicago Blackhawks,Kirby Dach,F,CAN,WHL,0.97,1,0.91,Vai jogar 100+
+2019,4,1,Colorado Avalanche,Bowen Byram,D,CAN,WHL,0.8,1,1.0,Vai jogar 100+
+2019,5,1,Los Angeles Kings,Alex Turcotte,F,USA,USDP,1.27,1,1.0,Vai jogar 100+
+2019,6,1,Detroit Red Wings,Moritz Seider,D,DEU,SHL,0.46,0,0.16,Não vai jogar 100+
+2019,7,1,Buffalo Sabres,Dylan Cozens,F,CAN,WHL,1.25,1,1.0,Vai jogar 100+
+2019,8,1,Edmonton Oilers,Philip Broberg,D,SWE,SHL,0.3,1,0.94,Vai jogar 100+
+2019,9,1,Anaheim Ducks,Trevor Zegras,F,USA,USDP,1.26,1,1.0,Vai jogar 100+
+2019,10,1,Vancouver Canucks,Vasili Podkolzin,F,RUS,KHL,0.38,1,0.3,Vai jogar 100+
+2019,11,1,Arizona Coyotes,Victor Söderström,D,SWE,SHL,0.47,1,1.0,Vai jogar 100+
+2019,12,1,Minnesota Wild,Matt Boldy,F,USA,USDP,1.16,1,1.0,Vai jogar 100+
+2019,14,1,Philadelphia Flyers,Cam York,D,USA,USDP,0.8,1,1.0,Vai jogar 100+
+2019,15,1,Montréal Canadiens,Cole Caufield,F,USA,USDP,1.37,1,1.0,Vai jogar 100+
+2019,16,1,Colorado Avalanche,Alex Newhook,F,CAN,NCAA,1.26,0,0.03,Não vai jogar 100+
+2019,17,1,Vegas Golden Knights,Peyton Krebs,F,CAN,WHL,1.16,1,1.0,Vai jogar 100+
+2019,18,1,Dallas Stars,Thomas Harley,D,CAN,OHL,0.69,1,0.99,Vai jogar 100+
+2019,19,1,Ottawa Senators,Lassi Thomson,D,FIN,WHL,0.5,1,0.99,Vai jogar 100+
+2019,20,1,Winnipeg Jets,Ville Heinola,D,FIN,Liiga,0.43,0,0.23,Não vai jogar 100+
+2019,21,1,Pittsburgh Penguins,Samuel Poulin,F,CAN,QMJHL,1.19,1,1.0,Vai jogar 100+
+2019,22,1,Los Angeles Kings,Tobias Björnfot,D,SWE,SuperElit,0.46,1,0.87,Vai jogar 100+
+2019,23,1,New York Islanders,Simon Holmström,F,SWE,SuperElit,0.84,0,0.24,Não vai jogar 100+
+2019,24,1,Nashville Predators,Philip Tomasino,F,CAN,OHL,1.03,1,1.0,Vai jogar 100+
+2019,25,1,Washington Capitals,Connor McMichael,F,CAN,OHL,1.06,1,0.99,Vai jogar 100+
+2019,26,1,Calgary Flames,Jakob Pelletier,F,CAN,QMJHL,1.31,1,1.0,Vai jogar 100+
+2019,27,1,Tampa Bay Lightning,Nolan Foote,F,CAN,WHL,0.88,1,1.0,Vai jogar 100+
+2019,28,1,Carolina Hurricanes,Ryan Suzuki,F,CAN,OHL,1.02,1,1.0,Vai jogar 100+
+2019,29,1,Anaheim Ducks,Brayden Tracey,F,CAN,WHL,0.95,1,1.0,Vai jogar 100+
+2019,30,1,Boston Bruins,John Beecher,F,USA,USDP,0.65,1,1.0,Vai jogar 100+
+2019,31,1,Buffalo Sabres,Ryan Johnson,D,USA,NCAA,0.43,1,1.0,Vai jogar 100+
+2019,32,2,Ottawa Senators,Shane Pinto,F,USA,NCAA,1.02,1,0.98,Vai jogar 100+
+2019,33,2,Los Angeles Kings,Arthur Kaliyev,F,USA,OHL,1.29,1,0.99,Vai jogar 100+
+2019,34,2,Philadelphia Flyers,Bobby Brink,F,USA,NCAA,1.19,1,1.0,Vai jogar 100+
+2019,35,2,Detroit Red Wings,Antti Tuomisto,D,FIN,Liiga,0.34,1,0.82,Vai jogar 100+
+2019,38,2,Edmonton Oilers,Raphaël Lavoie,F,CAN,QMJHL,1.01,1,1.0,Vai jogar 100+
+2019,39,2,Anaheim Ducks,Jackson LaCombe,D,USA,NCAA,0.94,1,1.0,Vai jogar 100+
+2019,40,2,Vancouver Canucks,Nils Höglander,F,SWE,SHL,0.41,1,1.0,Vai jogar 100+
+2019,41,2,Vegas Golden Knights,Kaedan Korczak,D,CAN,WHL,0.5,1,0.99,Vai jogar 100+
+2019,42,2,Minnesota Wild,Vladislav Firstov,F,RUS,KHL,0.62,1,1.0,Vai jogar 100+
+2019,43,2,Chicago Blackhawks,Alex Vlasic,D,USA,USDP,0.39,1,1.0,Vai jogar 100+
+2019,44,2,Carolina Hurricanes,Jamieson Rees,F,CAN,OHL,0.93,1,0.98,Vai jogar 100+
+2019,45,2,Nashville Predators,Yegor Afanasyev,F,RUS,USHL,0.74,1,1.0,Vai jogar 100+
+2019,46,2,Montréal Canadiens,Jayden Struble,D,USA,NCAA,0.73,1,1.0,Vai jogar 100+
+2019,47,2,Colorado Avalanche,Drew Helleson,D,USA,USDP,0.51,1,1.0,Vai jogar 100+
+2019,48,2,San Jose Sharks,Artemi Knyazev,D,RUS,QMJHL,0.46,1,1.0,Vai jogar 100+
+2019,49,2,New York Rangers,Matthew Robertson,D,CAN,WHL,0.61,1,1.0,Vai jogar 100+
+2019,50,2,Los Angeles Kings,Samuel Fagemo,F,SWE,SHL,0.66,1,1.0,Vai jogar 100+
+2019,51,2,Winnipeg Jets,Simon Lundmark,D,SWE,SHL,0.31,1,0.99,Vai jogar 100+
+2019,52,2,Florida Panthers,Vladislav Kolyachonok,D,BLR,OHL,0.45,1,0.94,Vai jogar 100+
+2019,53,2,Toronto Maple Leafs,Nick Robertson,F,USA,OHL,1.07,1,1.0,Vai jogar 100+
+2019,54,2,Detroit Red Wings,Robert Mastrosimone,F,USA,NCAA,0.83,1,1.0,Vai jogar 100+
+2019,55,2,San Jose Sharks,Dillon Hamaliuk,F,CAN,WHL,0.55,1,1.0,Vai jogar 100+
+2019,56,2,Washington Capitals,Brett Leason,F,CAN,WHL,0.74,1,0.98,Vai jogar 100+
+2019,57,2,New York Islanders,Samuel Bolduc,D,CAN,QMJHL,0.5,1,0.99,Vai jogar 100+
+2019,58,2,New York Rangers,Karl Henriksson,F,SWE,SHL,0.5,1,1.0,Vai jogar 100+
+2019,60,2,Detroit Red Wings,Albert Johansson,D,SWE,SHL,0.48,1,1.0,Vai jogar 100+
+2019,61,2,New Jersey Devils,Nikita Okhotyuk,D,RUS,OHL,0.25,1,1.0,Vai jogar 100+
+2019,62,2,St. Louis Blues,Nikita Alexandrov,F,RUS,QMJHL,0.78,1,1.0,Vai jogar 100+
+2019,63,3,Colorado Avalanche,Matt Stienburg,F,CAN,NCAA,0.62,1,0.37,Vai jogar 100+
+2019,64,3,Montréal Canadiens,Mattias Norlinder,D,SWE,SHL,0.38,1,1.0,Vai jogar 100+
+2019,65,3,Nashville Predators,Alexander Campbell,F,CAN,NCAA,1.0,1,0.93,Vai jogar 100+
+2019,66,3,Detroit Red Wings,Albin Grewe,F,SWE,HockeyAllsvenskan,0.41,1,1.0,Vai jogar 100+
+2019,68,3,New York Rangers,Zac Jones,D,USA,NCAA,0.85,1,0.84,Vai jogar 100+
+2019,69,3,Florida Panthers,John Ludvig,D,CAN,WHL,0.47,1,1.0,Vai jogar 100+
+2019,70,3,New Jersey Devils,Daniil Misyul,D,RUS,KHL,0.15,1,1.0,Vai jogar 100+
+2019,72,3,Philadelphia Flyers,Ronnie Attard,D,USA,USHL,0.66,1,1.0,Vai jogar 100+
+2019,73,3,Carolina Hurricanes,Patrik Puistola,F,FIN,Liiga,0.55,1,0.97,Vai jogar 100+
+2019,74,3,Pittsburgh Penguins,Nathan Légaré,F,CAN,QMJHL,1.0,1,1.0,Vai jogar 100+
+2019,75,3,Minnesota Wild,Adam Beckman,F,CAN,WHL,1.28,1,0.97,Vai jogar 100+
+2019,76,3,Arizona Coyotes,John Farinacci,F,USA,NCAA,1.03,1,0.94,Vai jogar 100+
+2019,77,3,Montréal Canadiens,Gianni Fairbrother,D,CAN,WHL,0.47,1,1.0,Vai jogar 100+
+2019,78,3,Colorado Avalanche,Alex Beaucage,F,CAN,QMJHL,0.98,1,1.0,Vai jogar 100+
+2019,79,3,Vegas Golden Knights,Pavel Dorofeyev,F,RUS,KHL,0.59,1,0.98,Vai jogar 100+
+2019,80,3,New Jersey Devils,Graeme Clarke,F,CAN,OHL,0.55,1,0.99,Vai jogar 100+
+2019,81,3,Florida Panthers,Cole Schwindt,F,CAN,OHL,0.72,1,0.98,Vai jogar 100+
+2019,82,3,New Jersey Devils,Michael Vukojevic,D,CAN,OHL,0.31,1,0.99,Vai jogar 100+
+2019,83,3,Carolina Hurricanes,Anttoni Honka,D,FIN,Liiga,0.53,1,1.0,Vai jogar 100+
+2019,84,3,Toronto Maple Leafs,Mikko Kokkonen,D,FIN,Liiga,0.23,1,1.0,Vai jogar 100+
+2019,86,3,Vegas Golden Knights,Layton Ahac,D,CAN,Czechia,0.25,1,0.93,Vai jogar 100+
+2019,88,3,Calgary Flames,Ilya Nikolayev,F,RUS,MHL,0.72,1,1.0,Vai jogar 100+
+2019,89,3,Tampa Bay Lightning,Maxim Cajkovic,F,SVK,QMJHL,0.7,1,1.0,Vai jogar 100+
+2019,90,3,Carolina Hurricanes,Domenick Fensore,D,USA,NCAA,0.67,1,1.0,Vai jogar 100+
+2019,91,3,Washington Capitals,Alexei Protas,F,BLR,WHL,0.78,1,0.8,Vai jogar 100+
+2019,92,3,Boston Bruins,Quinn Olson,F,CAN,NCAA,0.55,1,0.99,Vai jogar 100+
+2019,94,4,Ottawa Senators,Viktor Lodin,F,SWE,SHL,0.68,1,1.0,Vai jogar 100+
+2019,95,4,Los Angeles Kings,Jordan Spence,D,CAN,QMJHL,0.88,1,1.0,Vai jogar 100+
+2019,96,4,New Jersey Devils,Tyce Thompson,F,USA,NCAA,0.72,1,1.0,Vai jogar 100+
+2019,97,4,Detroit Red Wings,Ethan Phillips,F,CAN,NCAA,0.62,1,0.98,Vai jogar 100+
+2019,98,4,Arizona Coyotes,Matias Maccelli,F,FIN,USHL,0.84,1,0.99,Vai jogar 100+
+2019,99,4,Carolina Hurricanes,Cade Webber,D,USA,NCAA,0.32,1,0.99,Vai jogar 100+
+2019,100,4,Edmonton Oilers,Matěj Blümel,F,CZE,Czechia,0.59,1,0.99,Vai jogar 100+
+2019,101,4,Anaheim Ducks,Henry Thrun,D,USA,USDP,0.75,1,1.0,Vai jogar 100+
+2019,102,4,Buffalo Sabres,Aaron Huglen,F,USA,NCAA,0.81,1,1.0,Vai jogar 100+
+2019,103,4,Philadelphia Flyers,Mason Millman,D,CAN,OHL,0.53,1,0.97,Vai jogar 100+
+2019,104,4,Columbus Blue Jackets,Eric Hjorth,D,SWE,HockeyAllsvenskan,0.34,1,1.0,Vai jogar 100+
+2019,105,4,Chicago Blackhawks,Michal Teplý,F,CZE,Czechia,0.66,1,0.98,Vai jogar 100+
+2019,106,4,Florida Panthers,Carter Berger,D,CAN,NCAA,0.5,1,1.0,Vai jogar 100+
+2019,107,4,Arizona Coyotes,Alexander Daryin,F,RUS,KHL,0.59,1,1.0,Vai jogar 100+
+2019,108,4,San Jose Sharks,Yegor Spiridonov,F,RUS,MHL,0.46,1,1.0,Vai jogar 100+
+2019,109,4,Nashville Predators,Marc Del Gaizo,D,USA,USHL,0.57,1,1.0,Vai jogar 100+
+2019,110,4,Vegas Golden Knights,Ryder Donovan,F,USA,USHS-MN,0.58,1,1.0,Vai jogar 100+
+2019,111,4,Dallas Stars,Samuel Sjölund,D,SWE,NCAA,0.54,1,0.99,Vai jogar 100+
+2019,112,4,New York Rangers,Hunter Skinner,D,USA,USHL,0.37,1,0.98,Vai jogar 100+
+2019,113,4,Winnipeg Jets,Henri Nikkanen,F,FIN,Liiga,0.44,1,0.99,Vai jogar 100+
+2019,114,4,Columbus Blue Jackets,Dmitri Voronkov,F,RUS,KHL,0.41,1,1.0,Vai jogar 100+
+2019,115,4,Toronto Maple Leafs,Mikhail Abramov,F,RUS,QMJHL,0.87,1,1.0,Vai jogar 100+
+2019,116,4,Calgary Flames,Lucas Feuk,F,SWE,SuperElit,0.61,1,0.99,Vai jogar 100+
+2019,117,4,Nashville Predators,Semyon Chistyakov,D,RUS,KHL,0.4,1,1.0,Vai jogar 100+
+2019,118,4,New Jersey Devils,Case McCarthy,D,USA,NCAA,0.4,1,1.0,Vai jogar 100+
+2019,119,4,Los Angeles Kings,Kim Nousiainen,D,FIN,Liiga,0.39,1,1.0,Vai jogar 100+
+2019,120,4,Tampa Bay Lightning,Maxwell Crozier,D,CAN,NCAA,0.64,1,0.98,Vai jogar 100+
+2019,121,4,Carolina Hurricanes,Tuukka Tieksola,F,FIN,Liiga,0.4,1,1.0,Vai jogar 100+
+2019,122,4,Vancouver Canucks,Ethan Keppen,F,CAN,OHL,0.67,1,1.0,Vai jogar 100+
+2019,123,4,Chicago Blackhawks,Antti Saarela,F,FIN,Liiga,0.48,1,1.0,Vai jogar 100+
+2019,124,4,Toronto Maple Leafs,Nick Abruzzese,F,USA,USHL,1.09,1,1.0,Vai jogar 100+
+2019,125,5,Ottawa Senators,Mark Kastelic,F,USA,WHL,0.73,1,1.0,Vai jogar 100+
+2019,126,5,Montréal Canadiens,Jacob LeGuerrier,D,CAN,OHL,0.28,1,0.98,Vai jogar 100+
+2019,128,5,Detroit Red Wings,Cooper Moore,D,USA,NCAA,0.52,1,1.0,Vai jogar 100+
+2019,129,5,New Jersey Devils,Arseni Gritsyuk,F,RUS,KHL,0.79,1,1.0,Vai jogar 100+
+2019,130,5,New York Rangers,Leevi Aaltonen,F,FIN,Liiga,0.2,1,0.99,Vai jogar 100+
+2019,131,5,Montréal Canadiens,Rhett Pitlick,F,USA,NCAA,1.05,1,1.0,Vai jogar 100+
+2019,132,5,Anaheim Ducks,Trevor Janicke,F,USA,NCAA,0.46,1,1.0,Vai jogar 100+
+2019,133,5,Vancouver Canucks,Carson Focht,F,CAN,WHL,0.61,1,1.0,Vai jogar 100+
+2019,134,5,Winnipeg Jets,Harrison Blaisdell,F,CAN,NCAA,0.3,1,0.9,Vai jogar 100+
+2019,136,5,Florida Panthers,Henrik Rybinski,F,CAN,WHL,0.76,1,1.0,Vai jogar 100+
+2019,137,5,Florida Panthers,Owen Lindmark,F,USA,NCAA,0.49,1,1.0,Vai jogar 100+
+2019,139,5,Vegas Golden Knights,Marcus Kallionkieli,F,FIN,WHL,0.77,1,0.77,Vai jogar 100+
+2019,140,5,Colorado Avalanche,Sasha Mutala,F,CAN,WHL,0.74,1,1.0,Vai jogar 100+
+2019,141,5,Vegas Golden Knights,Mason Primeau,F,CAN,OHL,0.37,1,0.99,Vai jogar 100+
+2019,142,5,Dallas Stars,Nicholas Porco,F,CAN,OHL,0.49,1,0.99,Vai jogar 100+
+2019,143,5,Buffalo Sabres,Filip Cederqvist,F,SWE,SHL,0.5,1,0.99,Vai jogar 100+
+2019,145,5,Pittsburgh Penguins,Judd Caulfield,F,USA,NCAA,0.58,1,1.0,Vai jogar 100+
+2019,146,5,Toronto Maple Leafs,Mike Koster,D,USA,NCAA,0.89,1,1.0,Vai jogar 100+
+2019,147,5,New York Islanders,Reece Newkirk,F,CAN,WHL,0.79,1,1.0,Vai jogar 100+
+2019,149,5,Minnesota Wild,Matvei Guskov,F,RUS,KHL,0.39,1,1.0,Vai jogar 100+
+2019,150,5,Calgary Flames,Josh Nodler,F,USA,NCAA,0.43,1,0.88,Vai jogar 100+
+2019,151,5,Arizona Coyotes,Aku Räty,F,FIN,Liiga,0.59,1,0.98,Vai jogar 100+
+2019,152,5,Carolina Hurricanes,Kirill Slepets,F,RUS,KHL,0.4,1,1.0,Vai jogar 100+
+2019,153,5,Washington Capitals,Martin Has,D,CZE,QMJHL,0.33,1,0.33,Vai jogar 100+
+2019,154,5,Boston Bruins,Roman Bychkov,D,RUS,MHL,0.25,1,0.99,Vai jogar 100+
+2019,155,5,St. Louis Blues,Keean Washkurak,F,CAN,OHL,0.65,1,1.0,Vai jogar 100+
+2019,157,6,Los Angeles Kings,Braden Doyle,D,USA,USHL,0.55,1,1.0,Vai jogar 100+
+2019,158,6,New Jersey Devils,Patrick Moynihan,F,USA,NCAA,0.66,1,1.0,Vai jogar 100+
+2019,159,6,Detroit Red Wings,Elmer Söderblom,F,SWE,SHL,0.63,1,1.0,Vai jogar 100+
+2019,160,6,Buffalo Sabres,Lukas Rousek,F,CZE,Czechia,0.51,1,0.95,Vai jogar 100+
+2019,161,6,New York Rangers,Adam Edström,F,SWE,SHL,0.29,1,1.0,Vai jogar 100+
+2019,162,6,Edmonton Oilers,Tomas Mazura,F,CZE,NCAA,0.9,1,1.0,Vai jogar 100+
+2019,163,6,Anaheim Ducks,Will Francis,D,USA,USHL,0.36,1,1.0,Vai jogar 100+
+2019,164,6,San Jose Sharks,Timur Ibragimov,F,RUS,MHL,0.47,1,0.97,Vai jogar 100+
+2019,165,6,Philadelphia Flyers,Yegor Serdyuk,F,RUS,QMJHL,0.85,1,0.99,Vai jogar 100+
+2019,166,6,Minnesota Wild,Marshall Warren,D,USA,NCAA,0.5,1,1.0,Vai jogar 100+
+2019,168,6,Florida Panthers,Greg Meireles,F,CAN,OHL,0.92,1,1.0,Vai jogar 100+
+2019,170,6,Montréal Canadiens,Arsen Khisamutdinov,F,RUS,MHL,0.68,1,1.0,Vai jogar 100+
+2019,171,6,Colorado Avalanche,Luka Burzan,F,CAN,WHL,0.74,1,1.0,Vai jogar 100+
+2019,172,6,Minnesota Wild,Nikita Nesterenko,F,USA,NCAA,0.93,1,1.0,Vai jogar 100+
+2019,173,6,Dallas Stars,Ben Brinkman,D,USA,NCAA,0.4,1,1.0,Vai jogar 100+
+2019,174,6,Arizona Coyotes,Danil Savunov,F,RUS,KHL,0.14,0,0.16,Não vai jogar 100+
+2019,175,6,Vancouver Canucks,Karel Plasek,F,CZE,Czechia,0.31,1,0.95,Vai jogar 100+
+2019,176,6,Arizona Coyotes,Anthony Romano,F,CAN,NCAA,0.7,1,0.99,Vai jogar 100+
+2019,177,6,Detroit Red Wings,Gustav Berglund,D,SWE,HockeyAllsvenskan,0.23,0,0.28,Não vai jogar 100+
+2019,178,6,New York Islanders,Félix Bibeau,F,CAN,QMJHL,0.87,1,1.0,Vai jogar 100+
+2019,179,6,Nashville Predators,Isak Walther,F,SWE,NCAA,0.49,1,1.0,Vai jogar 100+
+2019,180,6,Vancouver Canucks,Jack Malone,F,USA,USHL,0.73,1,1.0,Vai jogar 100+
+2019,181,6,Carolina Hurricanes,Kevin Wall,F,USA,NCAA,0.8,1,0.99,Vai jogar 100+
+2019,182,6,Tampa Bay Lightning,Quinn Schmiemann,D,CAN,WHL,0.56,1,1.0,Vai jogar 100+
+2019,183,6,Carolina Hurricanes,Blake Murray,F,CAN,OHL,0.89,1,1.0,Vai jogar 100+
+2019,184,6,San Jose Sharks,Santeri Hatakka,D,FIN,Liiga,0.18,1,0.98,Vai jogar 100+
+2019,185,6,Boston Bruins,Matias Mäntykivi,F,FIN,Liiga,0.58,1,1.0,Vai jogar 100+
+2019,186,6,Anaheim Ducks,Mathew Hill,D,CAN,OHL,0.16,1,0.99,Vai jogar 100+
+2019,187,7,Ottawa Senators,Maxence Guénette,D,CAN,QMJHL,0.47,1,0.99,Vai jogar 100+
+2019,188,7,Los Angeles Kings,Andre Lee,F,SWE,NCAA,0.64,1,1.0,Vai jogar 100+
+2019,189,7,New Jersey Devils,Nikola Pasic,F,SWE,SHL,0.53,1,1.0,Vai jogar 100+
+2019,190,7,Detroit Red Wings,Kirill Tyutyayev,F,RUS,MHL,0.95,0,0.29,Não vai jogar 100+
+2019,192,7,Boston Bruins,Jake Schmaltz,F,USA,USHL,0.54,1,1.0,Vai jogar 100+
+2019,193,7,Edmonton Oilers,Maxim Denezhkin,F,RUS,MHL,0.53,1,0.99,Vai jogar 100+
+2019,194,7,Chicago Blackhawks,Cole Moberg,D,CAN,WHL,0.48,1,0.93,Vai jogar 100+
+2019,195,7,Vancouver Canucks,Aidan McDonough,F,USA,NCAA,1.13,1,1.0,Vai jogar 100+
+2019,196,7,Philadelphia Flyers,Bryce Brodzinski,F,USA,NCAA,1.1,1,1.0,Vai jogar 100+
+2019,198,7,Tampa Bay Lightning,Mikhail Shalagin,F,RUS,MHL,0.91,1,1.0,Vai jogar 100+
+2019,199,7,Florida Panthers,Matthew Wedman,F,CAN,WHL,0.69,1,1.0,Vai jogar 100+
+2019,200,7,Arizona Coyotes,Axel Bergkvist,D,SWE,SHL,0.55,1,1.0,Vai jogar 100+
+2019,201,7,Montréal Canadiens,Rafaël Harvey-Pinard,F,CAN,QMJHL,1.06,1,1.0,Vai jogar 100+
+2019,203,7,Pittsburgh Penguins,Valtteri Puustinen,F,FIN,Liiga,0.62,1,0.96,Vai jogar 100+
+2019,204,7,Toronto Maple Leafs,Kalle Loponen,D,FIN,Liiga,0.36,1,1.0,Vai jogar 100+
+2019,205,7,New York Rangers,Eric Ciccolini,F,CAN,NCAA,0.42,1,0.97,Vai jogar 100+
+2019,206,7,Montréal Canadiens,Kieran Ruscheinski,D,CAN,NCAA,0.15,0,0.07,Não vai jogar 100+
+2019,207,7,Arizona Coyotes,Valentin Nussbaumer,F,CHE,NL,0.52,1,1.0,Vai jogar 100+
+2019,209,7,New York Islanders,Cole Coskey,F,USA,OHL,0.78,1,1.0,Vai jogar 100+
+2019,210,7,Nashville Predators,Juuso Pärssinen,F,FIN,Liiga,0.65,1,0.99,Vai jogar 100+
+2019,211,7,Pittsburgh Penguins,Santeri Airola,D,FIN,Liiga,0.42,1,1.0,Vai jogar 100+
+2019,212,7,Columbus Blue Jackets,Tyler Angle,F,CAN,OHL,0.58,1,1.0,Vai jogar 100+
+2019,213,7,Tampa Bay Lightning,McKade Webster,F,USA,NCAA,0.56,1,1.0,Vai jogar 100+
+2019,215,7,Vancouver Canucks,Arvid Costmar,F,SWE,SHL,0.47,1,1.0,Vai jogar 100+
+2019,216,7,Carolina Hurricanes,Massimo Rizzo,F,CAN,NCAA,1.18,1,0.95,Vai jogar 100+
+2019,217,7,St. Louis Blues,Jérémy Michel,F,CAN,QMJHL,0.73,1,1.0,Vai jogar 100+
+2020,1,1,New York Rangers,Alexis Lafrenière,F,CAN,QMJHL,1.72,1,1.0,Vai jogar 100+
+2020,2,1,Los Angeles Kings,Quinton Byfield,F,CAN,OHL,1.31,1,0.93,Vai jogar 100+
+2020,3,1,Ottawa Senators,Tim Stützle,F,DEU,DEL,0.83,0,0.04,Não vai jogar 100+
+2020,4,1,Detroit Red Wings,Lucas Raymond,F,SWE,SHL,0.7,1,1.0,Vai jogar 100+
+2020,5,1,Ottawa Senators,Jake Sanderson,D,USA,USDP,0.65,1,1.0,Vai jogar 100+
+2020,6,1,Anaheim Ducks,Jamie Drysdale,D,CAN,OHL,0.78,1,0.88,Vai jogar 100+
+2020,7,1,New Jersey Devils,Alexander Holtz,F,SWE,SHL,0.75,1,0.98,Vai jogar 100+
+2020,8,1,Buffalo Sabres,Jack Quinn,F,CAN,OHL,0.93,1,1.0,Vai jogar 100+
+2020,9,1,Minnesota Wild,Marco Rossi,F,AUT,OHL,1.69,1,1.0,Vai jogar 100+
+2020,10,1,Winnipeg Jets,Cole Perfetti,F,CAN,OHL,1.49,1,0.82,Vai jogar 100+
+2020,12,1,Florida Panthers,Anton Lundell,F,FIN,Liiga,0.67,1,0.97,Vai jogar 100+
+2020,13,1,Carolina Hurricanes,Seth Jarvis,F,CAN,WHL,1.08,1,1.0,Vai jogar 100+
+2020,14,1,Edmonton Oilers,Dylan Holloway,F,CAN,NCAA,0.9,0,0.03,Não vai jogar 100+
+2020,15,1,Toronto Maple Leafs,Rodion Amirov,F,RUS,KHL,0.53,1,1.0,Vai jogar 100+
+2020,16,1,Montréal Canadiens,Kaiden Guhle,D,CAN,WHL,0.55,1,1.0,Vai jogar 100+
+2020,17,1,Chicago Blackhawks,Lukas Reichel,F,DEU,DEL,0.64,0,0.04,Não vai jogar 100+
+2020,18,1,New Jersey Devils,Dawson Mercer,F,CAN,QMJHL,0.96,1,1.0,Vai jogar 100+
+2020,19,1,New York Rangers,Braden Schneider,D,CAN,WHL,0.56,1,1.0,Vai jogar 100+
+2020,20,1,New Jersey Devils,Shakir Mukhamadullin,D,RUS,KHL,0.3,1,1.0,Vai jogar 100+
+2020,21,1,Columbus Blue Jackets,Egor Chinakhov,F,RUS,MHL,0.83,1,0.85,Vai jogar 100+
+2020,22,1,Washington Capitals,Hendrix Lapierre,F,CAN,QMJHL,1.12,1,1.0,Vai jogar 100+
+2020,23,1,Philadelphia Flyers,Tyson Foerster,F,CAN,OHL,0.82,1,0.96,Vai jogar 100+
+2020,24,1,Calgary Flames,Connor Zary,F,CAN,WHL,1.01,1,1.0,Vai jogar 100+
+2020,25,1,Colorado Avalanche,Justin Barron,D,CAN,QMJHL,0.6,1,1.0,Vai jogar 100+
+2020,26,1,St. Louis Blues,Jake Neighbours,F,CAN,WHL,1.03,1,1.0,Vai jogar 100+
+2020,27,1,Anaheim Ducks,Jacob Perreault,F,CAN,OHL,1.04,1,0.92,Vai jogar 100+
+2020,28,1,Ottawa Senators,Ridly Greig,F,CAN,WHL,1.04,1,1.0,Vai jogar 100+
+2020,29,1,Vegas Golden Knights,Brendan Brisson,F,USA,NCAA,1.33,1,1.0,Vai jogar 100+
+2020,30,1,Dallas Stars,Mavrik Bourque,F,CAN,QMJHL,1.37,1,1.0,Vai jogar 100+
+2020,31,1,San Jose Sharks,Ozzy Wiesblatt,F,CAN,WHL,0.92,1,1.0,Vai jogar 100+
+2020,32,2,Detroit Red Wings,William Wallinder,D,SWE,SHL,0.42,1,1.0,Vai jogar 100+
+2020,33,2,Ottawa Senators,Roby Järventie,F,FIN,Liiga,0.49,0,0.03,Não vai jogar 100+
+2020,34,2,Buffalo Sabres,JJ Peterka,F,DEU,DEL,0.43,0,0.03,Não vai jogar 100+
+2020,35,2,Los Angeles Kings,Helge Grans,D,SWE,SHL,0.45,1,0.95,Vai jogar 100+
+2020,36,2,Anaheim Ducks,Sam Colangelo,F,USA,NCAA,1.05,1,1.0,Vai jogar 100+
+2020,37,2,Minnesota Wild,Marat Khusnutdinov,F,RUS,KHL,0.59,1,1.0,Vai jogar 100+
+2020,38,2,San Jose Sharks,Thomas Bordeleau,F,USA,USDP,0.88,1,1.0,Vai jogar 100+
+2020,39,2,Minnesota Wild,Ryan O'Rourke,D,CAN,OHL,0.63,1,1.0,Vai jogar 100+
+2020,40,2,Winnipeg Jets,Daniel Torgersson,F,SWE,Liiga,0.65,1,1.0,Vai jogar 100+
+2020,41,2,Carolina Hurricanes,Noel Gunler,F,SWE,SHL,0.55,1,1.0,Vai jogar 100+
+2020,42,2,Nashville Predators,Luke Evangelista,F,CAN,OHL,1.15,1,0.99,Vai jogar 100+
+2020,43,2,Florida Panthers,Emil Heineman,F,SWE,SHL,0.5,1,1.0,Vai jogar 100+
+2020,44,2,Ottawa Senators,Tyler Kleven,D,USA,USDP,0.25,1,1.0,Vai jogar 100+
+2020,45,2,Los Angeles Kings,Brock Faber,D,USA,USDP,0.39,1,1.0,Vai jogar 100+
+2020,47,2,Montréal Canadiens,Luke Tuch,F,USA,NCAA,0.58,1,1.0,Vai jogar 100+
+2020,48,2,Montréal Canadiens,Jan Mysak,F,CZE,OHL,0.7,1,0.93,Vai jogar 100+
+2020,50,2,Calgary Flames,Yan Kuznetsov,D,RUS,NCAA,0.31,1,0.78,Vai jogar 100+
+2020,51,2,Detroit Red Wings,Theodor Niederbach,F,SWE,SHL,0.61,1,1.0,Vai jogar 100+
+2020,53,2,Carolina Hurricanes,Vasili Ponomaryov,F,RUS,QMJHL,0.76,1,1.0,Vai jogar 100+
+2020,54,2,Philadelphia Flyers,Emil Andrae,D,SWE,SHL,0.55,1,1.0,Vai jogar 100+
+2020,55,2,Detroit Red Wings,Cross Hanas,F,USA,WHL,0.79,1,1.0,Vai jogar 100+
+2020,56,2,San Jose Sharks,Tristen Robins,F,CAN,WHL,0.91,1,1.0,Vai jogar 100+
+2020,57,2,Tampa Bay Lightning,Jack Finley,F,CAN,WHL,0.66,1,1.0,Vai jogar 100+
+2020,58,2,Boston Bruins,Mason Lohrei,D,USA,USHL,0.78,1,1.0,Vai jogar 100+
+2020,59,2,Toronto Maple Leafs,Roni Hirvonen,F,FIN,Liiga,0.54,1,0.97,Vai jogar 100+
+2020,60,2,New York Rangers,Will Cuylle,F,CAN,OHL,0.89,1,1.0,Vai jogar 100+
+2020,61,2,Ottawa Senators,Yegor Sokolov,F,RUS,QMJHL,0.9,1,1.0,Vai jogar 100+
+2020,62,2,Tampa Bay Lightning,Gage Goncalves,F,CAN,WHL,0.79,1,0.99,Vai jogar 100+
+2020,63,3,Detroit Red Wings,Donovan Sebrango,D,CAN,OHL,0.47,1,0.95,Vai jogar 100+
+2020,64,3,Toronto Maple Leafs,Topi Niemelä,D,FIN,Liiga,0.37,1,0.98,Vai jogar 100+
+2020,65,3,Minnesota Wild,Daemon Hunt,D,CAN,WHL,0.58,1,0.99,Vai jogar 100+
+2020,66,3,Los Angeles Kings,Kasper Simontaival,F,FIN,Liiga,0.55,1,1.0,Vai jogar 100+
+2020,67,3,Anaheim Ducks,Ian Moore,D,USA,NCAA,0.71,1,0.97,Vai jogar 100+
+2020,68,3,Vegas Golden Knights,Lukas Cormier,D,CAN,QMJHL,1.0,1,1.0,Vai jogar 100+
+2020,69,3,Carolina Hurricanes,Alexander Nikishin,D,RUS,KHL,0.57,1,1.0,Vai jogar 100+
+2020,70,3,Detroit Red Wings,Eemil Viro,D,FIN,Liiga,0.22,1,0.99,Vai jogar 100+
+2020,72,3,Calgary Flames,Jérémie Poirier,D,CAN,QMJHL,0.75,1,1.0,Vai jogar 100+
+2020,73,3,Nashville Predators,Luke Prokop,D,CAN,WHL,0.39,1,1.0,Vai jogar 100+
+2020,74,3,Florida Panthers,Ty Smilanic,F,USA,USDP,0.61,1,1.0,Vai jogar 100+
+2020,75,3,Colorado Avalanche,Jean-Luc Foudy,F,CAN,OHL,0.75,1,0.79,Vai jogar 100+
+2020,76,3,San Jose Sharks,Daniil Gushchin,F,RUS,USHL,1.15,1,1.0,Vai jogar 100+
+2020,78,3,Columbus Blue Jackets,Samuel Knazko,D,SVK,Czechia,0.5,0,0.14,Não vai jogar 100+
+2020,79,3,Chicago Blackhawks,Landon Slaggert,F,USA,NCAA,0.58,1,1.0,Vai jogar 100+
+2020,80,3,Calgary Flames,Jake Boltmann,D,USA,NCAA,0.33,1,1.0,Vai jogar 100+
+2020,81,3,Chicago Blackhawks,Wyatt Kaiser,D,USA,NCAA,0.73,1,1.0,Vai jogar 100+
+2020,82,3,Vancouver Canucks,Joni Jurmo,D,FIN,Liiga,0.19,1,1.0,Vai jogar 100+
+2020,83,3,Los Angeles Kings,Alex Laferriere,F,USA,USHL,1.11,1,1.0,Vai jogar 100+
+2020,85,3,Tampa Bay Lightning,Maxim Groshev,D,RUS,KHL,0.26,1,0.99,Vai jogar 100+
+2020,86,3,St. Louis Blues,Dylan Peterson,F,USA,NCAA,0.51,1,1.0,Vai jogar 100+
+2020,87,3,Florida Panthers,Justin Sourdif,F,CAN,WHL,1.03,1,1.0,Vai jogar 100+
+2020,88,3,St. Louis Blues,Leo Lööf,D,SWE,Liiga,0.26,1,1.0,Vai jogar 100+
+2020,89,3,Boston Bruins,Trevor Kuntar,F,USA,USHL,0.63,1,1.0,Vai jogar 100+
+2020,90,3,New York Islanders,Alexander Ljungkrantz,F,SWE,HockeyAllsvenskan,0.39,1,1.0,Vai jogar 100+
+2020,91,3,Vegas Golden Knights,Jackson Hallum,F,USA,USHS-MN,0.89,1,1.0,Vai jogar 100+
+2020,92,3,New York Rangers,Oliver Tärnström,F,SWE,HockeyAllsvenskan,0.41,1,1.0,Vai jogar 100+
+2020,93,3,Tampa Bay Lightning,Jack Thompson,D,CAN,OHL,0.58,1,0.98,Vai jogar 100+
+2020,94,4,Philadelphia Flyers,Zayde Wisdom,F,CAN,OHL,0.65,1,1.0,Vai jogar 100+
+2020,95,4,Florida Panthers,Mike Benning,D,CAN,NCAA,0.82,1,0.89,Vai jogar 100+
+2020,97,4,Detroit Red Wings,Sam Stange,F,USA,NCAA,0.55,1,0.97,Vai jogar 100+
+2020,98,4,San Jose Sharks,Brandon Coe,F,CAN,OHL,0.87,1,1.0,Vai jogar 100+
+2020,99,4,New Jersey Devils,Jaromir Pytlik,F,CZE,Czechia,0.46,1,1.0,Vai jogar 100+
+2020,100,4,Edmonton Oilers,Carter Savoie,F,CAN,NCAA,0.98,1,0.36,Vai jogar 100+
+2020,101,4,Nashville Predators,Adam Wilsby,D,SWE,SHL,0.46,1,1.0,Vai jogar 100+
+2020,102,4,Montréal Canadiens,Jack Smith,F,USA,NCAA,0.78,1,1.0,Vai jogar 100+
+2020,104,4,Anaheim Ducks,Thimo Nickl,D,AUT,HockeyAllsvenskan,0.36,1,1.0,Vai jogar 100+
+2020,105,4,Florida Panthers,Zach Uens,D,CAN,NCAA,0.54,1,0.44,Vai jogar 100+
+2020,108,4,Pittsburgh Penguins,Lukas Svejkovsky,F,USA,WHL,0.74,1,1.0,Vai jogar 100+
+2020,109,4,Montréal Canadiens,Blake Biondi,F,USA,NCAA,1.03,1,1.0,Vai jogar 100+
+2020,110,4,Chicago Blackhawks,Michael Krutil,D,CZE,Czechia,0.1,0,0.11,Não vai jogar 100+
+2020,111,4,Arizona Coyotes,Mitchell Miller,D,USA,USHL,0.78,1,1.0,Vai jogar 100+
+2020,113,4,Vancouver Canucks,Jackson Kunz,F,USA,NCAA,0.78,1,1.0,Vai jogar 100+
+2020,114,4,Columbus Blue Jackets,Mikael Pyyhtiä,F,FIN,Liiga,0.45,1,0.94,Vai jogar 100+
+2020,115,4,Carolina Hurricanes,Zion Nybeck,F,SWE,HockeyAllsvenskan,0.78,1,1.0,Vai jogar 100+
+2020,116,4,Tampa Bay Lightning,Eamon Powell,D,USA,NCAA,0.5,1,1.0,Vai jogar 100+
+2020,117,4,Washington Capitals,Bogdan Trineyev,F,RUS,MHL,0.58,1,1.0,Vai jogar 100+
+2020,118,4,Colorado Avalanche,Colby Ambrosio,F,CAN,NCAA,0.58,1,1.0,Vai jogar 100+
+2020,119,4,St. Louis Blues,Tanner Dickinson,F,USA,OHL,0.81,1,1.0,Vai jogar 100+
+2020,120,4,New Jersey Devils,Ethan Edwards,D,CAN,NCAA,0.46,1,1.0,Vai jogar 100+
+2020,121,4,New York Islanders,Alex Jefferies,F,USA,NCAA,1.31,1,1.0,Vai jogar 100+
+2020,122,4,Toronto Maple Leafs,William Villeneuve,D,CAN,QMJHL,0.71,1,1.0,Vai jogar 100+
+2020,123,4,Dallas Stars,Antonio Stranges,F,USA,OHL,0.84,1,0.9,Vai jogar 100+
+2020,124,4,Montréal Canadiens,Sean Farrell,F,USA,USHL,1.11,1,1.0,Vai jogar 100+
+2020,126,5,Edmonton Oilers,Tyler Tullio,F,CAN,OHL,1.0,1,1.0,Vai jogar 100+
+2020,127,5,New York Rangers,Evan Vierling,F,CAN,OHL,0.98,1,0.99,Vai jogar 100+
+2020,128,5,Los Angeles Kings,Martin Chromiak,F,SVK,OHL,0.94,1,0.98,Vai jogar 100+
+2020,129,5,Anaheim Ducks,Artyom Galimov,F,RUS,KHL,0.46,1,1.0,Vai jogar 100+
+2020,130,5,New Jersey Devils,Artem Shlaine,F,USA,NCAA,1.1,1,1.0,Vai jogar 100+
+2020,131,5,Buffalo Sabres,Matteo Costantini,F,CAN,NCAA,0.57,1,0.97,Vai jogar 100+
+2020,132,5,Detroit Red Wings,Alex Cotton,D,CAN,WHL,0.63,1,1.0,Vai jogar 100+
+2020,133,5,Winnipeg Jets,Anton Johannesson,D,SWE,SuperElit,0.64,1,0.37,Vai jogar 100+
+2020,134,5,New York Rangers,Brett Berard,F,USA,USDP,0.7,1,1.0,Vai jogar 100+
+2020,135,5,Philadelphia Flyers,Elliot Desnoyers,F,CAN,QMJHL,0.92,1,1.0,Vai jogar 100+
+2020,137,5,Toronto Maple Leafs,Dmitri Ovchinnikov,F,RUS,MHL,0.6,1,0.97,Vai jogar 100+
+2020,138,5,Edmonton Oilers,Maxim Beryozkin,F,RUS,KHL,0.61,1,1.0,Vai jogar 100+
+2020,139,5,Colorado Avalanche,Ryder Rolston,F,USA,USDP,0.7,1,1.0,Vai jogar 100+
+2020,140,5,Los Angeles Kings,Ben Meehan,D,USA,NCAA,0.53,1,1.0,Vai jogar 100+
+2020,141,5,Chicago Blackhawks,Isaak Phillips,D,CAN,OHL,0.31,1,0.83,Vai jogar 100+
+2020,142,5,Arizona Coyotes,Carson Bantle,F,USA,NCAA,0.52,1,1.0,Vai jogar 100+
+2020,143,5,Calgary Flames,Ryan Francis,F,CAN,QMJHL,0.94,1,1.0,Vai jogar 100+
+2020,144,5,Vancouver Canucks,Jacob Truscott,D,USA,NCAA,0.4,1,1.0,Vai jogar 100+
+2020,145,5,Columbus Blue Jackets,Ole Julian Bjørgvik-Holm,D,NOR,OHL,0.28,1,0.97,Vai jogar 100+
+2020,146,5,Minnesota Wild,Pavel Novák,F,CZE,WHL,0.72,1,1.0,Vai jogar 100+
+2020,147,5,Tampa Bay Lightning,Jaydon Dureau,F,CAN,WHL,0.95,1,1.0,Vai jogar 100+
+2020,148,5,Washington Capitals,Bear Hughes,F,USA,WHL,0.86,1,0.98,Vai jogar 100+
+2020,149,5,Pittsburgh Penguins,Raivis Ansons,F,LVA,QMJHL,0.81,1,0.99,Vai jogar 100+
+2020,150,5,St. Louis Blues,Matt Kessel,D,USA,USHL,0.34,1,1.0,Vai jogar 100+
+2020,151,5,Boston Bruins,Mason Langenbrunner,D,USA,NCAA,0.43,1,1.0,Vai jogar 100+
+2020,152,5,New York Islanders,William Dufour,F,CAN,QMJHL,1.07,1,1.0,Vai jogar 100+
+2020,153,5,Florida Panthers,Kasper Puutio,D,FIN,Liiga,0.35,1,1.0,Vai jogar 100+
+2020,154,5,Dallas Stars,Daniel Ljungman,F,SWE,HockeyAllsvenskan,0.42,1,1.0,Vai jogar 100+
+2020,155,5,Ottawa Senators,Eric Engstrand,F,SWE,SHL,0.41,1,1.0,Vai jogar 100+
+2020,156,6,Detroit Red Wings,Kyle Aucoin,D,CAN,NCAA,0.16,1,0.99,Vai jogar 100+
+2020,157,6,Tampa Bay Lightning,Nick Capone,F,USA,NCAA,0.64,1,1.0,Vai jogar 100+
+2020,158,6,Ottawa Senators,Philippe Daoust,F,CAN,QMJHL,0.89,1,0.94,Vai jogar 100+
+2020,159,6,Carolina Hurricanes,Lucas Mercuri,F,CAN,NCAA,0.82,1,1.0,Vai jogar 100+
+2020,160,6,Anaheim Ducks,Albin Sundsvik,F,SWE,SHL,0.38,1,1.0,Vai jogar 100+
+2020,161,6,New Jersey Devils,Benjamin Baumgartner,F,AUT,NL,0.52,1,1.0,Vai jogar 100+
+2020,162,6,Dallas Stars,Evgeniy Oksentyuk,F,BLR,OHL,1.08,0,0.22,Não vai jogar 100+
+2020,164,6,Winnipeg Jets,Tyrel Bauer,D,CAN,WHL,0.27,1,1.0,Vai jogar 100+
+2020,165,6,New York Rangers,Matt Rempe,F,CAN,WHL,0.53,1,1.0,Vai jogar 100+
+2020,166,6,Nashville Predators,Luke Reid,D,USA,NCAA,0.33,1,1.0,Vai jogar 100+
+2020,167,6,Colorado Avalanche,Nils Åman,F,SWE,SHL,0.55,1,1.0,Vai jogar 100+
+2020,168,6,Toronto Maple Leafs,Veeti Miettinen,F,FIN,NCAA,0.75,1,0.9,Vai jogar 100+
+2020,169,6,Edmonton Oilers,Filip Engarås,F,SWE,SuperElit,0.55,1,0.99,Vai jogar 100+
+2020,170,6,Pittsburgh Penguins,Chase Yoder,F,USA,NCAA,0.36,1,1.0,Vai jogar 100+
+2020,171,6,Montréal Canadiens,Alexander Gordin,F,RUS,MHL,0.79,1,1.0,Vai jogar 100+
+2020,172,6,Chicago Blackhawks,Chad Yetman,F,CAN,OHL,0.79,1,1.0,Vai jogar 100+
+2020,173,6,Arizona Coyotes,Filip Barklund,F,SWE,SuperElit,0.45,1,0.95,Vai jogar 100+
+2020,174,6,Calgary Flames,Rory Kerins,F,CAN,OHL,1.06,1,1.0,Vai jogar 100+
+2020,175,6,Vancouver Canucks,Dmitri Zlodeyev,F,RUS,MHL,0.59,1,1.0,Vai jogar 100+
+2020,176,6,Columbus Blue Jackets,Samuel Johannesson,D,SWE,SHL,0.39,1,1.0,Vai jogar 100+
+2020,177,6,Toronto Maple Leafs,Axel Rindell,D,FIN,SHL,0.5,1,1.0,Vai jogar 100+
+2020,178,6,Philadelphia Flyers,Connor McClennon,F,CAN,WHL,1.08,1,1.0,Vai jogar 100+
+2020,180,6,Toronto Maple Leafs,Joe Miller,F,USA,NCAA,1.05,1,1.0,Vai jogar 100+
+2020,181,6,Ottawa Senators,Cole Reinhardt,F,CAN,WHL,0.56,1,1.0,Vai jogar 100+
+2020,182,6,Boston Bruins,Riley Duran,F,USA,NCAA,0.7,1,1.0,Vai jogar 100+
+2020,183,6,New York Islanders,Matias Rajaniemi,D,FIN,Liiga,0.15,1,0.94,Vai jogar 100+
+2020,184,6,Vegas Golden Knights,Noah Ellis,D,USA,USHL,0.34,1,1.0,Vai jogar 100+
+2020,187,7,Detroit Red Wings,Kienan Draper,F,CAN,NCAA,0.27,1,1.0,Vai jogar 100+
+2020,188,7,Chicago Blackhawks,Louis Crevier,D,CAN,QMJHL,0.39,1,0.87,Vai jogar 100+
+2020,189,7,Toronto Maple Leafs,John Fusco,D,USA,NCAA,0.62,1,0.99,Vai jogar 100+
+2020,190,7,Los Angeles Kings,Aatu Jämsen,F,FIN,Liiga,0.56,1,0.88,Vai jogar 100+
+2020,191,7,Vancouver Canucks,Viktor Persson,D,SWE,SuperElit,0.34,1,1.0,Vai jogar 100+
+2020,192,7,Arizona Coyotes,Elliot Ekefjärd,F,SWE,HockeyAllsvenskan,0.25,1,0.99,Vai jogar 100+
+2020,193,7,Buffalo Sabres,Albert Lyckåsen,D,SWE,HockeyAllsvenskan,0.41,1,1.0,Vai jogar 100+
+2020,194,7,St. Louis Blues,Noah Beck,D,CAN,NCAA,0.57,1,1.0,Vai jogar 100+
+2020,195,7,Toronto Maple Leafs,Wyatt Schingoethe,F,USA,USHL,0.46,1,1.0,Vai jogar 100+
+2020,196,7,San Jose Sharks,Alex Young,F,CAN,NCAA,0.67,1,0.99,Vai jogar 100+
+2020,198,7,Florida Panthers,Elliot Ekmark,F,SWE,HockeyAllsvenskan,0.45,1,1.0,Vai jogar 100+
+2020,199,7,Carolina Hurricanes,Alexander Pashin,F,RUS,KHL,0.67,1,1.0,Vai jogar 100+
+2020,200,7,Edmonton Oilers,Jeremias Lindewall,F,SWE,HockeyAllsvenskan,0.34,1,0.99,Vai jogar 100+
+2020,201,7,San Jose Sharks,Adam Raska,F,CZE,QMJHL,0.5,1,1.0,Vai jogar 100+
+2020,202,7,Nashville Predators,Gunnarwolfe Fontaine,F,USA,NCAA,1.0,1,1.0,Vai jogar 100+
+2020,203,7,Detroit Red Wings,Chase Bradley,F,USA,USHL,0.52,1,1.0,Vai jogar 100+
+2020,204,7,Arizona Coyotes,Ben McCartney,F,CAN,WHL,0.74,1,1.0,Vai jogar 100+
+2020,205,7,Calgary Flames,Ilya Solovyov,D,BLR,OHL,0.52,1,0.33,Vai jogar 100+
+2020,206,7,San Jose Sharks,Linus Öberg,F,SWE,SHL,0.41,1,1.0,Vai jogar 100+
+2020,208,7,Carolina Hurricanes,Ronan Seeley,D,CAN,WHL,0.54,1,0.86,Vai jogar 100+
+2020,209,7,Nashville Predators,Chase McLane,F,USA,NCAA,0.4,1,1.0,Vai jogar 100+
+2020,210,7,San Jose Sharks,Timofei Spitserov,F,RUS,NCAA,0.9,1,1.0,Vai jogar 100+
+2020,211,7,Washington Capitals,Oskar Magnusson,F,SWE,HockeyAllsvenskan,0.47,1,1.0,Vai jogar 100+
+2020,213,7,Toronto Maple Leafs,Ryan Tverberg,F,CAN,NCAA,0.81,1,0.32,Vai jogar 100+
+2020,215,7,Vegas Golden Knights,Maxim Marushev,F,RUS,MHL,0.3,1,0.89,Vai jogar 100+
+2020,216,7,Buffalo Sabres,Jakub Konecny,F,CZE,Czechia,0.23,1,0.89,Vai jogar 100+
+2020,217,7,Tampa Bay Lightning,Declan McDonnell,F,USA,OHL,0.75,1,1.0,Vai jogar 100+
+2021,1,1,Buffalo Sabres,Owen Power,D,CAN,USHL,0.7,1,0.97,Vai jogar 100+
+2021,2,1,Seattle Kraken,Matty Beniers,F,USA,USDP,0.94,1,1.0,Vai jogar 100+
+2021,3,1,Anaheim Ducks,Mason McTavish,F,CAN,OHL,1.03,0,0.25,Não vai jogar 100+
+2021,4,1,New Jersey Devils,Luke Hughes,D,USA,USDP,0.83,1,1.0,Vai jogar 100+
+2021,5,1,Columbus Blue Jackets,Kent Johnson,F,CAN,NCAA,1.1,0,0.03,Não vai jogar 100+
+2021,6,1,Detroit Red Wings,Simon Edvinsson,D,SWE,SHL,0.41,0,0.26,Não vai jogar 100+
+2021,7,1,San Jose Sharks,William Eklund,F,SWE,SHL,0.59,1,0.98,Vai jogar 100+
+2021,8,1,Los Angeles Kings,Brandt Clarke,D,CAN,OHL,1.02,1,1.0,Vai jogar 100+
+2021,9,1,Arizona Coyotes,Dylan Guenther,F,CAN,WHL,1.32,1,1.0,Vai jogar 100+
+2021,10,1,Ottawa Senators,Tyler Boucher,F,USA,USDP,0.66,1,1.0,Vai jogar 100+
+2021,12,1,Columbus Blue Jackets,Cole Sillinger,F,CAN,WHL,1.22,1,0.39,Vai jogar 100+
+2021,13,1,Calgary Flames,Matt Coronato,F,USA,USHL,1.18,1,1.0,Vai jogar 100+
+2021,14,1,Buffalo Sabres,Isak Rosén,F,SWE,SuperElit,0.56,1,0.84,Vai jogar 100+
+2021,16,1,New York Rangers,Brennan Othmann,F,CAN,OHL,1.11,1,1.0,Vai jogar 100+
+2021,17,1,St. Louis Blues,Zachary Bolduc,F,CAN,QMJHL,1.38,1,1.0,Vai jogar 100+
+2021,18,1,Winnipeg Jets,Chaz Lucius,F,USA,USDP,1.05,1,0.98,Vai jogar 100+
+2021,19,1,Nashville Predators,Fyodor Svechkov,F,RUS,MHL,0.52,1,0.31,Vai jogar 100+
+2021,21,1,Boston Bruins,Fabian Lysell,F,SWE,WHL,0.83,1,0.99,Vai jogar 100+
+2021,22,1,Edmonton Oilers,Xavier Bourgault,F,CAN,QMJHL,1.05,1,1.0,Vai jogar 100+
+2021,23,1,Dallas Stars,Wyatt Johnston,F,CAN,OHL,1.27,1,0.9,Vai jogar 100+
+2021,24,1,Florida Panthers,Mackie Samoskevich,F,USA,USHL,1.02,1,1.0,Vai jogar 100+
+2021,25,1,Columbus Blue Jackets,Corson Ceulemans,D,CAN,NCAA,0.67,0,0.07,Não vai jogar 100+
+2021,26,1,Minnesota Wild,Carson Lambos,D,CAN,WHL,0.72,1,1.0,Vai jogar 100+
+2021,27,1,Nashville Predators,Zachary L'Heureux,F,CAN,QMJHL,1.14,1,1.0,Vai jogar 100+
+2021,28,1,Colorado Avalanche,Oskar Olausson,F,SWE,OHL,0.82,1,1.0,Vai jogar 100+
+2021,29,1,New Jersey Devils,Chase Stillman,F,CAN,OHL,0.74,1,1.0,Vai jogar 100+
+2021,30,1,Vegas Golden Knights,Zach Dean,F,CAN,QMJHL,1.06,1,1.0,Vai jogar 100+
+2021,31,1,Montréal Canadiens,Logan Mailloux,D,CAN,OHL,0.83,1,0.38,Vai jogar 100+
+2021,32,1,Chicago Blackhawks,Nolan Allan,D,CAN,WHL,0.39,1,1.0,Vai jogar 100+
+2021,33,2,Buffalo Sabres,Prokhor Poltapov,F,RUS,KHL,0.5,1,1.0,Vai jogar 100+
+2021,34,2,Anaheim Ducks,Olen Zellweger,D,CAN,WHL,1.02,1,1.0,Vai jogar 100+
+2021,35,2,Seattle Kraken,Ryker Evans,D,CAN,WHL,0.67,1,1.0,Vai jogar 100+
+2021,36,2,Detroit Red Wings,Shai Buium,D,USA,NCAA,0.61,1,0.99,Vai jogar 100+
+2021,37,2,Arizona Coyotes,Josh Doan,F,USA,USHL,0.92,1,0.99,Vai jogar 100+
+2021,38,2,Vegas Golden Knights,Daniil Chaika,D,RUS,OHL,0.48,1,1.0,Vai jogar 100+
+2021,39,2,Ottawa Senators,Zack Ostapchuk,F,CAN,WHL,0.72,1,1.0,Vai jogar 100+
+2021,40,2,Carolina Hurricanes,Scott Morrow,D,USA,USHS-Prep,1.09,1,1.0,Vai jogar 100+
+2021,42,2,Los Angeles Kings,Francesco Pinelli,F,CAN,OHL,1.1,1,1.0,Vai jogar 100+
+2021,43,2,Arizona Coyotes,Ilya Fedotov,F,RUS,KHL,0.39,1,1.0,Vai jogar 100+
+2021,44,2,Carolina Hurricanes,Aleksi Heimosalmi,D,FIN,Liiga,0.24,1,0.86,Vai jogar 100+
+2021,45,2,Calgary Flames,William Strömgren,F,SWE,SuperElit,0.57,1,0.95,Vai jogar 100+
+2021,46,2,Philadelphia Flyers,Samu Tuomaala,F,FIN,Liiga,0.08,0,0.0,Não vai jogar 100+
+2021,47,2,Dallas Stars,Logan Stankoven,F,CAN,WHL,1.45,1,0.98,Vai jogar 100+
+2021,48,2,Dallas Stars,Artyom Grushnikov,D,RUS,OHL,0.23,1,1.0,Vai jogar 100+
+2021,49,2,Ottawa Senators,Ben Roger,D,CAN,OHL,0.26,1,1.0,Vai jogar 100+
+2021,50,2,Winnipeg Jets,Nikita Chibrikov,F,RUS,MHL,0.48,1,0.88,Vai jogar 100+
+2021,51,2,Carolina Hurricanes,Ville Koivunen,F,FIN,Liiga,0.69,1,0.93,Vai jogar 100+
+2021,52,2,New York Islanders,Aatu Räty,F,FIN,Liiga,0.54,0,0.26,Não vai jogar 100+
+2021,53,2,Buffalo Sabres,Alexander Kisakov,F,RUS,MHL,0.85,1,1.0,Vai jogar 100+
+2021,54,2,Minnesota Wild,Jack Peart,D,USA,NCAA,0.75,1,0.99,Vai jogar 100+
+2021,55,2,Washington Capitals,Vincent Iorio,D,CAN,WHL,0.43,1,1.0,Vai jogar 100+
+2021,56,2,Florida Panthers,Evan Nause,D,CAN,QMJHL,0.65,1,1.0,Vai jogar 100+
+2021,57,2,Toronto Maple Leafs,Matthew Knies,F,USA,USHL,0.99,1,0.98,Vai jogar 100+
+2021,58,2,Pittsburgh Penguins,Tristan Broz,F,USA,NCAA,0.99,1,1.0,Vai jogar 100+
+2021,59,2,Los Angeles Kings,Samuel Helenius,F,FIN,Liiga,0.23,1,0.73,Vai jogar 100+
+2021,60,2,Arizona Coyotes,Janis Moser,D,CHE,NL,0.35,1,0.85,Vai jogar 100+
+2021,61,2,Colorado Avalanche,Sean Behrens,D,USA,NCAA,0.74,1,1.0,Vai jogar 100+
+2021,62,2,Chicago Blackhawks,Colton Dach,F,CAN,WHL,0.93,1,1.0,Vai jogar 100+
+2021,63,2,Montréal Canadiens,Riley Kidney,F,CAN,QMJHL,1.29,1,1.0,Vai jogar 100+
+2021,64,2,Montréal Canadiens,Oliver Kapanen,F,FIN,Liiga,0.62,1,0.93,Vai jogar 100+
+2021,65,3,New York Rangers,Jayden Grubbe,F,CAN,WHL,0.69,1,1.0,Vai jogar 100+
+2021,66,3,Anaheim Ducks,Sasha Pastujov,F,USA,OHL,1.3,1,1.0,Vai jogar 100+
+2021,67,3,Seattle Kraken,Ryan Winterton,F,CAN,OHL,0.85,1,1.0,Vai jogar 100+
+2021,68,3,New Jersey Devils,Samu Salminen,F,FIN,NCAA,0.62,1,0.98,Vai jogar 100+
+2021,69,3,Columbus Blue Jackets,Stanislav Svozil,D,CZE,WHL,0.68,1,0.99,Vai jogar 100+
+2021,70,3,Detroit Red Wings,Carter Mazur,F,USA,USHL,0.73,1,1.0,Vai jogar 100+
+2021,71,3,St. Louis Blues,Simon Robertsson,F,SWE,SHL,0.49,1,1.0,Vai jogar 100+
+2021,72,3,Nashville Predators,Anton Olsson,D,SWE,SHL,0.24,1,1.0,Vai jogar 100+
+2021,73,3,Dallas Stars,Ayrton Martino,F,CAN,NCAA,1.1,1,0.95,Vai jogar 100+
+2021,74,3,Ottawa Senators,Oliver Johansson,F,SWE,SHL,0.35,1,1.0,Vai jogar 100+
+2021,75,3,New York Rangers,Ryder Korczak,F,CAN,WHL,0.97,1,1.0,Vai jogar 100+
+2021,76,3,Anaheim Ducks,Tyson Hinds,D,CAN,QMJHL,0.57,1,0.99,Vai jogar 100+
+2021,77,3,Calgary Flames,Cole Huckins,F,CAN,QMJHL,0.75,1,1.0,Vai jogar 100+
+2021,79,3,Dallas Stars,Justin Ertel,F,CAN,OHL,0.86,1,1.0,Vai jogar 100+
+2021,80,3,Washington Capitals,Brent Johnson,D,USA,NCAA,0.42,1,0.97,Vai jogar 100+
+2021,82,3,Winnipeg Jets,Dmitri Kuzmin,D,BLR,OHL,0.84,1,0.95,Vai jogar 100+
+2021,84,3,Los Angeles Kings,Kirill Kirsanov,D,RUS,KHL,0.25,1,0.99,Vai jogar 100+
+2021,85,3,Boston Bruins,Brett Harrison,F,CAN,OHL,0.93,1,0.99,Vai jogar 100+
+2021,86,3,Minnesota Wild,Caedan Bankier,F,CAN,WHL,0.93,1,1.0,Vai jogar 100+
+2021,87,3,Montréal Canadiens,Dmitri Kostenko,D,RUS,MHL,0.44,1,1.0,Vai jogar 100+
+2021,88,3,Buffalo Sabres,Stiven Sardaryan,F,RUS,NCAA,0.68,1,1.0,Vai jogar 100+
+2021,89,3,Calgary Flames,Cameron Whynot,D,CAN,QMJHL,0.4,1,1.0,Vai jogar 100+
+2021,90,3,Edmonton Oilers,Luca Münzenberger,D,DEU,NCAA,0.18,1,1.0,Vai jogar 100+
+2021,91,3,Chicago Blackhawks,Taige Harding,D,CAN,NCAA,0.33,1,0.99,Vai jogar 100+
+2021,92,3,Colorado Avalanche,Andrei Buyalsky,F,KAZ,NCAA,0.6,1,0.91,Vai jogar 100+
+2021,94,3,Carolina Hurricanes,Aidan Hreschuk,D,USA,NCAA,0.43,1,1.0,Vai jogar 100+
+2021,95,3,Buffalo Sabres,Josh Bloom,F,CAN,OHL,0.83,1,1.0,Vai jogar 100+
+2021,96,3,Tampa Bay Lightning,Roman Schmidt,D,USA,OHL,0.44,1,1.0,Vai jogar 100+
+2021,97,4,Buffalo Sabres,Olivier Nadeau,F,CAN,QMJHL,1.01,1,1.0,Vai jogar 100+
+2021,98,4,Anaheim Ducks,Josh Lopina,F,USA,USHL,0.69,1,0.99,Vai jogar 100+
+2021,99,4,Seattle Kraken,Ville Ottavainen,D,FIN,Liiga,0.28,1,0.99,Vai jogar 100+
+2021,101,4,Columbus Blue Jackets,Guillaume Richard,D,CAN,NCAA,0.37,1,1.0,Vai jogar 100+
+2021,102,4,Vegas Golden Knights,Jakub Brabenec,F,CZE,QMJHL,0.92,1,0.99,Vai jogar 100+
+2021,103,4,San Jose Sharks,Gannon Laroque,D,CAN,WHL,0.7,1,0.36,Vai jogar 100+
+2021,104,4,New York Rangers,Brody Lamb,F,USA,NCAA,1.06,1,1.0,Vai jogar 100+
+2021,105,4,Chicago Blackhawks,Ethan Del Mastro,D,CAN,OHL,0.64,1,1.0,Vai jogar 100+
+2021,106,4,New York Rangers,Kalle Väisänen,F,FIN,Liiga,0.18,1,0.97,Vai jogar 100+
+2021,107,4,Arizona Coyotes,Emil Lilleberg,D,NOR,SHL,0.19,0,0.09,Não vai jogar 100+
+2021,108,4,Chicago Blackhawks,Victor Stjernborg,F,SWE,SHL,0.36,1,1.0,Vai jogar 100+
+2021,109,4,Carolina Hurricanes,Jackson Blake,F,USA,USHL,1.38,1,0.95,Vai jogar 100+
+2021,110,4,Philadelphia Flyers,Brian Zanetti,D,CHE,NL,0.26,1,0.98,Vai jogar 100+
+2021,111,4,Dallas Stars,Conner Roulette,F,CAN,WHL,1.11,1,1.0,Vai jogar 100+
+2021,113,4,Montréal Canadiens,William Trudeau,D,CAN,QMJHL,0.54,1,0.98,Vai jogar 100+
+2021,114,4,Detroit Red Wings,Redmond Savage,F,USA,NCAA,0.71,1,1.0,Vai jogar 100+
+2021,115,4,Nashville Predators,Ryan Ufko,D,USA,NCAA,0.64,1,0.97,Vai jogar 100+
+2021,116,4,Edmonton Oilers,Jake Chiasson,F,CAN,WHL,0.64,1,0.99,Vai jogar 100+
+2021,118,4,Minnesota Wild,Kyle Masters,D,CAN,WHL,0.53,1,0.98,Vai jogar 100+
+2021,119,4,Washington Capitals,Joaquim Lemay,D,CAN,NCAA,0.54,1,1.0,Vai jogar 100+
+2021,120,4,Florida Panthers,Vladislav Lukashevich,D,RUS,MHL,0.46,1,1.0,Vai jogar 100+
+2021,121,4,San Jose Sharks,Ethan Cardwell,F,CAN,OHL,1.06,1,0.98,Vai jogar 100+
+2021,123,4,Ottawa Senators,Carson Latimer,F,CAN,WHL,0.63,1,1.0,Vai jogar 100+
+2021,124,4,Nashville Predators,Jack Matier,D,CAN,OHL,0.48,1,1.0,Vai jogar 100+
+2021,125,4,New York Islanders,Cameron Berg,F,USA,USHL,0.72,1,1.0,Vai jogar 100+
+2021,126,4,Tampa Bay Lightning,Dylan Duke,F,USA,NCAA,0.83,1,1.0,Vai jogar 100+
+2021,127,4,Minnesota Wild,Josh Pillar,F,CAN,WHL,0.65,1,1.0,Vai jogar 100+
+2021,128,4,Vegas Golden Knights,Jakub Demek,F,SVK,WHL,0.84,1,0.36,Vai jogar 100+
+2021,129,5,New Jersey Devils,Topias Vilén,D,FIN,Liiga,0.24,1,0.83,Vai jogar 100+
+2021,130,5,Anaheim Ducks,Sean Tschigerl,F,CAN,WHL,0.73,1,1.0,Vai jogar 100+
+2021,131,5,Seattle Kraken,Jacob Melanson,F,CAN,QMJHL,1.08,1,1.0,Vai jogar 100+
+2021,132,5,Columbus Blue Jackets,Nikolai Makarov,D,RUS,MHL,0.2,1,1.0,Vai jogar 100+
+2021,133,5,Columbus Blue Jackets,James Malatesta,F,CAN,QMJHL,0.87,1,1.0,Vai jogar 100+
+2021,134,5,Detroit Red Wings,Liam Dower-Nilsson,F,SWE,HockeyAllsvenskan,0.76,1,1.0,Vai jogar 100+
+2021,135,5,San Jose Sharks,Artyom Guryev,D,RUS,OHL,0.31,1,0.37,Vai jogar 100+
+2021,136,5,Carolina Hurricanes,Robert Orr,F,CAN,QMJHL,0.85,1,1.0,Vai jogar 100+
+2021,138,5,Dallas Stars,Jack Bar,D,CAN,NCAA,0.23,1,1.0,Vai jogar 100+
+2021,139,5,Arizona Coyotes,Manix Landry,F,CAN,QMJHL,0.48,1,1.0,Vai jogar 100+
+2021,140,5,Vancouver Canucks,Jonathan Myrenberg,D,SWE,SHL,0.29,1,1.0,Vai jogar 100+
+2021,141,5,Calgary Flames,Cole Jordan,D,CAN,WHL,0.31,1,0.95,Vai jogar 100+
+2021,142,5,Montréal Canadiens,Daniil Sobolev,D,RUS,OHL,0.23,1,1.0,Vai jogar 100+
+2021,143,5,Dallas Stars,Jacob Holmes,D,CAN,OHL,0.38,1,1.0,Vai jogar 100+
+2021,144,5,New York Rangers,Jaroslav Chmelar,F,CZE,NCAA,0.47,0,0.04,Não vai jogar 100+
+2021,145,5,St. Louis Blues,Tyson Galloway,D,CAN,WHL,0.36,1,1.0,Vai jogar 100+
+2021,146,5,Winnipeg Jets,Dmitri Rashevsky,F,RUS,KHL,0.66,1,1.0,Vai jogar 100+
+2021,147,5,Carolina Hurricanes,Justin Robidas,F,CAN,QMJHL,1.07,1,0.98,Vai jogar 100+
+2021,149,5,Boston Bruins,Oskar Jellvik,F,SWE,NCAA,0.82,1,0.98,Vai jogar 100+
+2021,150,5,Montréal Canadiens,Joshua Roy,F,CAN,QMJHL,1.38,1,0.99,Vai jogar 100+
+2021,151,5,Washington Capitals,Håkon Hänelt,F,DEU,DEL,0.22,1,0.73,Vai jogar 100+
+2021,153,5,Toronto Maple Leafs,Ty Voit,F,USA,OHL,1.16,1,1.0,Vai jogar 100+
+2021,154,5,Pittsburgh Penguins,Isaac Belliveau,D,CAN,QMJHL,0.7,1,1.0,Vai jogar 100+
+2021,155,5,Detroit Red Wings,Oscar Plandowski,D,CAN,QMJHL,0.28,1,1.0,Vai jogar 100+
+2021,156,5,San Jose Sharks,Max McCue,F,CAN,OHL,0.65,1,1.0,Vai jogar 100+
+2021,157,5,New York Islanders,Eetu Liukas,F,FIN,Liiga,0.3,1,0.98,Vai jogar 100+
+2021,158,5,Philadelphia Flyers,Ty Murchison,D,USA,NCAA,0.19,1,1.0,Vai jogar 100+
+2021,159,5,Buffalo Sabres,Viljami Marjala,F,FIN,Liiga,0.77,1,0.99,Vai jogar 100+
+2021,160,5,Tampa Bay Lightning,Cameron MacDonald,F,CAN,QMJHL,0.64,1,1.0,Vai jogar 100+
+2021,161,6,Buffalo Sabres,William von Barnekow,F,SWE,SHL,0.33,1,1.0,Vai jogar 100+
+2021,162,6,Anaheim Ducks,Kyle Kukkonen,F,USA,NCAA,1.07,1,1.0,Vai jogar 100+
+2021,164,6,New Jersey Devils,Viktor Hurtig,D,SWE,NCAA,0.25,1,0.99,Vai jogar 100+
+2021,165,6,Columbus Blue Jackets,Ben Boyd,F,CAN,QMJHL,0.35,1,0.31,Vai jogar 100+
+2021,166,6,Detroit Red Wings,Pasquale Zito,F,CAN,OHL,0.69,1,1.0,Vai jogar 100+
+2021,167,6,San Jose Sharks,Liam Gilmartin,F,USA,OHL,0.55,1,1.0,Vai jogar 100+
+2021,168,6,Calgary Flames,Jack Beck,F,CAN,OHL,0.98,1,1.0,Vai jogar 100+
+2021,169,6,Vancouver Canucks,Hugo Gabrielson,D,SWE,HockeyAllsvenskan,0.41,1,1.0,Vai jogar 100+
+2021,170,6,Carolina Hurricanes,Bryce Montgomery,D,USA,OHL,0.19,1,0.99,Vai jogar 100+
+2021,171,6,Arizona Coyotes,Cal Thomas,D,USA,NCAA,0.42,1,1.0,Vai jogar 100+
+2021,172,6,Chicago Blackhawks,Ilya Safonov,F,RUS,KHL,0.4,1,1.0,Vai jogar 100+
+2021,173,6,Calgary Flames,Lucas Ciona,F,CAN,WHL,0.7,1,1.0,Vai jogar 100+
+2021,174,6,Philadelphia Flyers,Ethan Samson,D,CAN,WHL,0.58,1,1.0,Vai jogar 100+
+2021,175,6,Dallas Stars,Francesco Arcuri,F,CAN,OHL,0.94,1,1.0,Vai jogar 100+
+2021,176,6,Washington Capitals,Dru Krebs,D,CAN,WHL,0.41,1,1.0,Vai jogar 100+
+2021,177,6,San Jose Sharks,Theo Jacobsson,F,SWE,HockeyAllsvenskan,0.54,1,0.91,Vai jogar 100+
+2021,178,6,Vancouver Canucks,Connor Lockhart,F,CAN,OHL,0.89,1,1.0,Vai jogar 100+
+2021,179,6,Nashville Predators,Simon Knak,F,CHE,NL,0.47,1,1.0,Vai jogar 100+
+2021,180,6,Edmonton Oilers,Matvei Petrov,F,RUS,OHL,1.13,1,1.0,Vai jogar 100+
+2021,181,6,Boston Bruins,Ryan Mast,D,USA,OHL,0.43,1,1.0,Vai jogar 100+
+2021,182,6,Minnesota Wild,Nate Benoit,D,USA,USHL,0.26,1,1.0,Vai jogar 100+
+2021,184,6,Florida Panthers,Jakub Kos,F,CZE,Czechia,0.24,1,0.93,Vai jogar 100+
+2021,186,6,Edmonton Oilers,Shane Lachance,F,USA,USHL,0.69,1,1.0,Vai jogar 100+
+2021,188,6,Buffalo Sabres,Nikita Novikov,D,RUS,KHL,0.2,1,1.0,Vai jogar 100+
+2021,189,6,New York Islanders,Aleksi Malinen,D,FIN,Liiga,0.13,0,0.07,Não vai jogar 100+
+2021,190,6,Vegas Golden Knights,Artur Cholach,D,UKR,OHL,0.29,1,0.96,Vai jogar 100+
+2021,191,6,Montréal Canadiens,Xavier Simoneau,F,CAN,QMJHL,1.25,1,1.0,Vai jogar 100+
+2021,192,6,Tampa Bay Lightning,Alex Gagne,D,USA,NCAA,0.36,1,1.0,Vai jogar 100+
+2021,193,7,Buffalo Sabres,Tyson Kozak,F,CAN,WHL,0.72,1,0.97,Vai jogar 100+
+2021,194,7,Pittsburgh Penguins,Ryan McCleary,D,CAN,WHL,0.49,1,0.99,Vai jogar 100+
+2021,195,7,Seattle Kraken,Justin Janicke,F,USA,NCAA,0.71,1,1.0,Vai jogar 100+
+2021,196,7,Tampa Bay Lightning,Daniil Pylenkov,D,RUS,KHL,0.41,1,1.0,Vai jogar 100+
+2021,197,7,Columbus Blue Jackets,Martin Rysavy,F,CZE,WHL,0.47,1,1.0,Vai jogar 100+
+2021,198,7,St. Louis Blues,Ivan Vorobyov,F,RUS,MHL,0.56,1,1.0,Vai jogar 100+
+2021,199,7,San Jose Sharks,Yevgeni Kashnikov,D,RUS,KHL,0.24,1,1.0,Vai jogar 100+
+2021,201,7,Vancouver Canucks,Lucas Forsell,F,SWE,SHL,0.36,1,1.0,Vai jogar 100+
+2021,202,7,Ottawa Senators,Chandler Romeo,D,CAN,OHL,0.23,1,1.0,Vai jogar 100+
+2021,203,7,New Jersey Devils,Zakhar Bardakov,F,RUS,KHL,0.48,1,1.0,Vai jogar 100+
+2021,204,7,Chicago Blackhawks,Connor Kelley,D,USA,NCAA,0.19,1,1.0,Vai jogar 100+
+2021,206,7,Philadelphia Flyers,Owen McLaughlin,F,USA,NCAA,0.8,1,1.0,Vai jogar 100+
+2021,207,7,Dallas Stars,Albert Sjöberg,F,SWE,HockeyAllsvenskan,0.38,1,1.0,Vai jogar 100+
+2021,208,7,New York Rangers,Hank Kempf,D,USA,NCAA,0.25,1,1.0,Vai jogar 100+
+2021,209,7,Carolina Hurricanes,Nikita Guslistov,F,RUS,KHL,0.32,1,0.85,Vai jogar 100+
+2021,210,7,Florida Panthers,Braden Haché,D,CAN,OHL,0.24,1,1.0,Vai jogar 100+
+2021,211,7,Tampa Bay Lightning,Cooper Flinton,F,USA,NCAA,0.61,1,1.0,Vai jogar 100+
+2021,212,7,Edmonton Oilers,Max Wanner,D,CAN,WHL,0.48,1,1.0,Vai jogar 100+
+2021,213,7,Boston Bruins,Andre Gasseau,F,USA,NCAA,0.69,1,1.0,Vai jogar 100+
+2021,215,7,Pittsburgh Penguins,Daniel Laatsch,D,USA,NCAA,0.21,1,0.95,Vai jogar 100+
+2021,216,7,Chicago Blackhawks,Jalen Luypen,F,CAN,WHL,0.68,1,1.0,Vai jogar 100+
+2021,217,7,Boston Bruins,Ty Gallagher,D,USA,NCAA,0.46,1,1.0,Vai jogar 100+
+2021,218,7,Pittsburgh Penguins,Kirill Tankov,F,RUS,MHL,0.45,1,1.0,Vai jogar 100+
+2021,219,7,Carolina Hurricanes,Joel Nyström,D,SWE,SHL,0.4,1,0.99,Vai jogar 100+
+2021,220,7,Colorado Avalanche,Taylor Makar,F,CAN,NCAA,0.42,1,1.0,Vai jogar 100+
+2021,221,7,New York Islanders,Tomas Machu,D,CZE,USHL,0.21,1,1.0,Vai jogar 100+
+2021,223,7,Arizona Coyotes,Sam Lipkin,F,USA,USHL,0.94,1,0.99,Vai jogar 100+
+2021,224,7,Tampa Bay Lightning,Niko Huuhtanen,F,FIN,Liiga,0.89,1,0.96,Vai jogar 100+
+2022,1,1,Montréal Canadiens,Juraj Slafkovský,F,SVK,Liiga,0.32,0,0.02,Não vai jogar 100+
+2022,2,1,New Jersey Devils,Simon Nemec,D,SVK,Slovakia,0.55,0,0.16,Não vai jogar 100+
+2022,3,1,Arizona Coyotes,Logan Cooley,F,USA,USDP,1.3,1,1.0,Vai jogar 100+
+2022,4,1,Seattle Kraken,Shane Wright,F,CAN,OHL,1.4,1,0.99,Vai jogar 100+
+2022,5,1,Philadelphia Flyers,Cutter Gauthier,F,USA,USDP,1.12,1,1.0,Vai jogar 100+
+2022,6,1,Columbus Blue Jackets,David Jiříček,D,CZE,Czechia,0.3,0,0.16,Não vai jogar 100+
+2022,7,1,Chicago Blackhawks,Kevin Korchinski,D,CAN,WHL,1.02,1,1.0,Vai jogar 100+
+2022,8,1,Detroit Red Wings,Marco Kasper,F,AUT,SHL,0.4,1,0.95,Vai jogar 100+
+2022,9,1,Buffalo Sabres,Matthew Savoie,F,CAN,WHL,1.39,1,1.0,Vai jogar 100+
+2022,10,1,Anaheim Ducks,Pavel Mintyukov,D,RUS,OHL,0.91,1,1.0,Vai jogar 100+
+2022,11,1,Arizona Coyotes,Conor Geekie,F,CAN,WHL,1.25,1,1.0,Vai jogar 100+
+2022,12,1,Columbus Blue Jackets,Denton Mateychuk,D,CAN,WHL,1.06,1,1.0,Vai jogar 100+
+2022,13,1,Chicago Blackhawks,Frank Nazar,F,USA,USDP,1.17,1,1.0,Vai jogar 100+
+2022,14,1,Winnipeg Jets,Rutger McGroarty,F,USA,USDP,1.07,1,1.0,Vai jogar 100+
+2022,15,1,Vancouver Canucks,Jonathan Lekkerimäki,F,SWE,SHL,0.69,1,0.99,Vai jogar 100+
+2022,16,1,Buffalo Sabres,Noah Östlund,F,SWE,SHL,0.83,1,1.0,Vai jogar 100+
+2022,17,1,Nashville Predators,Joakim Kemell,F,FIN,Liiga,0.47,0,0.04,Não vai jogar 100+
+2022,18,1,Dallas Stars,Lian Bichsel,D,CHE,SHL,0.19,1,0.98,Vai jogar 100+
+2022,19,1,Minnesota Wild,Liam Öhgren,F,SWE,SHL,0.84,1,0.98,Vai jogar 100+
+2022,20,1,Washington Capitals,Ivan Miroshnichenko,F,RUS,MHL,0.59,1,0.31,Vai jogar 100+
+2022,21,1,Pittsburgh Penguins,Owen Pickering,D,CAN,WHL,0.65,1,1.0,Vai jogar 100+
+2022,22,1,Anaheim Ducks,Nathan Gaucher,F,CAN,QMJHL,0.79,1,1.0,Vai jogar 100+
+2022,23,1,St. Louis Blues,Jimmy Snuggerud,F,USA,NCAA,1.01,1,1.0,Vai jogar 100+
+2022,24,1,Minnesota Wild,Danila Yurov,F,RUS,KHL,0.62,1,1.0,Vai jogar 100+
+2022,25,1,Chicago Blackhawks,Sam Rinzel,D,USA,USHL,0.78,1,1.0,Vai jogar 100+
+2022,26,1,Montréal Canadiens,Filip Mesar,F,SVK,OHL,0.78,1,0.98,Vai jogar 100+
+2022,27,1,San Jose Sharks,Filip Bystedt,F,SWE,SHL,0.61,1,1.0,Vai jogar 100+
+2022,28,1,Buffalo Sabres,Jiří Kulich,F,CZE,Czechia,0.25,0,0.02,Não vai jogar 100+
+2022,29,1,Arizona Coyotes,Maveric Lamoureux,D,CAN,QMJHL,0.55,1,1.0,Vai jogar 100+
+2022,30,1,Winnipeg Jets,Brad Lambert,F,FIN,Liiga,0.52,1,0.9,Vai jogar 100+
+2022,31,1,Tampa Bay Lightning,Isaac Howard,F,USA,USDP,1.2,1,1.0,Vai jogar 100+
+2022,32,1,Edmonton Oilers,Reid Schaefer,F,CAN,WHL,0.84,1,1.0,Vai jogar 100+
+2022,33,2,Montréal Canadiens,Owen Beck,F,CAN,OHL,1.07,1,0.99,Vai jogar 100+
+2022,34,2,San Jose Sharks,Cameron Lund,F,USA,NCAA,0.85,1,1.0,Vai jogar 100+
+2022,35,2,Seattle Kraken,Jagger Firkus,F,CAN,WHL,1.35,1,1.0,Vai jogar 100+
+2022,36,2,Arizona Coyotes,Artyom Duda,D,RUS,MHL,0.55,1,0.75,Vai jogar 100+
+2022,37,2,Washington Capitals,Ryan Chesley,D,USA,NCAA,0.48,1,1.0,Vai jogar 100+
+2022,38,2,Toronto Maple Leafs,Fraser Minten,F,CAN,WHL,1.01,1,1.0,Vai jogar 100+
+2022,39,2,Chicago Blackhawks,Paul Ludwinski,F,CAN,OHL,0.84,1,1.0,Vai jogar 100+
+2022,40,2,Detroit Red Wings,Dylan James,F,CAN,NCAA,0.69,1,1.0,Vai jogar 100+
+2022,42,2,Anaheim Ducks,Noah Warren,D,CAN,QMJHL,0.32,1,0.97,Vai jogar 100+
+2022,43,2,Arizona Coyotes,Julian Lutz,F,DEU,USHL,0.9,1,0.39,Vai jogar 100+
+2022,44,2,Columbus Blue Jackets,Luca Del Bel Belluz,F,CAN,OHL,0.88,1,1.0,Vai jogar 100+
+2022,45,2,San Jose Sharks,Mattias Hävelid,D,SWE,SHL,0.35,1,0.98,Vai jogar 100+
+2022,46,2,New Jersey Devils,Seamus Casey,D,USA,USDP,0.81,1,0.99,Vai jogar 100+
+2022,47,2,Minnesota Wild,Hunter Haight,F,CAN,OHL,0.87,1,1.0,Vai jogar 100+
+2022,48,2,Vegas Golden Knights,Matyas Sapovaliv,F,CZE,OHL,0.93,1,1.0,Vai jogar 100+
+2022,49,2,Seattle Kraken,Jani Nyman,F,FIN,Liiga,0.67,0,0.04,Não vai jogar 100+
+2022,50,2,Dallas Stars,Christian Kyrou,D,CAN,OHL,0.9,1,1.0,Vai jogar 100+
+2022,51,2,Los Angeles Kings,Jack Hughes,F,USA,NCAA,0.65,1,1.0,Vai jogar 100+
+2022,52,2,Detroit Red Wings,Dmitri Buchelnikov,F,RUS,KHL,0.84,1,1.0,Vai jogar 100+
+2022,53,2,Anaheim Ducks,Tristan Luneau,D,CAN,QMJHL,0.91,1,1.0,Vai jogar 100+
+2022,54,2,Boston Bruins,Matthew Poitras,F,CAN,OHL,1.11,1,1.0,Vai jogar 100+
+2022,55,2,Winnipeg Jets,Elias Salomonsson,D,SWE,SHL,0.48,1,0.99,Vai jogar 100+
+2022,56,2,Minnesota Wild,Rieger Lorenz,F,CAN,NCAA,0.56,1,0.98,Vai jogar 100+
+2022,57,2,Chicago Blackhawks,Ryan Greene,F,CAN,USHL,0.78,1,1.0,Vai jogar 100+
+2022,59,2,Calgary Flames,Topi Rönni,F,FIN,Liiga,0.34,1,0.98,Vai jogar 100+
+2022,60,2,Carolina Hurricanes,Gleb Trikozov,F,RUS,MHL,1.0,1,1.0,Vai jogar 100+
+2022,61,2,Seattle Kraken,David Goyette,F,CAN,OHL,1.43,1,0.98,Vai jogar 100+
+2022,62,2,Montréal Canadiens,Lane Hutson,D,USA,USDP,0.97,1,1.0,Vai jogar 100+
+2022,63,2,New York Rangers,Adam Sýkora,F,SVK,Slovakia,0.4,0,0.08,Não vai jogar 100+
+2022,64,2,Ottawa Senators,Filip Nordberg,D,SWE,USHL,0.36,1,1.0,Vai jogar 100+
+2022,65,2,New York Islanders,Calle Odelius,D,SWE,HockeyAllsvenskan,0.43,1,0.99,Vai jogar 100+
+2022,66,3,Chicago Blackhawks,Gavin Hayes,F,USA,OHL,1.11,1,1.0,Vai jogar 100+
+2022,67,3,Arizona Coyotes,Miko Matikka,F,FIN,USHL,0.87,1,0.68,Vai jogar 100+
+2022,68,3,Seattle Kraken,Ty Nelson,D,CAN,OHL,0.96,1,1.0,Vai jogar 100+
+2022,69,3,Philadelphia Flyers,Devin Kaplan,F,USA,NCAA,0.69,1,1.0,Vai jogar 100+
+2022,70,3,Washington Capitals,Alexander Suzdalev,F,SWE,WHL,1.01,1,1.0,Vai jogar 100+
+2022,71,3,Carolina Hurricanes,Alexander Perevalov,F,RUS,MHL,0.64,1,1.0,Vai jogar 100+
+2022,72,3,Ottawa Senators,Oskar Pettersson,F,SWE,SuperElit,0.6,1,1.0,Vai jogar 100+
+2022,73,3,St. Louis Blues,Aleksanteri Kaskimäki,F,FIN,Liiga,0.28,0,0.04,Não vai jogar 100+
+2022,74,3,Buffalo Sabres,Viktor Neuchev,F,RUS,MHL,0.67,1,0.91,Vai jogar 100+
+2022,75,3,Montréal Canadiens,Vinzenz Rohrer,F,AUT,NL,0.59,1,0.99,Vai jogar 100+
+2022,76,3,San Jose Sharks,Michael Fisher,D,USA,USHS-Prep,0.44,1,0.98,Vai jogar 100+
+2022,77,3,Winnipeg Jets,Danny Zhilkin,F,CAN,OHL,0.68,1,0.99,Vai jogar 100+
+2022,78,3,New York Islanders,Quinn Finley,F,USA,USHL,0.77,1,1.0,Vai jogar 100+
+2022,79,3,Vegas Golden Knights,Jordan Gustafson,F,CAN,WHL,0.84,1,1.0,Vai jogar 100+
+2022,80,3,Vancouver Canucks,Elias Pettersson,D,SWE,SHL,0.41,1,0.98,Vai jogar 100+
+2022,81,3,Chicago Blackhawks,Samuel Savoie,F,CAN,QMJHL,0.72,1,1.0,Vai jogar 100+
+2022,82,3,Nashville Predators,Adam Ingram,F,CAN,NCAA,0.68,1,1.0,Vai jogar 100+
+2022,83,3,Dallas Stars,George Fegaras,D,CAN,NCAA,0.44,1,0.99,Vai jogar 100+
+2022,84,3,Nashville Predators,Kasper Kulonummi,D,FIN,Liiga,0.3,1,0.99,Vai jogar 100+
+2022,85,3,Washington Capitals,Ludwig Persson,F,SWE,SuperElit,0.58,1,1.0,Vai jogar 100+
+2022,86,3,Tampa Bay Lightning,Lucas Edmonds,F,SWE,SuperElit,0.91,1,0.93,Vai jogar 100+
+2022,87,3,Ottawa Senators,Tomas Hamara,D,CZE,OHL,0.52,1,0.98,Vai jogar 100+
+2022,88,3,St. Louis Blues,Michael Buchinger,D,CAN,OHL,0.9,1,0.99,Vai jogar 100+
+2022,89,3,Minnesota Wild,Michael Milne,F,CAN,WHL,0.76,1,0.97,Vai jogar 100+
+2022,90,3,Chicago Blackhawks,Aidan Thompson,F,USA,NCAA,1.07,1,1.0,Vai jogar 100+
+2022,91,3,Seattle Kraken,Ben MacDonald,F,USA,NCAA,0.55,1,1.0,Vai jogar 100+
+2022,92,3,Montréal Canadiens,Adam Engström,D,SWE,SHL,0.52,1,0.98,Vai jogar 100+
+2022,93,3,Florida Panthers,Marek Alscher,D,CZE,WHL,0.37,1,0.98,Vai jogar 100+
+2022,94,3,Arizona Coyotes,Jérémy Langlois,D,CAN,QMJHL,0.65,1,1.0,Vai jogar 100+
+2022,95,3,Toronto Maple Leafs,Nicholas Moldenhauer,F,CAN,NCAA,0.86,1,1.0,Vai jogar 100+
+2022,96,3,Columbus Blue Jackets,Jordan Dumais,F,CAN,QMJHL,1.68,1,0.97,Vai jogar 100+
+2022,97,3,New York Rangers,Bryce McConnell-Barker,F,CAN,OHL,0.94,1,1.0,Vai jogar 100+
+2022,98,4,New York Islanders,Isaiah George,D,CAN,OHL,0.4,1,0.98,Vai jogar 100+
+2022,99,4,Winnipeg Jets,Garrett Brown,D,USA,USHL,0.29,1,1.0,Vai jogar 100+
+2022,100,4,Seattle Kraken,Tyson Jugnauth,D,CAN,WHL,0.97,1,0.96,Vai jogar 100+
+2022,101,4,Carolina Hurricanes,Simon Forsmark,D,SWE,SHL,0.42,1,1.0,Vai jogar 100+
+2022,103,4,Los Angeles Kings,Kenny Connors,F,USA,USHL,0.67,1,1.0,Vai jogar 100+
+2022,104,4,Ottawa Senators,Stephen Halliday,F,CAN,USHL,1.0,1,1.0,Vai jogar 100+
+2022,105,4,Detroit Red Wings,Anton Johansson,D,SWE,SHL,0.28,1,1.0,Vai jogar 100+
+2022,106,4,Buffalo Sabres,Mats Lindgren,D,CAN,WHL,0.58,1,1.0,Vai jogar 100+
+2022,107,4,Anaheim Ducks,Ben King,F,CAN,WHL,1.02,1,1.0,Vai jogar 100+
+2022,109,4,Columbus Blue Jackets,Kirill Dolzhenkov,F,RUS,KHL,0.49,1,1.0,Vai jogar 100+
+2022,110,4,New Jersey Devils,Daniil Orlov,D,RUS,KHL,0.35,1,1.0,Vai jogar 100+
+2022,111,4,New York Rangers,Noah Laba,F,USA,NCAA,0.73,1,0.99,Vai jogar 100+
+2022,112,4,Vancouver Canucks,Daimon Gardner,F,CAN,NCAA,0.78,1,1.0,Vai jogar 100+
+2022,113,4,Detroit Red Wings,Amadeus Lombardi,F,CAN,OHL,1.2,1,0.98,Vai jogar 100+
+2022,114,4,Nashville Predators,Cole O'Hara,F,CAN,NCAA,0.87,1,0.97,Vai jogar 100+
+2022,115,4,Dallas Stars,Gavin White,D,CAN,OHL,0.69,1,0.99,Vai jogar 100+
+2022,116,4,Los Angeles Kings,Angus Booth,D,CAN,QMJHL,0.37,1,1.0,Vai jogar 100+
+2022,117,4,Boston Bruins,Cole Spicer,F,USA,USDP,0.53,1,1.0,Vai jogar 100+
+2022,119,4,Boston Bruins,Dans Locmelis,F,LVA,SuperElit,0.85,1,0.88,Vai jogar 100+
+2022,120,4,St. Louis Blues,Arseni Koromyslov,D,RUS,KHL,0.31,1,1.0,Vai jogar 100+
+2022,121,4,Minnesota Wild,Ryan Healey,D,USA,NCAA,0.37,1,1.0,Vai jogar 100+
+2022,123,4,Seattle Kraken,Tucker Robertson,F,CAN,OHL,0.99,1,0.99,Vai jogar 100+
+2022,124,4,Carolina Hurricanes,Cruz Lucius,F,USA,NCAA,0.92,1,1.0,Vai jogar 100+
+2022,125,4,Florida Panthers,Ludvig Jansson,D,SWE,HockeyAllsvenskan,0.19,1,1.0,Vai jogar 100+
+2022,126,4,New Jersey Devils,Charlie Leddy,D,USA,NCAA,0.27,1,1.0,Vai jogar 100+
+2022,127,4,Montréal Canadiens,Cédrick Guindon,F,CAN,OHL,0.94,1,1.0,Vai jogar 100+
+2022,129,4,Detroit Red Wings,Maximilian Kilpinen,F,SWE,SuperElit,0.71,1,0.96,Vai jogar 100+
+2022,130,5,Montréal Canadiens,Jared Davidson,F,CAN,WHL,0.83,1,1.0,Vai jogar 100+
+2022,131,5,Arizona Coyotes,Matthew Morden,D,CAN,NCAA,0.32,1,1.0,Vai jogar 100+
+2022,132,5,Boston Bruins,Frédéric Brunet,D,CAN,QMJHL,0.79,1,1.0,Vai jogar 100+
+2022,133,5,Philadelphia Flyers,Alex Bump,F,USA,NCAA,1.24,1,1.0,Vai jogar 100+
+2022,134,5,Buffalo Sabres,Vsevolod Komarov,D,RUS,QMJHL,0.6,1,1.0,Vai jogar 100+
+2022,135,5,Toronto Maple Leafs,Nikita Grebyonkin,F,RUS,KHL,0.72,1,1.0,Vai jogar 100+
+2022,136,5,Ottawa Senators,Jorian Donovan,D,CAN,OHL,0.61,1,1.0,Vai jogar 100+
+2022,137,5,Detroit Red Wings,Tnias Mathurin,D,CAN,OHL,0.37,1,1.0,Vai jogar 100+
+2022,139,5,Anaheim Ducks,Connor Hvidston,F,CAN,WHL,0.84,1,1.0,Vai jogar 100+
+2022,140,5,San Jose Sharks,Jake Furlong,D,CAN,QMJHL,0.58,1,1.0,Vai jogar 100+
+2022,141,5,New Jersey Devils,Petr Hauser,F,CZE,Czechia,0.2,1,0.89,Vai jogar 100+
+2022,142,5,New York Islanders,Matthew Maggio,F,CAN,OHL,1.02,1,1.0,Vai jogar 100+
+2022,143,5,Ottawa Senators,Cameron O'Neill,F,USA,NCAA,0.36,1,0.98,Vai jogar 100+
+2022,145,5,Vegas Golden Knights,Patrick Guay,F,CAN,QMJHL,0.91,1,1.0,Vai jogar 100+
+2022,146,5,Nashville Predators,Graham Sward,D,CAN,WHL,0.68,1,1.0,Vai jogar 100+
+2022,148,5,Los Angeles Kings,Otto Salin,D,FIN,Liiga,0.37,1,0.97,Vai jogar 100+
+2022,149,5,Washington Capitals,Jake Karabela,F,CAN,OHL,0.73,1,1.0,Vai jogar 100+
+2022,150,5,Pittsburgh Penguins,Zam Plante,F,USA,USHL,1.26,1,0.93,Vai jogar 100+
+2022,152,5,St. Louis Blues,Marc-Andre Gaudet,D,CAN,QMJHL,0.63,1,1.0,Vai jogar 100+
+2022,153,5,Minnesota Wild,David Spacek,D,CZE,QMJHL,0.93,1,0.77,Vai jogar 100+
+2022,154,5,Anaheim Ducks,Michael Callow,F,USA,NCAA,0.64,1,1.0,Vai jogar 100+
+2022,155,5,Calgary Flames,Parker Bell,F,CAN,WHL,0.77,1,1.0,Vai jogar 100+
+2022,156,5,Carolina Hurricanes,Vladimir Grudinin,D,RUS,KHL,0.24,1,0.99,Vai jogar 100+
+2022,157,5,Florida Panthers,Sandis Vilmanis,F,LVA,OHL,0.77,1,0.98,Vai jogar 100+
+2022,159,5,New York Rangers,Victor Mancini,D,USA,NCAA,0.29,1,1.0,Vai jogar 100+
+2022,161,5,New York Rangers,Maxim Barbashyov,F,RUS,QMJHL,0.78,1,1.0,Vai jogar 100+
+2022,163,6,Arizona Coyotes,Maksymilian Szuber,D,DEU,DEL,0.2,0,0.04,Não vai jogar 100+
+2022,164,6,Seattle Kraken,Barrett Hall,F,USA,NCAA,1.17,1,1.0,Vai jogar 100+
+2022,165,6,Philadelphia Flyers,Hunter McDonald,D,USA,USHL,0.26,1,1.0,Vai jogar 100+
+2022,166,6,New Jersey Devils,Josh Filmon,F,CAN,WHL,0.89,1,1.0,Vai jogar 100+
+2022,167,6,Pittsburgh Penguins,Nolan Collins,D,CAN,OHL,0.35,1,1.0,Vai jogar 100+
+2022,168,6,Ottawa Senators,Theo Wallberg,D,SWE,NCAA,0.41,1,1.0,Vai jogar 100+
+2022,169,6,Los Angeles Kings,Jared Wright,F,USA,NCAA,0.64,1,0.94,Vai jogar 100+
+2022,170,6,Buffalo Sabres,Jake Richard,F,USA,USHL,0.9,1,1.0,Vai jogar 100+
+2022,172,6,San Jose Sharks,Joey Muldowney,F,USA,NCAA,0.96,1,1.0,Vai jogar 100+
+2022,173,6,Chicago Blackhawks,Dominic James,F,USA,NCAA,0.59,1,1.0,Vai jogar 100+
+2022,174,6,New York Islanders,Daylan Kuefler,F,CAN,WHL,0.78,1,1.0,Vai jogar 100+
+2022,175,6,Winnipeg Jets,Fabian Wagner,F,SWE,SHL,0.48,1,0.97,Vai jogar 100+
+2022,176,6,Vancouver Canucks,Jackson Dorrington,D,USA,NCAA,0.35,1,1.0,Vai jogar 100+
+2022,177,6,Vegas Golden Knights,Ben Hemmerling,F,CAN,WHL,1.04,1,1.0,Vai jogar 100+
+2022,179,6,Dallas Stars,Matthew Seminoff,F,CAN,WHL,0.87,1,0.99,Vai jogar 100+
+2022,180,6,Los Angeles Kings,Jack Sparkes,D,CAN,NCAA,0.13,1,0.97,Vai jogar 100+
+2022,181,6,Washington Capitals,Ryan Hofer,F,CAN,WHL,0.87,1,1.0,Vai jogar 100+
+2022,182,6,Pittsburgh Penguins,Luke Devlin,F,USA,NCAA,0.26,0,0.23,Não vai jogar 100+
+2022,184,6,St. Louis Blues,Landon Sim,F,CAN,OHL,0.58,1,1.0,Vai jogar 100+
+2022,185,6,Minnesota Wild,Servác Petrovský,F,SVK,OHL,0.69,1,1.0,Vai jogar 100+
+2022,186,6,Florida Panthers,Josh Davies,F,CAN,WHL,0.69,1,1.0,Vai jogar 100+
+2022,187,6,Buffalo Sabres,Gustav Karlsson,F,SWE,SuperElit,0.8,1,0.73,Vai jogar 100+
+2022,188,6,Chicago Blackhawks,Nils Juntorp,F,SWE,USHL,0.64,1,1.0,Vai jogar 100+
+2022,190,6,Edmonton Oilers,Nikita Yevseyev,D,RUS,KHL,0.22,1,1.0,Vai jogar 100+
+2022,191,6,New York Rangers,Zakary Karpa,F,USA,NCAA,0.32,1,1.0,Vai jogar 100+
+2022,192,6,Tampa Bay Lightning,Connor Kurth,F,USA,NCAA,0.84,1,1.0,Vai jogar 100+
+2022,193,6,Colorado Avalanche,Chris Romaine,D,USA,USHL,0.42,1,1.0,Vai jogar 100+
+2022,194,7,Montréal Canadiens,Petteri Nurmi,D,FIN,Liiga,0.26,1,1.0,Vai jogar 100+
+2022,195,7,San Jose Sharks,Eli Barnett,D,CAN,NCAA,0.16,0,0.0,Não vai jogar 100+
+2022,196,7,Seattle Kraken,Kyle Jackson,F,CAN,OHL,0.91,1,1.0,Vai jogar 100+
+2022,197,7,Philadelphia Flyers,Santeri Sulku,F,FIN,Liiga,0.67,0,0.0,Não vai jogar 100+
+2022,198,7,New Jersey Devils,Artyom Barabosha,D,RUS,MHL,0.15,1,1.0,Vai jogar 100+
+2022,199,7,Chicago Blackhawks,Riku Tohila,F,FIN,Liiga,0.07,0,0.0,Não vai jogar 100+
+2022,200,7,Boston Bruins,Jackson Edward,D,CAN,OHL,0.34,1,0.99,Vai jogar 100+
+2022,201,7,Detroit Red Wings,Owen Mehlenbacher,F,CAN,USHL,0.51,1,1.0,Vai jogar 100+
+2022,202,7,Buffalo Sabres,Joel Ratkovic Berndtsson,F,SWE,SuperElit,0.75,1,0.99,Vai jogar 100+
+2022,203,7,Columbus Blue Jackets,James Fisher,F,USA,NCAA,0.36,1,0.99,Vai jogar 100+
+2022,204,7,Arizona Coyotes,Adam Zlnka,F,SVK,USHL,0.35,1,0.98,Vai jogar 100+
+2022,205,7,Carolina Hurricanes,Alexander Pelevin,D,RUS,MHL,0.27,1,1.0,Vai jogar 100+
+2022,206,7,Ottawa Senators,Tyson Dyck,F,CAN,NCAA,0.39,1,0.91,Vai jogar 100+
+2022,208,7,Vancouver Canucks,Kirill Kudryavtsev,D,RUS,OHL,0.64,1,0.99,Vai jogar 100+
+2022,209,7,Vegas Golden Knights,Abram Wiebe,D,CAN,NCAA,0.53,1,0.98,Vai jogar 100+
+2022,210,7,Nashville Predators,Ben Strinden,F,USA,NCAA,0.62,1,0.98,Vai jogar 100+
+2022,211,7,Buffalo Sabres,Linus Sjödin,F,SWE,SHL,0.25,1,1.0,Vai jogar 100+
+2022,212,7,Detroit Red Wings,Brennan Ali,F,USA,NCAA,0.59,1,1.0,Vai jogar 100+
+2022,213,7,Washington Capitals,David Gucciardi,D,CAN,NCAA,0.38,1,0.96,Vai jogar 100+
+2022,214,7,Florida Panthers,Liam Arnsby,F,CAN,OHL,0.51,1,1.0,Vai jogar 100+
+2022,215,7,Los Angeles Kings,Kaleb Lawrence,F,CAN,OHL,0.55,1,1.0,Vai jogar 100+
+2022,216,7,Montréal Canadiens,Miguël Tourigny,D,CAN,QMJHL,0.76,1,1.0,Vai jogar 100+
+2022,217,7,San Jose Sharks,Reese Laubach,F,USA,NCAA,0.66,1,0.99,Vai jogar 100+
+2022,218,7,Toronto Maple Leafs,Brandon Lisowsky,F,CAN,WHL,0.99,1,1.0,Vai jogar 100+
+2022,219,7,Calgary Flames,Cade Littler,F,USA,NCAA,0.38,0,0.27,Não vai jogar 100+
+2022,220,7,Philadelphia Flyers,Alexis Gendron,F,CAN,QMJHL,0.9,1,1.0,Vai jogar 100+
+2022,221,7,Florida Panthers,Jack Devine,F,USA,NCAA,0.92,1,1.0,Vai jogar 100+
+2022,222,7,Edmonton Oilers,Joel Määttä,F,FIN,NCAA,0.45,1,1.0,Vai jogar 100+
+2022,223,7,Tampa Bay Lightning,Dyllan Gill,D,CAN,QMJHL,0.53,1,0.99,Vai jogar 100+
+2022,224,7,Tampa Bay Lightning,Klavs Veinbergs,F,LVA,NCAA,0.55,1,0.99,Vai jogar 100+
+2023,1,1,Chicago Blackhawks,Connor Bedard,F,CAN,WHL,1.99,1,1.0,Vai jogar 100+
+2023,2,1,Anaheim Ducks,Leo Carlsson,F,SWE,SHL,0.62,1,0.92,Vai jogar 100+
+2023,3,1,Columbus Blue Jackets,Adam Fantilli,F,CAN,USHL,1.28,1,1.0,Vai jogar 100+
+2023,4,1,San Jose Sharks,Will Smith,F,USA,USDP,1.51,1,1.0,Vai jogar 100+
+2023,5,1,Montréal Canadiens,David Reinbacher,D,AUT,NL,0.41,0,0.08,Não vai jogar 100+
+2023,6,1,Arizona Coyotes,Dmitri Simashev,D,RUS,KHL,0.21,1,1.0,Vai jogar 100+
+2023,7,1,Philadelphia Flyers,Matvei Michkov,F,RUS,KHL,0.99,1,1.0,Vai jogar 100+
+2023,8,1,Washington Capitals,Ryan Leonard,F,USA,USDP,1.37,1,1.0,Vai jogar 100+
+2023,9,1,Detroit Red Wings,Nate Danielson,F,CAN,WHL,1.09,1,1.0,Vai jogar 100+
+2023,10,1,St. Louis Blues,Dalibor Dvorský,F,SVK,HockeyAllsvenskan,0.94,1,1.0,Vai jogar 100+
+2023,11,1,Vancouver Canucks,Tom Willander,D,SWE,NCAA,0.56,1,0.95,Vai jogar 100+
+2023,12,1,Arizona Coyotes,Daniil But,F,RUS,KHL,0.62,1,1.0,Vai jogar 100+
+2023,13,1,Buffalo Sabres,Zach Benson,F,CAN,WHL,1.27,1,0.94,Vai jogar 100+
+2023,14,1,Pittsburgh Penguins,Brayden Yager,F,CAN,WHL,1.25,1,1.0,Vai jogar 100+
+2023,15,1,Nashville Predators,Matthew Wood,F,CAN,NCAA,0.93,1,0.95,Vai jogar 100+
+2023,16,1,Calgary Flames,Samuel Honzek,F,SVK,WHL,0.78,1,1.0,Vai jogar 100+
+2023,17,1,Detroit Red Wings,Axel Sandin-Pellikka,D,SWE,SHL,0.6,1,0.92,Vai jogar 100+
+2023,18,1,Winnipeg Jets,Colby Barlow,F,CAN,OHL,1.07,1,1.0,Vai jogar 100+
+2023,19,1,Chicago Blackhawks,Oliver Moore,F,USA,USDP,1.08,1,1.0,Vai jogar 100+
+2023,20,1,Seattle Kraken,Eduard Sale,F,CZE,Czechia,0.54,1,0.73,Vai jogar 100+
+2023,21,1,Minnesota Wild,Charlie Stramel,F,USA,NCAA,0.67,1,1.0,Vai jogar 100+
+2023,22,1,Philadelphia Flyers,Oliver Bonk,D,CAN,OHL,0.79,1,1.0,Vai jogar 100+
+2023,23,1,New York Rangers,Gabe Perreault,F,USA,USDP,1.42,1,1.0,Vai jogar 100+
+2023,24,1,Nashville Predators,Tanner Molendyk,D,CAN,WHL,0.67,1,1.0,Vai jogar 100+
+2023,25,1,St. Louis Blues,Otto Stenberg,F,SWE,SHL,0.54,1,1.0,Vai jogar 100+
+2023,26,1,San Jose Sharks,Quentin Musty,F,USA,OHL,1.43,1,1.0,Vai jogar 100+
+2023,27,1,Colorado Avalanche,Calum Ritchie,F,CAN,OHL,1.15,1,1.0,Vai jogar 100+
+2023,28,1,Toronto Maple Leafs,Easton Cowan,F,CAN,OHL,1.26,1,0.97,Vai jogar 100+
+2023,29,1,St. Louis Blues,Theo Lindstein,D,SWE,SHL,0.21,1,0.92,Vai jogar 100+
+2023,30,1,Carolina Hurricanes,Bradly Nadeau,F,CAN,NCAA,1.24,0,0.02,Não vai jogar 100+
+2023,31,1,Colorado Avalanche,Mikhail Gulyayev,D,RUS,KHL,0.33,1,1.0,Vai jogar 100+
+2023,32,1,Vegas Golden Knights,David Edstrom,F,SWE,SHL,0.53,1,1.0,Vai jogar 100+
+2023,33,2,Anaheim Ducks,Nico Myatovic,F,CAN,WHL,0.67,1,0.96,Vai jogar 100+
+2023,34,2,Columbus Blue Jackets,Gavin Brindley,F,USA,USHL,0.83,1,1.0,Vai jogar 100+
+2023,36,2,San Jose Sharks,Kasper Halttunen,F,FIN,OHL,0.84,1,0.97,Vai jogar 100+
+2023,37,2,Tampa Bay Lightning,Ethan Gauthier,F,CAN,QMJHL,0.98,1,1.0,Vai jogar 100+
+2023,39,2,Buffalo Sabres,Anton Wahlberg,F,SWE,SHL,0.42,1,0.94,Vai jogar 100+
+2023,40,2,Washington Capitals,Andrew Cristall,F,CAN,WHL,1.66,1,1.0,Vai jogar 100+
+2023,42,2,Detroit Red Wings,Andrew Gibson,D,CAN,OHL,0.51,1,1.0,Vai jogar 100+
+2023,43,2,Nashville Predators,Felix Nilsson,F,SWE,SHL,0.58,1,1.0,Vai jogar 100+
+2023,44,2,Chicago Blackhawks,Roman Kantserov,F,RUS,KHL,0.8,1,1.0,Vai jogar 100+
+2023,45,2,Buffalo Sabres,Maxim Strbak,D,SVK,NCAA,0.44,1,0.99,Vai jogar 100+
+2023,46,2,Nashville Predators,Kalan Lind,F,CAN,WHL,0.79,1,1.0,Vai jogar 100+
+2023,47,2,Detroit Red Wings,Brady Cleveland,D,USA,USDP,0.09,1,0.96,Vai jogar 100+
+2023,48,2,Calgary Flames,Étienne Morin,D,CAN,QMJHL,0.84,1,1.0,Vai jogar 100+
+2023,49,2,New York Islanders,Danny Nelson,F,USA,NCAA,0.83,1,1.0,Vai jogar 100+
+2023,50,2,Seattle Kraken,Carson Rehkopf,F,CAN,OHL,1.09,1,0.99,Vai jogar 100+
+2023,52,2,Seattle Kraken,Oscar Fisker Mølgaard,F,DNK,SHL,0.45,1,0.95,Vai jogar 100+
+2023,53,2,Minnesota Wild,Rasmus Kumpulainen,F,FIN,OHL,0.68,1,0.8,Vai jogar 100+
+2023,54,2,Los Angeles Kings,Jakub Dvořák,D,CZE,Czechia,0.23,0,0.08,Não vai jogar 100+
+2023,55,2,Chicago Blackhawks,Martin Misiak,F,SVK,OHL,0.64,1,1.0,Vai jogar 100+
+2023,56,2,Edmonton Oilers,Beau Akey,D,CAN,OHL,0.54,1,1.0,Vai jogar 100+
+2023,57,2,Seattle Kraken,Lukas Dragicevic,D,CAN,WHL,0.85,1,1.0,Vai jogar 100+
+2023,58,2,New Jersey Devils,Lenni Hämeenaho,F,FIN,Liiga,0.66,1,0.97,Vai jogar 100+
+2023,59,2,Anaheim Ducks,Carey Terrance,F,USA,OHL,0.72,1,1.0,Vai jogar 100+
+2023,61,2,Dallas Stars,Tristan Bertucci,D,CAN,OHL,0.61,1,1.0,Vai jogar 100+
+2023,62,2,Carolina Hurricanes,Felix Unger Sörum,F,SWE,SuperElit,0.7,1,0.69,Vai jogar 100+
+2023,63,2,Florida Panthers,Gracyn Sawchyn,F,CAN,WHL,1.01,1,1.0,Vai jogar 100+
+2023,64,2,Minnesota Wild,Riley Heidt,F,CAN,WHL,1.32,1,1.0,Vai jogar 100+
+2023,65,3,Anaheim Ducks,Coulson Pitre,F,CAN,OHL,0.96,1,1.0,Vai jogar 100+
+2023,66,3,Columbus Blue Jackets,William Whitelaw,F,USA,NCAA,1.01,1,1.0,Vai jogar 100+
+2023,67,3,Chicago Blackhawks,Nick Lardis,F,CAN,OHL,1.15,1,1.0,Vai jogar 100+
+2023,68,3,Nashville Predators,Jesse Kiiskinen,F,FIN,Liiga,0.57,1,0.93,Vai jogar 100+
+2023,70,3,Arizona Coyotes,Jonathan Castagna,F,CAN,NCAA,0.74,1,0.38,Vai jogar 100+
+2023,71,3,San Jose Sharks,Brandon Svoboda,F,USA,USHL,0.42,1,0.99,Vai jogar 100+
+2023,72,3,Arizona Coyotes,Noel Nordh,F,SWE,SuperElit,0.7,1,0.93,Vai jogar 100+
+2023,73,3,Detroit Red Wings,Noah Dower-Nilsson,F,SWE,SHL,0.62,1,0.99,Vai jogar 100+
+2023,74,3,St. Louis Blues,Quinton Burns,D,CAN,OHL,0.53,1,1.0,Vai jogar 100+
+2023,75,3,Vancouver Canucks,Hunter Brzustewicz,D,USA,OHL,0.83,1,1.0,Vai jogar 100+
+2023,76,3,St. Louis Blues,Juraj Pekarcik,F,SVK,QMJHL,0.98,1,1.0,Vai jogar 100+
+2023,77,3,Vegas Golden Knights,Mathieu Cataford,F,CAN,QMJHL,1.1,1,1.0,Vai jogar 100+
+2023,78,3,Los Angeles Kings,Koehn Ziemmer,F,CAN,WHL,1.07,1,1.0,Vai jogar 100+
+2023,79,3,Dallas Stars,Brad Gardiner,F,CAN,OHL,0.62,1,1.0,Vai jogar 100+
+2023,80,3,Calgary Flames,Aydar Suniev,F,RUS,NCAA,0.89,0,0.05,Não vai jogar 100+
+2023,81,3,Arizona Coyotes,Tanner Ludtke,F,USA,USHL,0.99,1,1.0,Vai jogar 100+
+2023,82,3,Winnipeg Jets,Zachary Nehring,F,USA,NCAA,0.84,1,1.0,Vai jogar 100+
+2023,83,3,Nashville Predators,Dylan MacKinnon,D,CAN,QMJHL,0.22,1,1.0,Vai jogar 100+
+2023,84,3,Seattle Kraken,Caden Price,D,CAN,WHL,0.69,1,1.0,Vai jogar 100+
+2023,85,3,Anaheim Ducks,Yegor Sidorov,F,BLR,WHL,1.12,1,1.0,Vai jogar 100+
+2023,86,3,Buffalo Sabres,Gavin McCarthy,D,USA,NCAA,0.39,1,1.0,Vai jogar 100+
+2023,88,3,Arizona Coyotes,Vadim Moroz,F,BLR,KHL,0.51,1,1.0,Vai jogar 100+
+2023,89,3,Vancouver Canucks,Sawyer Mynio,D,CAN,WHL,0.62,1,1.0,Vai jogar 100+
+2023,90,3,New York Rangers,Drew Fortescue,D,USA,USDP,0.37,1,1.0,Vai jogar 100+
+2023,91,3,Pittsburgh Penguins,Emil Pieniniemi,D,FIN,OHL,0.67,0,0.12,Não vai jogar 100+
+2023,92,3,Boston Bruins,Christopher Pelosi,F,USA,USHL,0.77,1,0.99,Vai jogar 100+
+2023,93,3,Chicago Blackhawks,Jiri Felcman,F,CZE,NL,0.33,1,0.31,Vai jogar 100+
+2023,94,3,Carolina Hurricanes,Jayden Perron,F,CAN,USHL,0.84,1,0.99,Vai jogar 100+
+2023,95,3,Philadelphia Flyers,Denver Barkey,F,CAN,OHL,1.13,1,0.99,Vai jogar 100+
+2023,96,3,Vegas Golden Knights,Arttu Kärki,D,FIN,OHL,0.57,1,0.75,Vai jogar 100+
+2023,97,4,Anaheim Ducks,Konnor Smith,D,CAN,OHL,0.32,1,0.96,Vai jogar 100+
+2023,98,4,Columbus Blue Jackets,Andrew Strathmann,D,USA,USHL,0.47,1,1.0,Vai jogar 100+
+2023,99,4,Chicago Blackhawks,Alex Pharand,F,CAN,OHL,0.57,1,1.0,Vai jogar 100+
+2023,100,4,Carolina Hurricanes,Alexander Rykov,F,RUS,KHL,0.34,1,0.99,Vai jogar 100+
+2023,101,4,Montréal Canadiens,Florian Xhekaj,F,CAN,OHL,0.69,1,0.93,Vai jogar 100+
+2023,102,4,Arizona Coyotes,Terrell Goldsmith,D,CAN,WHL,0.19,1,1.0,Vai jogar 100+
+2023,103,4,Philadelphia Flyers,Cole Knuble,F,USA,USHL,0.88,1,1.0,Vai jogar 100+
+2023,104,4,Washington Capitals,Patrick Thomas,F,CAN,OHL,1.0,1,1.0,Vai jogar 100+
+2023,105,4,Vancouver Canucks,Ty Mueller,F,CAN,NCAA,0.65,0,0.14,Não vai jogar 100+
+2023,106,4,St. Louis Blues,Jakub Stancl,F,CZE,SuperElit,0.6,1,1.0,Vai jogar 100+
+2023,107,4,Vancouver Canucks,Vilmer Alriksson,F,SWE,OHL,0.58,1,1.0,Vai jogar 100+
+2023,108,4,Ottawa Senators,Hoyt Stanley,D,CAN,NCAA,0.37,1,0.93,Vai jogar 100+
+2023,109,4,Buffalo Sabres,Ethan Miedema,F,CAN,OHL,0.7,1,1.0,Vai jogar 100+
+2023,110,4,Montréal Canadiens,Bogdan Konyushkov,D,RUS,KHL,0.41,1,0.97,Vai jogar 100+
+2023,111,4,Nashville Predators,Joey Willis,F,USA,OHL,0.81,1,0.98,Vai jogar 100+
+2023,112,4,Calgary Flames,Jaden Lipinski,F,USA,WHL,0.7,1,1.0,Vai jogar 100+
+2023,113,4,New York Islanders,Jesse Nurmi,F,FIN,OHL,0.56,1,0.99,Vai jogar 100+
+2023,114,4,Columbus Blue Jackets,Luca Pinelli,F,CAN,OHL,1.02,1,1.0,Vai jogar 100+
+2023,115,4,Tampa Bay Lightning,Jayson Shaugabay,F,USA,USHS-MN,1.57,1,1.0,Vai jogar 100+
+2023,116,4,Seattle Kraken,Andrei Loshko,F,BLR,QMJHL,0.95,1,1.0,Vai jogar 100+
+2023,117,4,Detroit Red Wings,Larry Keenan,D,CAN,NCAA,0.54,1,0.96,Vai jogar 100+
+2023,119,4,Vancouver Canucks,Matthew Perkins,F,CAN,NCAA,0.46,1,1.0,Vai jogar 100+
+2023,120,4,Philadelphia Flyers,Alex Ciernik,F,SVK,HockeyAllsvenskan,0.6,1,1.0,Vai jogar 100+
+2023,122,4,New Jersey Devils,Cam Squires,F,CAN,QMJHL,0.96,1,1.0,Vai jogar 100+
+2023,123,4,San Jose Sharks,Luca Cagnoni,D,CAN,WHL,0.94,1,1.0,Vai jogar 100+
+2023,124,4,Boston Bruins,Beckett Hendrickson,F,USA,USHL,0.61,1,1.0,Vai jogar 100+
+2023,125,4,Dallas Stars,Aram Minnetian,D,USA,NCAA,0.53,1,1.0,Vai jogar 100+
+2023,126,4,Carolina Hurricanes,Stanislav Yarovoi,F,RUS,KHL,0.41,1,1.0,Vai jogar 100+
+2023,127,4,Florida Panthers,Albert Wikman,D,SWE,SuperElit,0.23,1,0.99,Vai jogar 100+
+2023,129,5,Anaheim Ducks,Rodwin Dionicio,D,CHE,OHL,0.83,1,1.0,Vai jogar 100+
+2023,130,5,San Jose Sharks,Axel Landén,D,SWE,SuperElit,0.21,1,0.99,Vai jogar 100+
+2023,131,5,Chicago Blackhawks,Marcel Marcel,F,CZE,QMJHL,0.47,1,0.3,Vai jogar 100+
+2023,132,5,San Jose Sharks,Eric Pohlkamp,D,USA,USHL,0.73,1,1.0,Vai jogar 100+
+2023,133,5,Montréal Canadiens,Sam Harris,F,USA,NCAA,0.78,1,1.0,Vai jogar 100+
+2023,135,5,Philadelphia Flyers,Carter Sotheran,D,CAN,WHL,0.63,1,1.0,Vai jogar 100+
+2023,136,5,Washington Capitals,Cam Allen,D,CAN,OHL,0.58,1,1.0,Vai jogar 100+
+2023,137,5,Detroit Red Wings,Jack Phelan,D,USA,USHL,0.14,1,0.94,Vai jogar 100+
+2023,138,5,St. Louis Blues,Paul Fischer,D,USA,USDP,0.42,1,1.0,Vai jogar 100+
+2023,139,5,Carolina Hurricanes,Charles-Alexis Legault,D,CAN,NCAA,0.37,1,1.0,Vai jogar 100+
+2023,140,5,Ottawa Senators,Matthew Andonovski,D,CAN,OHL,0.33,1,1.0,Vai jogar 100+
+2023,142,5,Pittsburgh Penguins,Mikhail Ilyin,F,RUS,KHL,0.53,1,1.0,Vai jogar 100+
+2023,143,5,Nashville Predators,Sutter Muzzatti,F,USA,NCAA,0.7,1,1.0,Vai jogar 100+
+2023,145,5,New York Islanders,Justin Gill,F,CAN,QMJHL,0.95,1,1.0,Vai jogar 100+
+2023,146,5,Winnipeg Jets,Jacob Julien,F,CAN,OHL,0.86,1,1.0,Vai jogar 100+
+2023,147,5,Detroit Red Wings,Kevin Bicker,F,DEU,DEL,0.13,0,0.22,Não vai jogar 100+
+2023,148,5,Seattle Kraken,Kaden Hammell,D,CAN,WHL,0.43,1,1.0,Vai jogar 100+
+2023,149,5,Minnesota Wild,Aaron Pionk,D,USA,NCAA,0.7,1,1.0,Vai jogar 100+
+2023,150,5,Los Angeles Kings,Matthew Mania,D,USA,OHL,0.49,1,1.0,Vai jogar 100+
+2023,152,5,New York Rangers,Rasmus Larsson,D,SWE,SuperElit,0.33,1,0.89,Vai jogar 100+
+2023,153,5,Toronto Maple Leafs,Hudson Malinoski,F,CAN,NCAA,0.53,1,0.9,Vai jogar 100+
+2023,154,5,New Jersey Devils,Chase Cheslock,D,USA,NCAA,0.73,1,1.0,Vai jogar 100+
+2023,155,5,Colorado Avalanche,Nikita Ishimnikov,D,RUS,MHL,0.3,1,0.89,Vai jogar 100+
+2023,160,5,Arizona Coyotes,Justin Kipkie,D,CAN,WHL,0.66,1,1.0,Vai jogar 100+
+2023,161,6,Anaheim Ducks,Vojtech Port,D,CZE,WHL,0.25,1,0.96,Vai jogar 100+
+2023,162,6,Arizona Coyotes,Samu Bau,F,FIN,Liiga,0.18,1,0.97,Vai jogar 100+
+2023,163,6,Carolina Hurricanes,Timur Mukhanov,F,RUS,KHL,0.32,1,1.0,Vai jogar 100+
+2023,164,6,New Jersey Devils,Cole Brown,F,CAN,OHL,0.7,1,1.0,Vai jogar 100+
+2023,165,6,Montréal Canadiens,Filip Eriksson,F,SWE,SHL,0.49,1,0.96,Vai jogar 100+
+2023,167,6,Chicago Blackhawks,Milton Oscarson,F,SWE,SHL,0.32,1,1.0,Vai jogar 100+
+2023,170,6,St. Louis Blues,Matthew Mayich,D,CAN,OHL,0.39,1,1.0,Vai jogar 100+
+2023,171,6,Vancouver Canucks,Aiden Celebrini,D,CAN,NCAA,0.34,1,0.99,Vai jogar 100+
+2023,172,6,Philadelphia Flyers,Ryan MacPherson,F,CAN,NCAA,0.12,0,0.0,Não vai jogar 100+
+2023,173,6,Buffalo Sabres,Sean Keohane,D,USA,USHS-Prep,0.31,1,0.93,Vai jogar 100+
+2023,174,6,Pittsburgh Penguins,Cooper Foster,F,CAN,OHL,0.82,1,1.0,Vai jogar 100+
+2023,175,6,Nashville Predators,Austin Roest,F,CAN,WHL,0.93,1,1.0,Vai jogar 100+
+2023,177,6,New York Islanders,Zach Schulz,D,USA,USDP,0.22,1,1.0,Vai jogar 100+
+2023,178,6,New York Rangers,Dylan Roobroeck,F,CAN,OHL,0.73,1,1.0,Vai jogar 100+
+2023,179,6,Tampa Bay Lightning,Warren Clark,D,CAN,NCAA,0.15,0,0.02,Não vai jogar 100+
+2023,180,6,Seattle Kraken,Zeb Forsfjäll,F,SWE,SHL,0.27,1,0.99,Vai jogar 100+
+2023,181,6,Minnesota Wild,Kalem Parker,D,CAN,WHL,0.49,1,1.0,Vai jogar 100+
+2023,182,6,Los Angeles Kings,Ryan Conmy,F,USA,NCAA,0.94,1,0.91,Vai jogar 100+
+2023,183,6,New York Rangers,Ty Henricks,F,USA,USHL,0.48,1,1.0,Vai jogar 100+
+2023,185,6,Toronto Maple Leafs,Noah Chadwick,D,CAN,WHL,0.62,1,0.92,Vai jogar 100+
+2023,186,6,New Jersey Devils,Daniil Karpovich,D,BLR,MHL,0.52,0,0.27,Não vai jogar 100+
+2023,187,6,Colorado Avalanche,Jeremy Hanzel,D,CAN,WHL,0.68,1,1.0,Vai jogar 100+
+2023,188,6,Boston Bruins,Ryan Walsh,F,USA,NCAA,1.06,1,1.0,Vai jogar 100+
+2023,189,6,Dallas Stars,Angus MacDonell,F,CAN,OHL,0.78,1,1.0,Vai jogar 100+
+2023,190,6,Carolina Hurricanes,Michael Emerson,F,USA,USHL,0.55,1,1.0,Vai jogar 100+
+2023,191,6,Florida Panthers,Luke Coughlin,D,CAN,QMJHL,0.43,1,0.99,Vai jogar 100+
+2023,192,6,Vegas Golden Knights,Tuomas Uronen,F,FIN,OHL,1.22,1,0.32,Vai jogar 100+
+2023,193,7,Tampa Bay Lightning,Jack Harvey,F,USA,USHL,0.74,1,1.0,Vai jogar 100+
+2023,194,7,Columbus Blue Jackets,Oiva Keskinen,F,FIN,Liiga,0.61,1,0.94,Vai jogar 100+
+2023,195,7,Chicago Blackhawks,Janne Peltonen,D,FIN,Liiga,0.1,0,0.0,Não vai jogar 100+
+2023,196,7,San Jose Sharks,David Klee,F,USA,USHL,0.51,1,1.0,Vai jogar 100+
+2023,197,7,Montréal Canadiens,Luke Mittelstadt,D,USA,NCAA,0.77,1,1.0,Vai jogar 100+
+2023,198,7,Florida Panthers,Stepan Zvyagin,F,RUS,MHL,0.6,1,0.92,Vai jogar 100+
+2023,199,7,Philadelphia Flyers,Matteo Mann,D,CAN,QMJHL,0.18,1,0.99,Vai jogar 100+
+2023,200,7,Washington Capitals,Brett Hyland,F,CAN,WHL,0.71,1,1.0,Vai jogar 100+
+2023,201,7,Detroit Red Wings,Emmitt Finnie,F,CAN,WHL,0.8,1,1.0,Vai jogar 100+
+2023,202,7,St. Louis Blues,Nikita Susuyev,F,RUS,MHL,0.5,1,0.94,Vai jogar 100+
+2023,203,7,San Jose Sharks,Yegor Rimashevsky,F,RUS,KHL,0.41,1,0.96,Vai jogar 100+
+2023,204,7,Ottawa Senators,Owen Beckner,F,CAN,NCAA,0.74,1,0.74,Vai jogar 100+
+2023,205,7,Buffalo Sabres,Norwin Panocha,D,DEU,DEL,0.18,1,0.88,Vai jogar 100+
+2023,208,7,Calgary Flames,Axel Hurtig,D,SWE,WHL,0.28,1,1.0,Vai jogar 100+
+2023,209,7,New York Islanders,Dennis Good Bogg,D,SWE,SuperElit,0.32,1,1.0,Vai jogar 100+
+2023,210,7,Winnipeg Jets,Connor Levis,F,CAN,WHL,0.75,1,1.0,Vai jogar 100+
+2023,211,7,Tampa Bay Lightning,Ethan Hay,F,CAN,OHL,0.41,1,1.0,Vai jogar 100+
+2023,212,7,Seattle Kraken,Zaccharya Wisdom,F,CAN,USHL,0.64,1,1.0,Vai jogar 100+
+2023,213,7,Minnesota Wild,Jimmy Clark,F,USA,NCAA,0.64,1,0.99,Vai jogar 100+
+2023,214,7,Boston Bruins,Casper Nässén,F,SWE,SuperElit,0.57,1,1.0,Vai jogar 100+
+2023,215,7,Ottawa Senators,Nicholas Van Tassell,F,USA,USHL,0.35,1,0.99,Vai jogar 100+
+2023,216,7,Edmonton Oilers,Matt Copponi,F,USA,NCAA,0.84,1,0.99,Vai jogar 100+
+2023,217,7,Pittsburgh Penguins,Emil Järventie,F,FIN,Liiga,0.17,0,0.13,Não vai jogar 100+
+2023,218,7,Nashville Predators,Aiden Fink,F,CAN,NCAA,1.21,1,0.99,Vai jogar 100+
+2023,219,7,Colorado Avalanche,Maros Jedlicka,F,SVK,Slovakia,0.72,1,0.97,Vai jogar 100+
+2023,220,7,Boston Bruins,Kristian Kostadinski,D,SWE,SuperElit,0.25,1,1.0,Vai jogar 100+
+2023,223,7,Pittsburgh Penguins,Kalle Kangas,D,FIN,Liiga,0.11,0,0.09,Não vai jogar 100+
+2023,224,7,Columbus Blue Jackets,Tyler Peddle,F,CAN,QMJHL,0.51,1,1.0,Vai jogar 100+
+2024,1,1,San Jose Sharks,Macklin Celebrini,F,CAN,USHS-Prep,1.91,1,0.97,Vai jogar 100+
+2024,2,1,Chicago Blackhawks,Artyom Levshunov,D,BLR,USHL,0.77,0,0.19,Não vai jogar 100+
+2024,3,1,Anaheim Ducks,Beckett Sennecke,F,CAN,OHL,1.16,1,1.0,Vai jogar 100+
+2024,4,1,Columbus Blue Jackets,Cayden Lindstrom,F,CAN,WHL,0.77,1,1.0,Vai jogar 100+
+2024,5,1,Montréal Canadiens,Ivan Demidov,F,RUS,MHL,1.14,1,1.0,Vai jogar 100+
+2024,6,1,Utah Mammoth,Tij Iginla,F,CAN,WHL,1.22,1,1.0,Vai jogar 100+
+2024,7,1,Ottawa Senators,Carter Yakemchuk,D,CAN,WHL,0.73,1,1.0,Vai jogar 100+
+2024,8,1,Seattle Kraken,Berkly Catton,F,CAN,WHL,1.44,1,1.0,Vai jogar 100+
+2024,9,1,Calgary Flames,Zayne Parekh,D,CAN,OHL,1.36,1,1.0,Vai jogar 100+
+2024,10,1,New Jersey Devils,Anton Silayev,D,RUS,KHL,0.15,1,0.99,Vai jogar 100+
+2024,11,1,San Jose Sharks,Sam Dickinson,D,CAN,OHL,0.99,1,1.0,Vai jogar 100+
+2024,12,1,Minnesota Wild,Zeev Buium,D,USA,USDP,0.67,1,1.0,Vai jogar 100+
+2024,13,1,Philadelphia Flyers,Jett Luchanko,F,CAN,OHL,0.94,1,1.0,Vai jogar 100+
+2024,14,1,Buffalo Sabres,Konsta Helenius,F,FIN,Liiga,0.56,0,0.0,Não vai jogar 100+
+2024,15,1,Detroit Red Wings,Michael Brandsegg-Nygård,F,NOR,HockeyAllsvenskan,0.6,1,1.0,Vai jogar 100+
+2024,16,1,St. Louis Blues,Adam Jiříček,D,CZE,OHL,0.65,1,1.0,Vai jogar 100+
+2024,17,1,Washington Capitals,Terik Parascak,F,CAN,WHL,1.39,1,1.0,Vai jogar 100+
+2024,18,1,Chicago Blackhawks,Sacha Boisvert,F,CAN,USHL,0.9,1,1.0,Vai jogar 100+
+2024,19,1,Vegas Golden Knights,Trevor Connelly,F,USA,USHL,1.05,1,0.98,Vai jogar 100+
+2024,20,1,New York Islanders,Cole Eiserman,F,USA,USDP,1.41,1,1.0,Vai jogar 100+
+2024,21,1,Montréal Canadiens,Michael Hage,F,CAN,NCAA,1.24,1,0.96,Vai jogar 100+
+2024,22,1,Nashville Predators,Yegor Surin,F,RUS,MHL,0.75,1,1.0,Vai jogar 100+
+2024,23,1,Anaheim Ducks,Stian Solberg,D,NOR,SHL,0.26,0,0.06,Não vai jogar 100+
+2024,24,1,Utah Mammoth,Cole Beaudoin,F,CAN,OHL,0.94,1,1.0,Vai jogar 100+
+2024,25,1,Boston Bruins,Dean Letourneau,F,CAN,NCAA,0.57,0,0.08,Não vai jogar 100+
+2024,26,1,Los Angeles Kings,Liam Greentree,F,CAN,OHL,1.36,1,1.0,Vai jogar 100+
+2024,27,1,Chicago Blackhawks,Marek Vanacker,F,CAN,OHL,0.97,1,1.0,Vai jogar 100+
+2024,28,1,Calgary Flames,Matvei Gridin,F,RUS,USHL,1.17,1,0.92,Vai jogar 100+
+2024,29,1,Dallas Stars,Emil Hemming,F,FIN,OHL,0.84,1,0.99,Vai jogar 100+
+2024,30,1,New York Rangers,EJ Emery,D,USA,USDP,0.22,1,1.0,Vai jogar 100+
+2024,31,1,Toronto Maple Leafs,Ben Danford,D,CAN,OHL,0.42,1,1.0,Vai jogar 100+
+2024,32,1,Edmonton Oilers,Sam O'Reilly,F,CAN,OHL,1.04,1,1.0,Vai jogar 100+
+2024,33,2,San Jose Sharks,Igor Chernyshov,F,RUS,MHL,0.98,1,0.99,Vai jogar 100+
+2024,34,2,Carolina Hurricanes,Dominik Badinka,D,CZE,SHL,0.23,1,0.96,Vai jogar 100+
+2024,35,2,Anaheim Ducks,Lucas Pettersson,F,SWE,SuperElit,0.68,1,0.97,Vai jogar 100+
+2024,36,2,Columbus Blue Jackets,Charlie Elick,D,CAN,WHL,0.29,1,1.0,Vai jogar 100+
+2024,37,2,Winnipeg Jets,Alfons Freij,D,SWE,SuperElit,0.42,1,0.96,Vai jogar 100+
+2024,39,2,Ottawa Senators,Gabriel Eliasson,D,SWE,OHL,0.13,1,0.98,Vai jogar 100+
+2024,40,2,Seattle Kraken,Julius Miettinen,F,FIN,WHL,1.18,1,1.0,Vai jogar 100+
+2024,41,2,Calgary Flames,Andrew Basha,F,CAN,WHL,1.0,1,1.0,Vai jogar 100+
+2024,42,2,Buffalo Sabres,Adam Kleber,D,USA,USHL,0.32,1,0.97,Vai jogar 100+
+2024,43,2,Washington Capitals,Cole Hutson,D,USA,USDP,1.0,1,1.0,Vai jogar 100+
+2024,44,2,Pittsburgh Penguins,Harrison Brunicke,D,CAN,WHL,0.47,1,1.0,Vai jogar 100+
+2024,45,2,Minnesota Wild,Ryder Ritchie,F,CAN,WHL,0.9,1,1.0,Vai jogar 100+
+2024,46,2,Pittsburgh Penguins,Tanner Howe,F,CAN,WHL,1.1,1,1.0,Vai jogar 100+
+2024,47,2,Detroit Red Wings,Max Plante,F,USA,USDP,1.22,1,1.0,Vai jogar 100+
+2024,48,2,St. Louis Blues,Colin Ralph,D,USA,USHS-Prep,0.66,1,1.0,Vai jogar 100+
+2024,50,2,Carolina Hurricanes,Nikita Artamonov,F,RUS,KHL,0.48,1,1.0,Vai jogar 100+
+2024,51,2,Philadelphia Flyers,Jack Berglund,F,SWE,SHL,0.59,1,0.99,Vai jogar 100+
+2024,52,2,Washington Capitals,Leon Muggli,D,CHE,NL,0.28,0,0.06,Não vai jogar 100+
+2024,53,2,San Jose Sharks,Leo Sahlin Wallenius,D,SWE,SuperElit,0.6,1,0.99,Vai jogar 100+
+2024,54,2,New York Islanders,Jesse Pulkkinen,D,FIN,Liiga,0.24,0,0.11,Não vai jogar 100+
+2024,55,2,Nashville Predators,Teddy Stiga,F,USA,USDP,0.87,1,1.0,Vai jogar 100+
+2024,56,2,St. Louis Blues,Lukas Fischer,D,USA,OHL,0.54,1,1.0,Vai jogar 100+
+2024,58,2,Florida Panthers,Linus Eriksson,F,SWE,SHL,0.36,1,1.0,Vai jogar 100+
+2024,59,2,Philadelphia Flyers,Spencer Gill,D,CAN,QMJHL,0.55,1,1.0,Vai jogar 100+
+2024,61,2,New York Islanders,Kamil Bednarik,F,USA,USDP,0.78,1,1.0,Vai jogar 100+
+2024,62,2,Calgary Flames,Jacob Battaglia,F,CAN,OHL,0.87,1,1.0,Vai jogar 100+
+2024,63,2,Seattle Kraken,Nathan Villeneuve,F,CAN,OHL,0.94,1,1.0,Vai jogar 100+
+2024,65,2,Utah Mammoth,Will Skahan,D,USA,USDP,0.25,1,1.0,Vai jogar 100+
+2024,66,3,Anaheim Ducks,Maxim Massé,F,CAN,QMJHL,1.23,1,1.0,Vai jogar 100+
+2024,67,3,Chicago Blackhawks,John Mustard,F,CAN,NCAA,1.15,1,1.0,Vai jogar 100+
+2024,68,3,Anaheim Ducks,Ethan Procyszyn,F,CAN,OHL,0.69,1,1.0,Vai jogar 100+
+2024,69,3,Carolina Hurricanes,Noel Fransén,D,SWE,HockeyAllsvenskan,0.53,1,0.99,Vai jogar 100+
+2024,70,3,Montréal Canadiens,Aatos Koivu,F,FIN,Liiga,0.2,0,0.01,Não vai jogar 100+
+2024,71,3,Buffalo Sabres,Brodie Ziemer,F,USA,USDP,0.86,1,1.0,Vai jogar 100+
+2024,72,3,Chicago Blackhawks,A.J. Spellacy,F,USA,OHL,0.55,1,1.0,Vai jogar 100+
+2024,73,3,Seattle Kraken,Alexis Bernier,D,CAN,QMJHL,0.5,1,1.0,Vai jogar 100+
+2024,74,3,Calgary Flames,Henry Mews,D,CAN,OHL,0.92,1,1.0,Vai jogar 100+
+2024,75,3,Washington Capitals,Ilya Protas,F,BLR,OHL,1.43,1,0.85,Vai jogar 100+
+2024,76,3,Colorado Avalanche,Will Zellers,F,USA,USHS-Prep,1.46,1,1.0,Vai jogar 100+
+2024,77,3,Nashville Predators,Viggo Gustafsson,D,SWE,SuperElit,0.35,1,1.0,Vai jogar 100+
+2024,78,3,Montréal Canadiens,Logan Sawyer,F,CAN,NCAA,0.59,0,0.03,Não vai jogar 100+
+2024,79,3,Anaheim Ducks,Tarin Smith,D,CAN,WHL,0.85,1,1.0,Vai jogar 100+
+2024,80,3,Detroit Red Wings,Ondřej Becher,F,CZE,WHL,1.11,1,0.95,Vai jogar 100+
+2024,81,3,St. Louis Blues,Ondřej Kos,F,CZE,Liiga,0.23,0,0.06,Não vai jogar 100+
+2024,82,3,San Jose Sharks,Carson Wetsch,F,CAN,WHL,0.8,1,1.0,Vai jogar 100+
+2024,85,3,New Jersey Devils,Kasper Pikkarainen,F,FIN,Liiga,0.12,0,0.0,Não vai jogar 100+
+2024,86,3,Columbus Blue Jackets,Luca Marrelli,D,CAN,OHL,0.67,1,1.0,Vai jogar 100+
+2024,87,3,Nashville Predators,Miguel Marques,F,CAN,WHL,0.81,1,1.0,Vai jogar 100+
+2024,89,3,Utah Mammoth,Tomas Lavoie,D,CAN,QMJHL,0.59,1,1.0,Vai jogar 100+
+2024,90,3,Washington Capitals,Eriks Mateiko,F,LVA,QMJHL,0.75,1,1.0,Vai jogar 100+
+2024,91,3,New Jersey Devils,Herman Träff,F,SWE,HockeyAllsvenskan,0.61,1,1.0,Vai jogar 100+
+2024,92,3,Chicago Blackhawks,Jack Pridham,F,CAN,OHL,1.27,1,0.92,Vai jogar 100+
+2024,93,3,Vancouver Canucks,Melvin Fernström,F,SWE,SHL,0.66,1,1.0,Vai jogar 100+
+2024,94,3,Nashville Predators,Hiroki Gojsic,F,CAN,WHL,0.7,1,0.98,Vai jogar 100+
+2024,95,3,St. Louis Blues,Adam Jecho,F,CZE,WHL,0.87,1,0.96,Vai jogar 100+
+2024,96,3,Utah Mammoth,Veeti Väisänen,D,FIN,WHL,0.37,1,0.97,Vai jogar 100+
+2024,97,3,Florida Panthers,Matvei Shuravin,D,RUS,MHL,0.31,1,0.95,Vai jogar 100+
+2024,98,4,Utah Mammoth,Gregor Biber,D,AUT,SHL,0.11,1,0.92,Vai jogar 100+
+2024,100,4,Anaheim Ducks,Alexandre Blais,F,CAN,QMJHL,0.9,1,0.99,Vai jogar 100+
+2024,101,4,Columbus Blue Jackets,Tanner Henricks,D,USA,USHL,0.36,1,0.9,Vai jogar 100+
+2024,102,4,Montréal Canadiens,Owen Protz,D,CAN,OHL,0.37,1,1.0,Vai jogar 100+
+2024,103,4,Utah Mammoth,Gabe Smith,F,CAN,QMJHL,0.69,1,1.0,Vai jogar 100+
+2024,104,4,Ottawa Senators,Lucas Ellinas,F,CAN,OHL,0.59,1,1.0,Vai jogar 100+
+2024,105,4,Seattle Kraken,Ollie Josephson,F,CAN,WHL,0.55,1,0.99,Vai jogar 100+
+2024,106,4,Calgary Flames,Trevor Hoskin,F,CAN,NCAA,1.07,0,0.07,Não vai jogar 100+
+2024,107,4,Philadelphia Flyers,Heikki Ruohonen,F,FIN,USHL,0.75,0,0.04,Não vai jogar 100+
+2024,108,4,Buffalo Sabres,Luke Osburn,D,USA,USHL,0.58,1,0.99,Vai jogar 100+
+2024,109,4,Winnipeg Jets,Kevin He,F,CAN,OHL,0.95,1,1.0,Vai jogar 100+
+2024,110,4,Boston Bruins,Elliott Groenewold,D,USA,NCAA,0.35,1,0.97,Vai jogar 100+
+2024,111,4,Pittsburgh Penguins,Chase Pietila,D,USA,USHL,0.39,1,0.99,Vai jogar 100+
+2024,112,4,Ottawa Senators,Javon Moore,F,USA,USHS-MN,1.02,1,0.9,Vai jogar 100+
+2024,113,4,St. Louis Blues,Tomas Mrsic,F,CAN,WHL,0.8,1,1.0,Vai jogar 100+
+2024,117,4,Ottawa Senators,Blake Montgomery,F,USA,USHL,0.78,1,1.0,Vai jogar 100+
+2024,118,4,Tampa Bay Lightning,Jan Golicic,D,SVN,QMJHL,0.6,1,1.0,Vai jogar 100+
+2024,119,4,New York Rangers,Raoul Boilard,F,CAN,QMJHL,0.8,1,1.0,Vai jogar 100+
+2024,120,4,Toronto Maple Leafs,Victor Johansson,D,SWE,SuperElit,0.52,1,0.97,Vai jogar 100+
+2024,121,4,Colorado Avalanche,Jake Fisher,F,USA,USHS-MN,1.01,1,1.0,Vai jogar 100+
+2024,122,4,Minnesota Wild,Aron Kiviharju,D,FIN,Liiga,0.3,1,0.86,Vai jogar 100+
+2024,123,4,Buffalo Sabres,Simon-Pier Brunet,D,CAN,QMJHL,0.35,1,1.0,Vai jogar 100+
+2024,124,4,Carolina Hurricanes,Alexander Siryatsky,D,RUS,MHL,0.33,0,0.24,Não vai jogar 100+
+2024,125,4,Vancouver Canucks,Riley Patterson,F,CAN,OHL,1.07,1,0.98,Vai jogar 100+
+2024,127,4,Nashville Predators,Viktor Nörringer,F,SWE,SuperElit,0.94,1,0.82,Vai jogar 100+
+2024,128,4,Tampa Bay Lightning,Hagen Burrows,F,USA,USHS-MN,0.96,1,1.0,Vai jogar 100+
+2024,129,4,Florida Panthers,Simon Zether,F,SWE,SHL,0.51,1,0.98,Vai jogar 100+
+2024,130,5,Montréal Canadiens,Tyler Thorpe,F,CAN,WHL,0.61,1,1.0,Vai jogar 100+
+2024,131,5,San Jose Sharks,Colton Roberts,D,CAN,WHL,0.38,1,1.0,Vai jogar 100+
+2024,133,5,Carolina Hurricanes,Oskar Vuollet,F,SWE,SHL,0.63,1,0.97,Vai jogar 100+
+2024,135,5,Utah Mammoth,Owen Allard,F,CAN,OHL,0.62,1,1.0,Vai jogar 100+
+2024,136,5,Ottawa Senators,Eerik Wallenius,D,FIN,QMJHL,0.19,0,0.28,Não vai jogar 100+
+2024,138,5,Chicago Blackhawks,Joel Svensson,F,SWE,HockeyAllsvenskan,0.45,1,1.0,Vai jogar 100+
+2024,139,5,New Jersey Devils,Max Graham,F,CAN,WHL,0.56,1,1.0,Vai jogar 100+
+2024,140,5,Minnesota Wild,Sebastian Soini,D,FIN,Liiga,0.16,0,0.06,Não vai jogar 100+
+2024,141,5,Seattle Kraken,Clarke Caswell,F,CAN,WHL,0.92,1,1.0,Vai jogar 100+
+2024,143,5,San Jose Sharks,Nate Misskey,D,CAN,WHL,0.49,1,1.0,Vai jogar 100+
+2024,144,5,Detroit Red Wings,John Whipple,D,USA,USDP,0.19,1,1.0,Vai jogar 100+
+2024,145,5,St. Louis Blues,William McIsaac,D,CAN,WHL,0.4,1,1.0,Vai jogar 100+
+2024,148,5,Philadelphia Flyers,Noah Powell,F,USA,USHL,0.68,1,1.0,Vai jogar 100+
+2024,149,5,Tampa Bay Lightning,Joona Saarelainen,F,FIN,Liiga,0.38,0,0.04,Não vai jogar 100+
+2024,150,5,Calgary Flames,Luke Misa,F,CAN,OHL,0.86,1,1.0,Vai jogar 100+
+2024,151,5,Toronto Maple Leafs,Miroslav Holinka,F,CZE,WHL,1.03,1,0.99,Vai jogar 100+
+2024,152,5,Toronto Maple Leafs,Alexander Plesovskikh,F,RUS,MHL,0.7,1,1.0,Vai jogar 100+
+2024,153,5,Utah Mammoth,Ales Cech,D,CZE,Czechia,0.13,0,0.25,Não vai jogar 100+
+2024,154,5,Boston Bruins,Jonathan Morello,F,CAN,USHL,0.43,0,0.01,Não vai jogar 100+
+2024,155,5,Winnipeg Jets,Markus Loponen,F,FIN,WHL,0.46,1,0.72,Vai jogar 100+
+2024,156,5,Carolina Hurricanes,Justin Poirier,F,CAN,QMJHL,1.15,1,1.0,Vai jogar 100+
+2024,158,5,Dallas Stars,Niilopekka Muhonen,D,FIN,WHL,0.29,0,0.11,Não vai jogar 100+
+2024,159,5,New York Rangers,Nathan Aspinall,F,CAN,OHL,0.81,1,0.99,Vai jogar 100+
+2024,160,5,Edmonton Oilers,Connor Clattenburg,F,CAN,OHL,0.46,1,1.0,Vai jogar 100+
+2024,161,5,Colorado Avalanche,Max Curran,F,CZE,WHL,1.08,1,1.0,Vai jogar 100+
+2024,162,6,Vancouver Canucks,Anthony Romani,F,CAN,OHL,0.89,1,1.0,Vai jogar 100+
+2024,163,6,Chicago Blackhawks,Ty Henry,D,CAN,OHL,0.2,1,0.98,Vai jogar 100+
+2024,164,6,Los Angeles Kings,Jared Woolley,D,CAN,OHL,0.4,1,0.99,Vai jogar 100+
+2024,165,6,Columbus Blue Jackets,Luke Ashton,D,CAN,NCAA,0.34,0,0.01,Não vai jogar 100+
+2024,166,6,Montréal Canadiens,Ben Merrill,F,USA,USHS-Prep,0.72,1,0.94,Vai jogar 100+
+2024,167,6,Utah Mammoth,Vojtěch Hradec,F,CZE,Czechia,0.19,1,0.83,Vai jogar 100+
+2024,168,6,Carolina Hurricanes,Timur Kol,D,RUS,MHL,0.52,0,0.25,Não vai jogar 100+
+2024,169,6,Florida Panthers,Stepan Gorbunov,F,RUS,MHL,0.49,0,0.13,Não vai jogar 100+
+2024,170,6,Calgary Flames,Hunter Laing,F,CAN,WHL,0.64,1,1.0,Vai jogar 100+
+2024,171,6,New Jersey Devils,Matyas Melovsky,F,CZE,QMJHL,1.18,1,1.0,Vai jogar 100+
+2024,172,6,Buffalo Sabres,Patrick Geary,D,USA,USHL,0.28,1,1.0,Vai jogar 100+
+2024,173,6,Philadelphia Flyers,Ilya Pautov,F,RUS,MHL,0.85,1,1.0,Vai jogar 100+
+2024,174,6,Minnesota Wild,Stevie Leskovar,D,CAN,OHL,0.13,1,0.98,Vai jogar 100+
+2024,175,6,Pittsburgh Penguins,Joona Väisänen,D,FIN,USHL,0.71,1,0.97,Vai jogar 100+
+2024,176,6,Detroit Red Wings,Charlie Forslund,F,SWE,SuperElit,0.44,0,0.21,Não vai jogar 100+
+2024,177,6,Calgary Flames,Eric Jamieson,D,CAN,WHL,0.39,1,1.0,Vai jogar 100+
+2024,178,6,Washington Capitals,Petr Sikora,F,CZE,Czechia,0.34,0,0.17,Não vai jogar 100+
+2024,179,6,New York Islanders,Xavier Veilleux,D,CAN,USHL,0.61,1,0.99,Vai jogar 100+
+2024,180,6,Vegas Golden Knights,Trent Swick,F,CAN,OHL,0.72,1,1.0,Vai jogar 100+
+2024,181,6,Tampa Bay Lightning,Kaden Pitre,F,CAN,OHL,0.68,1,1.0,Vai jogar 100+
+2024,182,6,Anaheim Ducks,Austin Burnevik,F,USA,USHL,0.8,1,1.0,Vai jogar 100+
+2024,183,6,Edmonton Oilers,Albin Sundin,D,SWE,SuperElit,0.3,1,1.0,Vai jogar 100+
+2024,184,6,Carolina Hurricanes,Roman Shokhrin,D,RUS,MHL,0.36,1,0.97,Vai jogar 100+
+2024,185,6,Colorado Avalanche,Tory Pitner,D,USA,USHL,0.27,1,0.99,Vai jogar 100+
+2024,186,6,Boston Bruins,Loke Johansson,D,SWE,SuperElit,0.25,1,1.0,Vai jogar 100+
+2024,187,6,Winnipeg Jets,Kieron Walton,F,CAN,OHL,0.99,1,1.0,Vai jogar 100+
+2024,188,6,Carolina Hurricanes,Fyodor Avramov,F,RUS,MHL,0.53,1,0.97,Vai jogar 100+
+2024,189,6,Vancouver Canucks,Parker Alcos,D,CAN,WHL,0.3,1,1.0,Vai jogar 100+
+2024,190,6,Utah Mammoth,Ludvig Lafton,D,NOR,SuperElit,0.49,1,0.87,Vai jogar 100+
+2024,191,6,New York Rangers,Rico Gredig,F,CHE,NL,0.14,1,0.72,Vai jogar 100+
+2024,192,6,Edmonton Oilers,Dalyn Wakely,F,CAN,OHL,0.91,1,1.0,Vai jogar 100+
+2024,193,6,Florida Panthers,Hunter St. Martin,F,CAN,WHL,0.64,1,1.0,Vai jogar 100+
+2024,195,7,Tampa Bay Lightning,Joe Connor,F,USA,NCAA,0.96,1,1.0,Vai jogar 100+
+2024,196,7,Edmonton Oilers,William Nicholl,F,CAN,OHL,0.62,1,1.0,Vai jogar 100+
+2024,197,7,Vegas Golden Knights,Lucas Van Vliet,F,USA,USHL,0.65,1,1.0,Vai jogar 100+
+2024,198,7,Los Angeles Kings,James Reeder,F,USA,USHL,0.74,1,0.99,Vai jogar 100+
+2024,199,7,Tampa Bay Lightning,Noah Steen,F,NOR,SHL,0.46,1,1.0,Vai jogar 100+
+2024,200,7,Toronto Maple Leafs,Matthew Lahey,D,CAN,USHL,0.29,0,0.02,Não vai jogar 100+
+2024,202,7,Seattle Kraken,Jakub Fibigr,D,CZE,OHL,0.66,1,1.0,Vai jogar 100+
+2024,203,7,Detroit Red Wings,Austin Baker,F,USA,USHL,0.5,1,0.99,Vai jogar 100+
+2024,204,7,Buffalo Sabres,Vasily Zelenov,F,AUT,USHL,0.63,0,0.12,Não vai jogar 100+
+2024,205,7,Philadelphia Flyers,Austin Moline,D,USA,USHS-Prep,0.47,1,1.0,Vai jogar 100+
+2024,207,7,Pittsburgh Penguins,Mac Swanson,F,USA,USHL,0.95,1,0.91,Vai jogar 100+
+2024,208,7,Detroit Red Wings,Fisher Scott,D,USA,USHL,0.37,1,1.0,Vai jogar 100+
+2024,209,7,St. Louis Blues,Antoine Dorion,F,CAN,QMJHL,0.39,1,0.89,Vai jogar 100+
+2024,210,7,Montréal Canadiens,Makar Khanin,F,RUS,MHL,0.51,0,0.14,Não vai jogar 100+
+2024,211,7,St. Louis Blues,Matvei Korotky,F,RUS,MHL,0.58,1,1.0,Vai jogar 100+
+2024,212,7,Washington Capitals,Miroslav Satan,F,SVK,USHL,0.1,0,0.06,Não vai jogar 100+
+2024,213,7,Nashville Predators,Erik Påhlsson,F,SWE,SuperElit,0.98,1,0.91,Vai jogar 100+
+2024,214,7,Anaheim Ducks,Darels Uljanskis,D,LVA,SuperElit,0.71,1,0.9,Vai jogar 100+
+2024,215,7,Colorado Avalanche,Christian Humphreys,F,USA,USDP,0.99,1,1.0,Vai jogar 100+
+2024,216,7,Toronto Maple Leafs,Sam McCue,F,CAN,OHL,0.6,1,1.0,Vai jogar 100+
+2024,217,7,Colorado Avalanche,Nikita Prishchepov,F,RUS,QMJHL,0.64,1,1.0,Vai jogar 100+
+2024,218,7,Edmonton Oilers,Bauer Berry,D,USA,USHL,0.23,1,0.99,Vai jogar 100+
+2024,220,7,Carolina Hurricanes,Andrei Krutov,F,RUS,MHL,0.64,1,0.96,Vai jogar 100+
+2024,221,7,Vancouver Canucks,Basile Sansonnens,D,CHE,QMJHL,0.15,1,0.72,Vai jogar 100+
+2024,222,7,Dallas Stars,William Samuelsson,F,SWE,USHL,0.5,1,1.0,Vai jogar 100+
+2024,223,7,Pittsburgh Penguins,Finn Harding,D,CAN,OHL,0.51,1,1.0,Vai jogar 100+
+2024,224,7,Montréal Canadiens,Rasmus Bergqvist,D,SWE,SuperElit,0.24,1,0.97,Vai jogar 100+
+2024,225,7,Toronto Maple Leafs,Nathan Mayes,D,CAN,WHL,0.31,1,1.0,Vai jogar 100+
+2025,1,1,New York Islanders,Matthew Schaefer,D,CAN,OHL,0.53,0,0.25,Não vai jogar 100+
+2025,2,1,San Jose Sharks,Michael Misa,F,CAN,OHL,1.5,1,1.0,Vai jogar 100+
+2025,3,1,Chicago Blackhawks,Anton Frondell,F,SWE,SHL,0.83,1,0.99,Vai jogar 100+
+2025,4,1,Utah Hockey Club,Caleb Desnoyers,F,CAN,QMJHL,1.35,1,0.98,Vai jogar 100+
+2025,5,1,Nashville Predators,Brady Martin,F,CAN,OHL,0.93,1,1.0,Vai jogar 100+
+2025,6,1,Philadelphia Flyers,Porter Martone,F,CAN,OHL,1.19,1,1.0,Vai jogar 100+
+2025,7,1,Boston Bruins,James Hagens,F,USA,USDP,1.46,1,1.0,Vai jogar 100+
+2025,8,1,Seattle Kraken,Jake O'Brien,F,CAN,OHL,1.42,1,0.99,Vai jogar 100+
+2025,9,1,Buffalo Sabres,Radim Mrtka,D,CZE,WHL,0.71,1,0.33,Vai jogar 100+
+2025,10,1,Anaheim Ducks,Roger McQueen,F,CAN,WHL,0.7,1,1.0,Vai jogar 100+
+2025,11,1,Pittsburgh Penguins,Benjamin Kindel,F,CAN,WHL,1.19,1,0.96,Vai jogar 100+
+2025,12,1,Philadelphia Flyers,Jack Nesbitt,F,CAN,OHL,0.79,1,0.99,Vai jogar 100+
+2025,13,1,Detroit Red Wings,Carter Bear,F,CAN,WHL,1.12,1,1.0,Vai jogar 100+
+2025,14,1,Columbus Blue Jackets,Jackson Smith,D,CAN,WHL,0.65,1,1.0,Vai jogar 100+
+2025,15,1,Vancouver Canucks,Braeden Cootes,F,CAN,WHL,0.92,1,1.0,Vai jogar 100+
+2025,16,1,New York Islanders,Victor Eklund,F,SWE,HockeyAllsvenskan,0.62,1,1.0,Vai jogar 100+
+2025,17,1,New York Islanders,Kashawn Aitcheson,D,CAN,OHL,0.83,1,1.0,Vai jogar 100+
+2025,18,1,Calgary Flames,Cole Reschny,F,CAN,WHL,1.16,1,1.0,Vai jogar 100+
+2025,19,1,St. Louis Blues,Justin Carbonneau,F,CAN,QMJHL,1.12,1,1.0,Vai jogar 100+
+2025,21,1,Nashville Predators,Cameron Reid,D,CAN,OHL,0.77,1,0.91,Vai jogar 100+
+2025,22,1,Pittsburgh Penguins,Bill Zonnon,F,CAN,QMJHL,0.85,1,1.0,Vai jogar 100+
+2025,23,1,Ottawa Senators,Logan Hensler,D,USA,USDP,0.53,1,1.0,Vai jogar 100+
+2025,24,1,Pittsburgh Penguins,William Horcoff,F,USA,USDP,0.52,1,1.0,Vai jogar 100+
+2025,25,1,Chicago Blackhawks,Vaclav Nestrasil,F,CZE,USHL,0.69,1,0.99,Vai jogar 100+
+2025,26,1,Nashville Predators,Ryker Lee,F,USA,USHL,1.31,1,0.98,Vai jogar 100+
+2025,27,1,Washington Capitals,Lynden Lakovic,F,CAN,WHL,0.76,1,1.0,Vai jogar 100+
+2025,28,1,Winnipeg Jets,Sascha Boumedienne,D,SWE,NCAA,0.4,1,0.95,Vai jogar 100+
+2025,29,1,Chicago Blackhawks,Mason West,F,USA,USHS-MN,1.08,1,0.99,Vai jogar 100+
+2025,31,1,Los Angeles Kings,Henry Brzustewicz,D,USA,OHL,0.57,1,1.0,Vai jogar 100+
+2025,32,1,Calgary Flames,Cullen Potter,F,USA,USDP,0.79,1,1.0,Vai jogar 100+
+2025,33,2,San Jose Sharks,Haoxi Wang,D,CHN,OHL,0.31,1,0.4,Vai jogar 100+
+2025,34,2,Montréal Canadiens,Alexander Zharovsky,F,RUS,KHL,0.88,1,0.97,Vai jogar 100+
+2025,35,2,Nashville Predators,Jacob Rombach,D,USA,USHL,0.28,1,0.99,Vai jogar 100+
+2025,36,2,Seattle Kraken,Blake Fiddler,D,USA,WHL,0.44,1,0.99,Vai jogar 100+
+2025,37,2,Washington Capitals,Milton Gästrin,F,SWE,SuperElit,0.64,1,0.84,Vai jogar 100+
+2025,38,2,Philadelphia Flyers,Carter Amico,D,USA,USDP,0.28,1,1.0,Vai jogar 100+
+2025,39,2,Pittsburgh Penguins,Peyton Kettles,D,CAN,WHL,0.25,1,1.0,Vai jogar 100+
+2025,40,2,Philadelphia Flyers,Jack Murtagh,F,USA,USDP,0.68,1,1.0,Vai jogar 100+
+2025,42,2,New York Islanders,Daniil Prokhorov,F,RUS,MHL,0.45,1,0.74,Vai jogar 100+
+2025,43,2,New York Rangers,Malcolm Spence,F,CAN,OHL,0.86,1,1.0,Vai jogar 100+
+2025,44,2,Detroit Red Wings,Eddie Genborg,F,SWE,SHL,0.53,1,0.91,Vai jogar 100+
+2025,45,2,Anaheim Ducks,Eric Nilson,F,SWE,SuperElit,0.63,1,0.89,Vai jogar 100+
+2025,46,2,Utah Hockey Club,Max Psenicka,D,CZE,WHL,0.42,1,0.39,Vai jogar 100+
+2025,48,2,Philadelphia Flyers,Shane Vansaghi,F,USA,USDP,0.35,1,1.0,Vai jogar 100+
+2025,49,2,Carolina Hurricanes,Charlie Cerrato,F,USA,USHL,0.78,1,1.0,Vai jogar 100+
+2025,50,2,New Jersey Devils,Conrad Fondrk,F,USA,USDP,0.68,1,0.93,Vai jogar 100+
+2025,51,2,Boston Bruins,William Moore,F,USA,USDP,0.76,1,1.0,Vai jogar 100+
+2025,52,2,Minnesota Wild,Theodor Hallquisth,D,SWE,SuperElit,0.29,1,1.0,Vai jogar 100+
+2025,53,2,San Jose Sharks,Cole McKinney,F,USA,USDP,0.71,1,1.0,Vai jogar 100+
+2025,54,2,Calgary Flames,Theo Stockselius,F,SWE,SuperElit,1.0,0,0.19,Não vai jogar 100+
+2025,55,2,Vegas Golden Knights,Jakob Ihs-Wozniak,F,SWE,SuperElit,0.92,1,0.98,Vai jogar 100+
+2025,56,2,Tampa Bay Lightning,Ethan Czata,F,CAN,OHL,0.65,1,1.0,Vai jogar 100+
+2025,57,2,Philadelphia Flyers,Matthew Gard,F,CAN,WHL,0.49,1,1.0,Vai jogar 100+
+2025,59,2,Los Angeles Kings,Vojtech Cihar,F,CZE,Czechia,0.45,1,0.89,Vai jogar 100+
+2025,60,2,Anaheim Ducks,Lasse Boelius,D,FIN,Liiga,0.21,0,0.03,Não vai jogar 100+
+2025,61,2,Boston Bruins,Liam Pettersson,D,SWE,SuperElit,0.49,0,0.14,Não vai jogar 100+
+2025,62,2,Carolina Hurricanes,Ivan Ryabkin,F,RUS,MHL,1.31,1,1.0,Vai jogar 100+
+2025,63,2,New Jersey Devils,Benjamin Kevan,F,USA,USHL,0.72,1,1.0,Vai jogar 100+
+2025,64,2,Toronto Maple Leafs,Tinus Luc Koblar,F,NOR,SHL,0.38,0,0.23,Não vai jogar 100+
+2025,65,3,Vancouver Canucks,Kieren Dervin,F,CAN,OHL,0.71,0,0.17,Não vai jogar 100+
+2025,66,3,Chicago Blackhawks,Nathan Behm,F,CAN,WHL,0.92,1,1.0,Vai jogar 100+
+2025,67,3,Carolina Hurricanes,Kurban Limatov,D,RUS,MHL,0.48,1,0.95,Vai jogar 100+
+2025,68,3,Seattle Kraken,Will Reynolds,D,CAN,QMJHL,0.28,1,0.97,Vai jogar 100+
+2025,69,3,Montréal Canadiens,Hayden Paupanekis,F,CAN,WHL,0.53,1,1.0,Vai jogar 100+
+2025,70,3,New York Rangers,Sean Barnhill,D,USA,USHL,0.18,0,0.1,Não vai jogar 100+
+2025,71,3,Buffalo Sabres,David Bedkowski,D,CAN,OHL,0.23,1,1.0,Vai jogar 100+
+2025,72,3,Anaheim Ducks,Noah Read,F,CAN,OHL,0.46,1,0.76,Vai jogar 100+
+2025,73,3,Pittsburgh Penguins,Charlie Trethewey,D,USA,USDP,0.43,1,1.0,Vai jogar 100+
+2025,74,3,New York Islanders,Luca Romano,F,CAN,OHL,0.6,1,1.0,Vai jogar 100+
+2025,76,3,Columbus Blue Jackets,Malte Vass,D,SWE,SuperElit,0.19,0,0.19,Não vai jogar 100+
+2025,77,3,Colorado Avalanche,Francesco Dell'Elce,D,CAN,NCAA,0.59,0,0.02,Não vai jogar 100+
+2025,78,3,Utah Hockey Club,Stepan Hoch,F,CZE,Czechia,0.15,0,0.02,Não vai jogar 100+
+2025,79,3,Boston Bruins,Cooper Simpson,F,USA,USHS-MN,1.6,1,1.0,Vai jogar 100+
+2025,80,3,Calgary Flames,Mace'o Phillips,D,USA,USDP,0.21,1,1.0,Vai jogar 100+
+2025,81,3,Montréal Canadiens,Bryce Pickford,D,CAN,WHL,0.74,1,1.0,Vai jogar 100+
+2025,83,3,Edmonton Oilers,Tommy Lafrenière,F,CAN,WHL,0.95,1,0.99,Vai jogar 100+
+2025,85,3,Vegas Golden Knights,Mateo Nobert,F,CAN,QMJHL,0.94,1,1.0,Vai jogar 100+
+2025,86,3,Toronto Maple Leafs,Tyler Hopkins,F,CAN,OHL,0.63,1,0.99,Vai jogar 100+
+2025,87,3,Carolina Hurricanes,Roman Bausov,D,RUS,MHL,0.22,0,0.2,Não vai jogar 100+
+2025,88,3,Los Angeles Kings,Kristian Epperson,F,USA,USDP,0.72,1,1.0,Vai jogar 100+
+2025,89,3,New York Rangers,Artyom Gonchar,D,RUS,MHL,0.57,1,0.87,Vai jogar 100+
+2025,90,3,New Jersey Devils,Mason Moe,F,USA,USHL,0.82,1,1.0,Vai jogar 100+
+2025,91,3,Pittsburgh Penguins,Brady Peddle,D,CAN,QMJHL,0.23,1,0.85,Vai jogar 100+
+2025,92,3,Winnipeg Jets,Owen Martin,F,CAN,WHL,0.72,1,0.85,Vai jogar 100+
+2025,93,3,Ottawa Senators,Blake Vanek,F,USA,USHS-MN,0.96,1,1.0,Vai jogar 100+
+2025,94,3,Dallas Stars,Cameron Schmidt,F,CAN,WHL,1.22,1,1.0,Vai jogar 100+
+2025,95,3,San Jose Sharks,Teddy Mutryn,F,USA,USHS-Prep,0.92,1,1.0,Vai jogar 100+
+2025,96,3,Washington Capitals,Maxim Schäfer,F,DEU,QMJHL,0.62,0,0.11,Não vai jogar 100+
+2025,98,4,Chicago Blackhawks,Julius Sumpf,F,DEU,QMJHL,0.92,1,0.99,Vai jogar 100+
+2025,100,4,Boston Bruins,Vashek Blanár,D,CZE,SuperElit,0.45,0,0.19,Não vai jogar 100+
+2025,101,4,Anaheim Ducks,Drew Schock,D,USA,USDP,0.42,1,1.0,Vai jogar 100+
+2025,102,4,Minnesota Wild,Adam Benák,F,CZE,USHL,1.13,1,1.0,Vai jogar 100+
+2025,103,4,Buffalo Sabres,Matous Jan Kucharcik,F,CZE,USHL,0.44,0,0.02,Não vai jogar 100+
+2025,105,4,Pittsburgh Penguins,Travis Hayes,F,USA,OHL,0.68,1,1.0,Vai jogar 100+
+2025,106,4,New York Islanders,Tomas Poletin,F,CZE,WHL,0.6,0,0.19,Não vai jogar 100+
+2025,107,4,Chicago Blackhawks,Parker Holmes,F,CAN,OHL,0.26,0,0.19,Não vai jogar 100+
+2025,108,4,Tampa Bay Lightning,Benjamin Rautiainen,F,FIN,Liiga,0.99,1,0.95,Vai jogar 100+
+2025,109,4,Detroit Red Wings,Brent Solomon,F,USA,USHS-MN,1.21,1,0.97,Vai jogar 100+
+2025,110,4,Utah Hockey Club,Yegor Borikov,F,BLR,KHL,0.4,1,1.0,Vai jogar 100+
+2025,111,4,New York Rangers,Mikkel Eriksen,F,NOR,SuperElit,0.99,0,0.24,Não vai jogar 100+
+2025,112,4,Florida Panthers,Mads Kongsbak Klyvø,F,DNK,SuperElit,0.7,1,0.34,Vai jogar 100+
+2025,113,4,Montréal Canadiens,L.J. Mooney,F,USA,USDP,0.91,1,1.0,Vai jogar 100+
+2025,114,4,New Jersey Devils,Gustav Hillström,F,SWE,SuperElit,0.58,1,0.96,Vai jogar 100+
+2025,115,4,San Jose Sharks,Ilyas Magomedsultanov,D,RUS,MHL,0.19,1,0.91,Vai jogar 100+
+2025,117,4,Edmonton Oilers,David Lewandowski,F,DEU,WHL,0.9,1,0.95,Vai jogar 100+
+2025,118,4,Colorado Avalanche,Linus Funck,D,SWE,SuperElit,0.44,1,0.75,Vai jogar 100+
+2025,119,4,Detroit Red Wings,Michal Svrcek,F,SVK,SuperElit,0.62,1,1.0,Vai jogar 100+
+2025,120,4,Los Angeles Kings,Caeden Herrington,D,USA,USHL,0.7,1,1.0,Vai jogar 100+
+2025,121,4,Minnesota Wild,Lirim Amidovski,F,CAN,OHL,0.48,1,1.0,Vai jogar 100+
+2025,122,4,Nashville Predators,Alex Huang,D,CAN,QMJHL,0.78,1,0.99,Vai jogar 100+
+2025,123,4,Minnesota Wild,Carter Klippenstein,F,CAN,WHL,0.47,1,1.0,Vai jogar 100+
+2025,124,4,San Jose Sharks,Zack Sharp,D,USA,USHL,0.34,1,0.99,Vai jogar 100+
+2025,125,4,Los Angeles Kings,Jimmy Lombardi,F,CAN,OHL,0.72,1,1.0,Vai jogar 100+
+2025,126,4,Dallas Stars,Brandon Gorzynski,F,USA,WHL,0.69,1,0.97,Vai jogar 100+
+2025,127,4,Tampa Bay Lightning,Aiden Foster,F,CAN,WHL,0.31,1,1.0,Vai jogar 100+
+2025,128,4,Florida Panthers,Shea Busch,F,CAN,WHL,0.73,0,0.28,Não vai jogar 100+
+2025,129,5,Florida Panthers,Shamar Moses,F,CAN,OHL,0.51,1,1.0,Vai jogar 100+
+2025,130,5,Pittsburgh Penguins,Ryan Miller,F,CAN,WHL,0.75,1,1.0,Vai jogar 100+
+2025,131,5,Edmonton Oilers,Asher Barnett,D,USA,USDP,0.34,1,1.0,Vai jogar 100+
+2025,132,5,Philadelphia Flyers,Max Westergård,F,FIN,SuperElit,0.89,1,0.42,Vai jogar 100+
+2025,133,5,Boston Bruins,Cole Chandler,F,CAN,QMJHL,0.62,1,1.0,Vai jogar 100+
+2025,134,5,Seattle Kraken,Maxim Agafonov,D,RUS,MHL,0.3,0,0.15,Não vai jogar 100+
+2025,135,5,Buffalo Sabres,Noah Laberge,D,CAN,QMJHL,0.61,1,1.0,Vai jogar 100+
+2025,136,5,Anaheim Ducks,Alexis Mathieu,D,CAN,QMJHL,0.14,1,0.93,Vai jogar 100+
+2025,137,5,Toronto Maple Leafs,William Belle,F,USA,USDP,0.24,1,1.0,Vai jogar 100+
+2025,138,5,New York Islanders,Sam Laurila,D,USA,USHL,0.33,1,1.0,Vai jogar 100+
+2025,139,5,New York Rangers,Zeb Lindgren,D,SWE,SuperElit,0.41,1,0.92,Vai jogar 100+
+2025,140,5,Detroit Red Wings,Nikita Tyurin,D,RUS,MHL,0.45,1,0.96,Vai jogar 100+
+2025,141,5,Minnesota Wild,Justin Kipkie,D,CAN,WHL,0.66,1,1.0,Vai jogar 100+
+2025,143,5,Vancouver Canucks,Wilson Björck,F,SWE,SuperElit,0.84,1,0.94,Vai jogar 100+
+2025,144,5,Calgary Flames,Ethan Wyttenbach,F,USA,USHL,1.33,0,0.14,Não vai jogar 100+
+2025,146,5,Dallas Stars,Atte Joki,F,FIN,Liiga,0.3,0,0.0,Não vai jogar 100+
+2025,147,5,St. Louis Blues,Mikhail Fyodorov,F,RUS,MHL,0.6,1,0.98,Vai jogar 100+
+2025,148,5,Pittsburgh Penguins,Quinn Beauchesne,D,CAN,OHL,0.48,1,0.99,Vai jogar 100+
+2025,149,5,Ottawa Senators,Dmitri Isayev,F,RUS,MHL,0.96,1,1.0,Vai jogar 100+
+2025,150,5,San Jose Sharks,Max Heise,F,CAN,WHL,1.0,0,0.19,Não vai jogar 100+
+2025,151,5,Tampa Bay Lightning,Everett Baldwin,D,USA,USHS-Prep,0.74,1,1.0,Vai jogar 100+
+2025,153,5,Toronto Maple Leafs,Harry Nansi,F,CAN,OHL,0.5,1,0.97,Vai jogar 100+
+2025,154,5,Pittsburgh Penguins,Jordan Charron,F,CAN,OHL,0.6,1,1.0,Vai jogar 100+
+2025,155,5,Washington Capitals,Jackson Crowder,F,USA,USHL,0.66,1,1.0,Vai jogar 100+
+2025,156,5,Winnipeg Jets,Viktor Klingsell,F,SWE,SuperElit,0.89,1,0.86,Vai jogar 100+
+2025,157,5,Philadelphia Flyers,Luke Vlooswyk,D,CAN,WHL,0.22,1,0.99,Vai jogar 100+
+2025,159,5,Anaheim Ducks,Émile Guité,F,CAN,QMJHL,0.85,1,0.98,Vai jogar 100+
+2025,160,5,Columbus Blue Jackets,Owen Griffin,F,CAN,OHL,0.66,1,1.0,Vai jogar 100+
+2025,161,6,New Jersey Devils,David Rozsíval,F,CZE,USHL,0.6,0,0.03,Não vai jogar 100+
+2025,162,6,Chicago Blackhawks,Ashton Cumby,D,CAN,WHL,0.14,1,0.99,Vai jogar 100+
+2025,163,6,Nashville Predators,Daniel Nieminen,D,FIN,Liiga,0.33,0,0.01,Não vai jogar 100+
+2025,164,6,Philadelphia Flyers,Nathan Quinn,F,CAN,QMJHL,0.88,1,0.99,Vai jogar 100+
+2025,165,6,Boston Bruins,Kirill Yemelyanov,F,RUS,MHL,0.73,1,0.98,Vai jogar 100+
+2025,166,6,New York Rangers,Samuel Jung,F,CZE,Liiga,0.33,0,0.0,Não vai jogar 100+
+2025,167,6,Buffalo Sabres,Ashton Schultz,F,USA,USHL,0.9,1,0.99,Vai jogar 100+
+2025,168,6,Anaheim Ducks,Anthony Allain-Samaké,D,CAN,USHL,0.23,0,0.04,Não vai jogar 100+
+2025,169,6,Pittsburgh Penguins,Carter Sanderson,F,USA,USHL,0.43,1,1.0,Vai jogar 100+
+2025,171,6,New York Rangers,Evan Passmore,D,CAN,OHL,0.14,1,0.98,Vai jogar 100+
+2025,172,6,Detroit Red Wings,Will Murphy,D,CAN,QMJHL,0.13,0,0.23,Não vai jogar 100+
+2025,173,6,Columbus Blue Jackets,Victor Hedin Raftheim,D,SWE,SuperElit,0.14,0,0.06,Não vai jogar 100+
+2025,174,6,Utah Hockey Club,Ludvig Johnson,D,CHE,NL,0.31,0,0.07,Não vai jogar 100+
+2025,175,6,Vancouver Canucks,Gabriel Chiarot,F,CAN,OHL,0.46,1,1.0,Vai jogar 100+
+2025,176,6,Calgary Flames,Aidan Lane,F,CAN,NCAA,0.53,0,0.14,Não vai jogar 100+
+2025,177,6,Montréal Canadiens,Carlos Händel,D,DEU,QMJHL,0.46,1,0.91,Vai jogar 100+
+2025,178,6,New Jersey Devils,Sigge Holmgren,D,SWE,SuperElit,0.21,0,0.04,Não vai jogar 100+
+2025,180,6,Washington Capitals,Aron Dahlqvist,D,SWE,SuperElit,0.19,1,0.93,Vai jogar 100+
+2025,181,6,Ottawa Senators,Bruno Idzan,F,HRV,SuperElit,0.62,1,0.82,Vai jogar 100+
+2025,183,6,Carolina Hurricanes,Viggo Nordlund,F,SWE,SuperElit,0.7,1,0.97,Vai jogar 100+
+2025,184,6,Los Angeles Kings,Jan Chovan,F,SVK,OHL,0.92,0,0.18,Não vai jogar 100+
+2025,185,6,Toronto Maple Leafs,Rylan Fellinger,D,CAN,OHL,0.14,1,0.85,Vai jogar 100+
+2025,186,6,Vegas Golden Knights,Alex Weiermair,F,USA,WHL,0.71,1,1.0,Vai jogar 100+
+2025,187,6,Vegas Golden Knights,Gustav Sjöqvist,D,SWE,SuperElit,0.39,1,1.0,Vai jogar 100+
+2025,188,6,Winnipeg Jets,Edison Engle,D,USA,USHL,0.39,1,0.89,Vai jogar 100+
+2025,189,6,Montréal Canadiens,Andrew MacNiel,D,CAN,OHL,0.12,0,0.2,Não vai jogar 100+
+2025,190,6,Dallas Stars,Dawson Sharkey,F,CAN,QMJHL,0.76,1,1.0,Vai jogar 100+
+2025,192,6,Florida Panthers,Arvid Drott,F,SWE,SuperElit,0.87,0,0.22,Não vai jogar 100+
+2025,195,7,Buffalo Sabres,Melvin Novotny,F,SWE,SuperElit,1.07,0,0.16,Não vai jogar 100+
+2025,196,7,Los Angeles Kings,Brendan McMorrow,F,USA,USHL,0.57,1,1.0,Vai jogar 100+
+2025,197,7,Florida Panthers,Brendan Dunphy,D,USA,WHL,0.34,0,0.15,Não vai jogar 100+
+2025,198,7,Columbus Blue Jackets,Jérémy Loranger,F,CAN,NCAA,0.63,0,0.01,Não vai jogar 100+
+2025,200,7,Anaheim Ducks,Brady Turko,F,CAN,WHL,0.46,1,0.91,Vai jogar 100+
+2025,201,7,Pittsburgh Penguins,Kale Dach,F,CAN,WHL,1.19,0,0.1,Não vai jogar 100+
+2025,202,7,New York Islanders,Jacob Kvasnicka,F,USA,USDP,0.88,1,1.0,Vai jogar 100+
+2025,203,7,New York Rangers,Felix Färhammar,D,SWE,SuperElit,0.65,1,0.31,Vai jogar 100+
+2025,204,7,Detroit Red Wings,Grayden Robertson-Palmer,F,CAN,USHS-Prep,0.71,1,0.95,Vai jogar 100+
+2025,205,7,Seattle Kraken,Karl Annborn,D,SWE,SuperElit,0.36,1,0.76,Vai jogar 100+
+2025,206,7,Tampa Bay Lightning,Roman Luttsev,F,RUS,MHL,0.81,1,1.0,Vai jogar 100+
+2025,207,7,Vancouver Canucks,Matthew Lansing,F,USA,USHL,0.4,1,0.99,Vai jogar 100+
+2025,208,7,Calgary Flames,Jakob Leander,D,SWE,SuperElit,0.24,0,0.29,Não vai jogar 100+
+2025,209,7,Montréal Canadiens,Maxon Vig,D,USA,USHL,0.4,0,0.1,Não vai jogar 100+
+2025,210,7,San Jose Sharks,Richard Gallant,F,USA,USDP,0.81,1,1.0,Vai jogar 100+
+2025,211,7,Calgary Flames,Yan Matveiko,F,RUS,MHL,0.53,1,0.81,Vai jogar 100+
+2025,212,7,Tampa Bay Lightning,Grant Spada,D,CAN,OHL,0.21,1,0.92,Vai jogar 100+
+2025,214,7,Colorado Avalanche,Nolan Roed,F,USA,USHL,1.2,1,1.0,Vai jogar 100+
+2025,215,7,Tampa Bay Lightning,Marco Mignosa,F,CAN,OHL,0.95,1,1.0,Vai jogar 100+
+2025,216,7,Los Angeles Kings,Will Sharpe,D,CAN,WHL,0.46,1,1.0,Vai jogar 100+
+2025,217,7,Toronto Maple Leafs,Matthew Hlacar,F,CAN,OHL,0.21,0,0.24,Não vai jogar 100+
+2025,218,7,Seattle Kraken,Loke Krantz,F,SWE,SuperElit,0.42,0,0.29,Não vai jogar 100+
+2025,219,7,Buffalo Sabres,Ryan Rucinski,F,USA,USHL,0.73,1,1.0,Vai jogar 100+
+2025,220,7,Winnipeg Jets,Jacob Cloutier,F,CAN,OHL,0.7,1,0.93,Vai jogar 100+
+2025,221,7,Carolina Hurricanes,Filip Ekberg,F,SWE,OHL,0.76,1,1.0,Vai jogar 100+
+2025,222,7,Dallas Stars,Charlie Paquette,F,CAN,OHL,0.59,1,1.0,Vai jogar 100+
+2025,223,7,Edmonton Oilers,Aidan Park,F,USA,USHS-Prep,1.25,1,1.0,Vai jogar 100+
